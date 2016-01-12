@@ -3207,6 +3207,29 @@
 		text-align: center;
 	}
 
+/* Info */
+
+	#info p {
+		margin: 0 0 0 0;
+	}
+
+	#info h1 {
+		margin: 0 0 0 0;
+	}
+
+	#info .subtext{
+		font-size: 0.8em;
+		padding: 0 0 10px 0;
+
+	}
+	#info h2{
+		margin: 0 0 0 0;
+	}
+
+	#info .info-div{
+		padding: 10px 0 10px 0;
+	}
+
 /* Sidebar */
 
 	#sidebar {
