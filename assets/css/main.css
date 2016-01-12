@@ -3226,6 +3226,10 @@
 		margin: 0 0 0 0;
 	}
 
+	.no-margin{
+		margin: 0 0 0 0;
+	}
+
 	#info .info-div{
 		padding: 10px 0 10px 0;
 	}
