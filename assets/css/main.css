@@ -1660,6 +1660,10 @@
 
 /* Blurb */
 
+	.blurb{
+		alignment: center;
+	}
+
 	.blurb h2 {
 		font-size: 0.8em;
 		margin: 0 0 1.5em 0;
@@ -3148,14 +3152,7 @@
 /* Wrapper */
 
 	#wrapper {
-		display: -moz-flex;
-		display: -webkit-flex;
-		display: -ms-flex;
-		display: flex;
-		-moz-flex-direction: row-reverse;
-		-webkit-flex-direction: row-reverse;
-		-ms-flex-direction: row-reverse;
-		flex-direction: row-reverse;
+		align-content: center;
 		-moz-transition: opacity 0.5s ease;
 		-webkit-transition: opacity 0.5s ease;
 		-ms-transition: opacity 0.5s ease;
@@ -3204,6 +3201,9 @@
 		flex-grow: 1;
 		-ms-flex: 1;
 		width: 100%;
+		alignment: center;
+		align-content: center;
+		text-align: center;
 	}
 
 /* Sidebar */
@@ -3239,12 +3239,14 @@
 		}
 
 /* Intro */
-
+	#intro {
+		alignment: center;
+	}
 	#intro .logo {
 		border-bottom: 0;
 		display: inline-block;
 		margin: 0 0 1em 0;
-		overflow: hidden;
+		overflow: visible;
 		position: relative;
 		width: 4em;
 	}
@@ -3286,7 +3288,7 @@
 		}
 
 			#intro header h2 {
-				font-size: 2em;
+				font-size: 1em;
 			}
 
 			#intro header p {
@@ -3321,7 +3323,9 @@
 	}
 
 /* Footer */
-
+	#footer{
+		alignment: center;
+	}
 	#footer .icons {
 		color: #aaaaaa;
 	}
