@@ -1,119 +1,97 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-    <title>TGC - Información</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-    <link rel="stylesheet" href="assets/css/main.css" />
-    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/angular/angular.min.js"></script>
-    <script src="assets/js/angular/tgc-template.js"></script>
+---
+title: TGC - Información
+layout: default
+---
+<!-- Main -->
+<div id="info">
 
+    <h2>Información de la Cátedra</h2>
 
-</head>
-<body ng-app='tgc'>
+    <h1 class="subtext">2° Cuatrimestre 2015</h1>
 
-    <!-- Wrapper -->
-    <div id="wrapper">
+    <ul>
+        <li>
+            <div class="info-div">
+                <h1>General</h1>
+                <p>Titulo: Técnicas de Gráficos por Computadora</p>
+                <p>Año: 3°</p>
+                <p>Código: 082066</p>
+                <p>Carga horaria: 4hs semanales (19:00 a 22:15)</p>
+                <p>Dias: Jueves</p>
+                <p>Turno: Noche</p>
+                <p>Aula:  A confirmar (Medrano)</p>
+            </div>
+        </li>
+        <li>
+            <div class="info-div">
+                <h1>Correlatividades</h1>
+                <ul class="no-margin">
+                    <li>
+                        <h1>Para cursar</h1>
+                        <p>Regularizadas: Análisis de Sistemas</p>
+                        <p>Aprobadas: Paradigmas de Programación</p>
+                    </li>
+                    <li>
+                        <h1>Para rendir final</h1>
+                        <p>Aprobadas: Análisis de Sistemas</p>
+                    </li>
+                </ul>
+            </div>
+        </li>
+        <li>
+            <div class="info-div">
+                <h1>Docentes</h1>
+                <p>Ing. Mariano Banquiero</p>
+                <p>Ing. Matias Leone</p>
+                <p>Ing. Leandro Barbagallo</p>
+            </div>
+        </li>
+        <li>
+            <div class="info-div">
+                <h1>Forma de comunicación</h1>
+                <p>Anuncios en clase</p>
+                <p>Anuncios por medio del <a href="http://groups.google.com/group/TecnicasDeGraficosPorComputadora">Grupo Google</a></p>
+            </div>
+        </li>
+        <li>
+            <div class="info-div">
+                <h1>Material de Estudio</h1>
+                <p>Apuntes provistos por la cátedra</p>
+                <p>Material complementario disponible en el <a href="material.html">Sitio</a></p>
+            </div>
+        </li>
+        <li>
+            <div class="info-div">
+                <h1>Objetivos de la materia</h1>
+                <p> El objetivo del curso de Técnicas de Gráficos por Computadora es que el alumno logre:</p>
+                <p>*~Conocer y dominar las distintas técnicas comúnmente utilizadas en la actualidad para la construcción de aplicaciones gráficas en computadoras, como así también aquellas que podrían ser utilizadas en el futuro, sentando las bases para la investigación posterior por parte del alumno devenido en profesional de la materia.</p>
+                <p>*~Comprender las tendencias actuales y futuras del mercado de desarrollo gráfico, fomentando a la vez la formación de ideas propias que le permitan aprovechar las herramientas y conceptos más útiles en cada caso, independientemente de la herramienta “de moda”.</p>
+                <p>*~Adquirir la capacidad de incorporar distintos tipos de algoritmos y técnicas para el proceso de desarrollo de aplicaciones gráficas, considerando: Comprender la importancia de la calidad y la optimización de las aplicaciones, sobre las bases del funcionamiento técnico y conceptual de herramientas de construcción de software gráfico, con el objetivo de optimizar su valor, entender e incorporar los conceptos de diseño utilizados en la construcción de distintas herramientas aprovechando  las bases conceptuales que guían un modelo sobre un conjunto de herramientas dado, extender y/o modificar las herramientas que así lo permitan y sentar las bases para la construcción de sus propias herramientas de desarrollo.</p>
+            </div>
+        </li>
+        <li>
+            <div class="info-div">
+                <h1>Unidades</h1>
+                <ol type="1" class="no-margin">
+                    <li>Conceptos Básicos de 2D</li>
+                    <li>Conceptos Avanzados de 2D</li>
+                    <li>Conceptos Básicos de 3D</li>
+                    <li>Texturas e Iluminación</li>
+                    <li>Animación</li>
+                    <li>Detección de Colisiones</li>
+                    <li>Técnicas de Optimización</li>
+                    <li>Adaptadores de Video</li>
+                </ol>
+            </div>
+        </li>
+        <li>
+            <div class="info-div">
+                <h1>Metodología de Evaluación</h1>
+                <p>Un trabajo práctico grupal.</p>
+                <p>Un examen parcial, dos recuperatorios.</p>
+                <p>Final</p>
+            </div>
+        </li>
+    </ul>
+</div>
 
-        <menu></menu>
-
-        <!-- Main -->
-        <div id="info">
-
-            <h2>Información de la Cátedra</h2>
-
-            <h1 class="subtext">2° Cuatrimestre 2015</h1>
-
-            <ul>
-                <li>
-                    <div class="info-div">
-                        <h1>General</h1>
-                        <p>Titulo: Técnicas de Gráficos por Computadora</p>
-                        <p>Año: 3°</p>
-                        <p>Código: 082066</p>
-                        <p>Carga horaria: 4hs semanales (19:00 a 22:15)</p>
-                        <p>Dias: Jueves</p>
-                        <p>Turno: Noche</p>
-                        <p>Aula:  A confirmar (Medrano)</p>
-                    </div>
-                </li>
-                <li>
-                    <div class="info-div">
-                        <h1>Correlatividades</h1>
-                        <ul class="no-margin">
-                            <li>
-                                <h1>Para cursar</h1>
-                                <p>Regularizadas: Análisis de Sistemas</p>
-                                <p>Aprobadas: Paradigmas de Programación</p>
-                            </li>
-                            <li>
-                                <h1>Para rendir final</h1>
-                                <p>Aprobadas: Análisis de Sistemas</p>
-                            </li>
-                        </ul>
-                    </div>
-                </li>
-                <li>
-                    <div class="info-div">
-                        <h1>Docentes</h1>
-                        <p>Ing. Mariano Banquiero</p>
-                        <p>Ing. Matias Leone</p>
-                        <p>Ing. Leandro Barbagallo</p>
-                    </div>
-                </li>
-                <li>
-                    <div class="info-div">
-                        <h1>Forma de comunicación</h1>
-                        <p>Anuncios en clase</p>
-                        <p>Anuncios por medio del <a href="http://groups.google.com/group/TecnicasDeGraficosPorComputadora">Grupo Google</a></p>
-                    </div>
-                </li>
-                <li>
-                    <div class="info-div">
-                        <h1>Material de Estudio</h1>
-                        <p>Apuntes provistos por la cátedra</p>
-                        <p>Material complementario disponible en el <a href="material.html">Sitio</a></p>
-                    </div>
-                </li>
-                <li>
-                    <div class="info-div">
-                        <h1>Objetivos de la materia</h1>
-                        <p> El objetivo del curso de Técnicas de Gráficos por Computadora es que el alumno logre:</p>
-                        <p>*~Conocer y dominar las distintas técnicas comúnmente utilizadas en la actualidad para la construcción de aplicaciones gráficas en computadoras, como así también aquellas que podrían ser utilizadas en el futuro, sentando las bases para la investigación posterior por parte del alumno devenido en profesional de la materia.</p>
-                        <p>*~Comprender las tendencias actuales y futuras del mercado de desarrollo gráfico, fomentando a la vez la formación de ideas propias que le permitan aprovechar las herramientas y conceptos más útiles en cada caso, independientemente de la herramienta “de moda”.</p>
-                        <p>*~Adquirir la capacidad de incorporar distintos tipos de algoritmos y técnicas para el proceso de desarrollo de aplicaciones gráficas, considerando: Comprender la importancia de la calidad y la optimización de las aplicaciones, sobre las bases del funcionamiento técnico y conceptual de herramientas de construcción de software gráfico, con el objetivo de optimizar su valor, entender e incorporar los conceptos de diseño utilizados en la construcción de distintas herramientas aprovechando  las bases conceptuales que guían un modelo sobre un conjunto de herramientas dado, extender y/o modificar las herramientas que así lo permitan y sentar las bases para la construcción de sus propias herramientas de desarrollo.</p>
-                    </div>
-                </li>
-                <li>
-                    <div class="info-div">
-                        <h1>Unidades</h1>
-                        <ol type="1" class="no-margin">
-                            <li>Conceptos Básicos de 2D</li>
-                            <li>Conceptos Avanzados de 2D</li>
-                            <li>Conceptos Básicos de 3D</li>
-                            <li>Texturas e Iluminación</li>
-                            <li>Animación</li>
-                            <li>Detección de Colisiones</li>
-                            <li>Técnicas de Optimización</li>
-                            <li>Adaptadores de Video</li>
-                        </ol>
-                    </div>
-                </li>
-                <li>
-                    <div class="info-div">
-                        <h1>Metodología de Evaluación</h1>
-                        <p>Un trabajo práctico grupal.</p>
-                        <p>Un examen parcial, dos recuperatorios.</p>
-                        <p>Final</p>
-                    </div>
-                </li>
-            </ul>
-        </div>
-    </div>
-
-    </body>
-    </html>
