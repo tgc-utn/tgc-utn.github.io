@@ -17,7 +17,7 @@ $ gem install jekyll
 Siguiendo estos pasos vamos a poder copiar el repositorio a la computadora y construir / levantar el sitio:
 
 ```bash
-$ git clone https://github.com/atom/electron.atom.io.git
+$ git clone https://github.com/tgc-utn/tgc-utn.github.io.git
 $ cd tgc-utn.github.io
 $ jekyll serve
 ~/tgc-utn.github.io $ jekyll serve
