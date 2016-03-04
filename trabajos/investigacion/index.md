@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Trabajos de investigación
 permalink: /trabajos/investigacion/
 ---
 Trabajos de investigación desarrollados por los alumnos de la materia

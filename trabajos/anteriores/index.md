@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trabajos prácticos anteriores
 permalink: /trabajos/anteriores/
 ---
 
+## Trabajos prácticos anteriores

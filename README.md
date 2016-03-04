@@ -25,4 +25,5 @@ $ jekyll serve
 ```
 ### Edición
 Completar esta sección :laughing:
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Markdown editor](http://dillinger.io/)

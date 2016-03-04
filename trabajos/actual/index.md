@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Trabajo práctico
 permalink: /trabajos/practico/
 ---
-TP CUATRIMESTRE ACTUAL
+Trabajo Práctico CUATRIMESTRE ACTUAL
 
 Documentos (leer todos, en el siguiente orden)
 

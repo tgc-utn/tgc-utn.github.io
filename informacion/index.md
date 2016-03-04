@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Información de la cátedra
-permalink: /informacioncatedra/
+permalink: /informacion/
 ---
 
 ## Técnicas de Gráficos por Computadora
