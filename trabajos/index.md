@@ -8,4 +8,4 @@ permalink: /trabajos/
 * [Trabajos de Investigación: papers y temas investigados por alumnos](/trabajos/investigacion/)
 
 ### Histórico
-Proximamente... :smile:
+Proximamente...
