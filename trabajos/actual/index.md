@@ -1,0 +1,82 @@
+---
+layout: page
+permalink: /trabajos/actual/
+---
+## Trabajo Práctico CUATRIMESTRE ACTUAL
+
+![Logo](/images/robotgc.png)
+
+### Documentos (leer todos, en el siguiente orden)
+
+* [Enunciado del TP](https://drive.google.com/file/d/0B-mVMTBAay-gUlhfRV9kSndFSDQ/edit?usp=sharing) (Actualizado en 19/08/2014)
+* [Guía de TgcViewer](https://drive.google.com/file/d/0B-mVMTBAay-gRWNOdTZ5N0dqbTQ/edit?usp=sharing) (Actualizado en 25/03/2014)
+* [Guía de MeshCreator](https://drive.google.com/file/d/0B-mVMTBAay-gMnBGMFJFdnQ3WTg/edit?usp=sharing) (Actualizado en 25/03/2014)
+* [Guía de 3Ds Max](https://docs.google.com/file/d/0B-mVMTBAay-gY1ZkejFCeFdkMlU/edit?usp=sharing) (Actualizado en 17/03/2013)
+* [Guía TerrainEditor](https://docs.google.com/file/d/0B-mVMTBAay-gMC13dWNCemtSeUU/edit?usp=sharing) (Actualizado en 19/08/2013)
+
+### Downloads
+
+* [Framework TgcViewer para el TP](https://github.com/tgc-utn/tgc-viewer/releases/tag/v1.0.1)
+* [Visual Studio Community Edition](https://www.visualstudio.com/es-ar/products/visual-studio-community-vs)
+* [DirectX SDK](http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=6812) (última versión Junio 2010, 570 mb.)
+* [3Ds Max](http://www.autodesk.com/education/free-software/3ds-max) (Academic version)
+
+### Grupos
+
+* Dar de alta tu grupo: [Aquí](https://docs.google.com/forms/d/1MX3tvmLXd8n09fUYfDrQJAQeDadmYAp6Yy1-1MxJuIk/viewform)
+
+### Sugerencias
+
+* Subir sugerencias o bugs sobre el Framework: [Aquí](https://github.com/tgc-utn/tgc-viewer/issues)
+
+### Repositorio
+
+* [TGCViewer](https://github.com/tgc-utn/tgc-viewer)
+
+No se recomienda utilizar la última versión del framework para el TP, descargar el enlace de arriba. En el repositorio se van agrando las últimas mejoras para futuros cuatrimestres, pero no para la cursada actual.
+
+### Enlaces sobre C#:
+
+* [Tutorial C# (español)](http://www.devjoker.com/asp/indice_contenido.aspx?co_grupo=TUCS)
+* [Tutorial C# (inglés)](http://www.java2s.com/Tutorial/CSharp/CatalogCSharp.htm)
+* [Libro Pro C# 2008 and the .NET 3.5 platform](http://books.google.com/books?id=VGT1_UJzjM0C&printsec=frontcover&dq=c%23+pro&hl=es&ei=r4VgTKCfHYK78gb45py2DQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCsQ6AEwAA#v=onepage&q&f=false)
+
+# Enlaces sobre DirectX:
+
+* [Ayuda de Managed DirectX (MSDN inglés)](http://msdn.microsoft.com/en-us/library/bb318658%28VS.85%29.aspx)
+* [Ejemplos Managed DirectX (para .NET)](http://www.mdxinfo.com/tutorials.php)
+* [Programación de Shaders](http://msdn.microsoft.com/en-us/library/bb944006%28v=VS.85%29.aspx)
+* [Ejemplos DirectX (para C++)](http://www.codesampler.com/dx9src.htm)
+* [Libro Managed DirectX 9 Kick Start](http://books.google.com.ar/books?id=8Y4VrGBtGM8C&dq=Managed+DirectX+9+Kick+Start&printsec=frontcover&source=bn&hl=es&ei=MwNWTPuBHsKB8gb0nYyTBQ&sa=X&oi=book_result&ct=result&resnum=4&ved=0CC8Q6AEwAw#v=onepage&q&f=false)
+* [Libro Begining DirectX 9](http://books.google.com.ar/books?id=n0hcRvDniVQC&printsec=frontcover&dq=Beginning+DirectX+9&hl=es&ei=jwZWTLihAsKB8gadm4yTBQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCcQ6AEwAA#v=onepage&q&f=false)
+* [Libro DirectX 9 graphics](http://books.google.com/books?id=CE-nxZ2JfS8C&printsec=frontcover&dq=directx+9&hl=es&ei=vYRgTMW4OMO88ga5irHCDQ&sa=X&oi=book_result&ct=result&resnum=2&ved=0CC0Q6AEwAQ#v=onepage&q&f=false)
+* [Tutorial de Shaders HLSL](http://rbwhitaker.wikidot.com/hlsl-tutorials)
+* [Foro de GameDev](http://www.gamedev.net/index)
+
+### Diseño 3D:
+
+* Libros:
+  * [Libro Modeling a Character in 3Ds Max](http://books.google.com.ar/books?id=w_KLe1AylhEC&printsec=frontcover&dq=3d+max+character&hl=es&ei=hAdWTNOVFIK78gbazaHABA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC8Q6AEwAA#v=onepage&q=3d%20max%20character&f=false)
+  * [Libro 3Ds Max Modeling for Games](http://books.google.com.ar/books?id=G7cgPVJ06nMC&printsec=frontcover&dq=3d+max+character&hl=es&ei=hAdWTNOVFIK78gbazaHABA&sa=X&oi=book_result&ct=result&resnum=2&ved=0CDQQ6AEwAQ#v=onepage&q=3d%20max%20character&f=false)
+* Modelos:
+  * [Modelos Low-Poly](http://www.3d-animation.com.ar/free_3d_models_index.php)
+  * [Models Low-Poly en formato MD2](http://www.md2.sitters-electronics.nl/)
+  * [Modelos 3D](http://www.creativecrash.com/3dmodels)
+* Texturas:
+  * [Texturas del juego Ryzom](http://media.ryzom.com/?query=texture%20image%20tile&start=580)
+  * [Banco de texturas](http://www.cgtextures.com/)
+  * [Texturas de SkyBox](http://www.3delyvisions.com/skf1.htm)
+  * [Texturas de SkyBox 2](http://www.hazelwhorley.com/textures.html)
+* Tutoriales:
+  * [Modelado de personaje Low-Poly](http://www.3dtotal.com/team/Tutorials_3/low_poly_character/low_poly_01.php)
+  * [Modelado de personaje Low-Poly 2](http://www.3dtotal.com/team/Tutorials/discmage/discmage1.php)
+  * [Modelado, texturado y animación Low-Poly](http://www.3dk.org/tutorial/Modeling-Texturing-and-Animating-low-poly-Lara-Croft-in-3ds-max-Part-I-.html)
+  * [Videos y tutoriales varios](http://www.poopinmymouth.com/tutorial/tutorial.htm)
+  * [Modelado de una casa Low-Poly en 3D](http://www.max-realms.com/modules/tutorials/house_tut1.php)
+* Videos con tutoriales:
+  * [Tutoriales sobre uso general de 3Ds MAX](http://www.youtube.com/view_play_list?p=A12BF2F8CC489A50)
+  * [Treasure Chest 3D Modeling](http://www.youtube.com/watch?v=EP-hC31eCYw)
+  * [3Ds Max Modeling for Games](http://www.youtube.com/watch?v=zA3zngtUbsU)
+  * [Modeling Guitar 3D](http://www.youtube.com/watch?v=FjEBueXCBNQ)
+  * [3Ds Max Character Modeling](http://www.youtube.com/watch?v=1NWHUOvo69w&feature=related)
+  * [Skinning Tutorial](http://www.youtube.com/watch?v=gcHeHv3i7oY)
