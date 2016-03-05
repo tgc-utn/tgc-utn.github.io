@@ -2,36 +2,47 @@
 layout: page
 permalink: /trabajos/investigacion/
 ---
-Trabajos de investigación desarrollados por los alumnos de la materia
+## Trabajos de investigación desarrollados por los alumnos de la materia
 
-Grupo de Investigacion de gráficos por Computadora  (GIGC)   http://gigcutn.com.ar/
+### Grupo de Investigacion de gráficos por Computadora  (GIGC)   http://gigcutn.com.ar/
 
-Port de TgcViewer a WebGL
+### Port de TgcViewer a WebGL
 Beta
-Autor: Matías Leone
-Link al Repositorio
-Blog de Investigación sobre Gráficos
 
-Autor: Mariano Banquiero
-Cursada: 2010 1C
+![Logo](/images/webgl.png)
+
+* Autor: [Matías Leone](https://github.com/leonematias)
+* Repositorio: [TgcViewer-WebGL](https://github.com/leonematias/TgcViewer-WebGL)
+
+### Blog de Investigación sobre Gráficos
+
+![Logo](/images/MarianoBanquiero.jpg)
+
+* Autor: [Mariano Banquiero](https://github.com/mbanquiero)
+* Cursada: 2010 1C
 
 Sus proyectos de investigación sirven como base para la creación de nuevas herramietnas en el Framework de la materia.
 
-Link al Blog
+[Blog](http://poke53265.blogspot.com/)
 
-Construcción de un Convex Hull
+### Construcción de un Convex Hull
 
-Autor: Gabriel Denk
-Cursada: 2010 1C
+![Logo](/images/ConvexHull.jpg)
+![Logo](/images/GabrielDenk.jpg)
 
-Descargar (Paper y Código Fuente)
+* Autor: Gabriel Denk
+* Cursada: 2010 1C
 
-
-Física de cuerpo rígido en esferas
-
-Autor: Rodrigo Garcia
-Cursada: 2010 2C
-Video de la investigación
+[Descargar](https://docs.google.com/leaf?id=0B-mVMTBAay-gZTI2YzliZjItMTBmZi00NThhLWIwNGItOTgwZWJiZTEzYjRh&hl=es&authkey=CI2x2ZoJ) (Paper y Código Fuente)
 
 
-(Código disponible dentro de los Trabajos Prácticos de 2C-2010)
+### Física de cuerpo rígido en esferas
+
+![Logo](/images/particulas.jpg)
+![Logo](/images/RodrigoGarcia.jpg)
+
+* Autor: [Rodrigo Garcia](https://github.com/mysery)
+* Cursada: 2010 2C
+* Repositorio: [UTNPhysicsEngine](https://github.com/mysery/UTNPhysicsEngine)
+* Video de la investigación:
+<iframe width="420" height="315" src="https://www.youtube.com/embed/E7FBu2GnADo" frameborder="0" allowfullscreen></iframe>
