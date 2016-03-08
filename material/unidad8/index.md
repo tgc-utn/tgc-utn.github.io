@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /clases/unidad8/
+permalink: /material/unidad8/
 ---
 ## Unidad 8 - Adaptadores de Video
 

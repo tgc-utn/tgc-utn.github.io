@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/unidad5/
+permalink: /material/unidad5/
 ---
 ## Unidad 5 - Animación
 

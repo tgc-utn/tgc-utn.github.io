@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/unidad1/
+permalink: /material/unidad1/
 ---
 ## Unidad 1 - Conceptos Básicos de 2D
 

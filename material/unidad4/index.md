@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/unidad4/
+permalink: /material/unidad4/
 ---
 ## Unidad 4 - Texturas e Iluminación
 

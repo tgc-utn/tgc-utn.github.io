@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/unidad7/
+permalink: /material/unidad7/
 ---
 ## Unidad 7 - Técnicas de Optimización
 

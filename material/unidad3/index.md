@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/unidad3/
+permalink: /material/unidad3/
 ---
 ## Unidad 3 - Conceptos Básicos de 3D
 

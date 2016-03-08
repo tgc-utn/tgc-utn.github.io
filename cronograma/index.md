@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Cronograma
 permalink: /clases/cronograma/
 ---
 
@@ -26,11 +27,9 @@ td{
 
 </style>
 
-## Cronograma de clases
+* [Calendario Académico](http://www.frba.utn.edu.ar/calendario-academico.html)
 
-### [Calendario Académico](http://www.frba.utn.edu.ar/calendario-academico.html)
-
-### Calendario de la cursada
+## Calendario de la cursada
 
 | Clase | Fecha              | Actividad |
 |:-----:|:------------------:|-----------|

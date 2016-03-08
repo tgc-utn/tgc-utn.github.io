@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/unidad6/
+permalink: /material/unidad6/
 ---
 ## Unidad 6 - Detección de Colisiones
 

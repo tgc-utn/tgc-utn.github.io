@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Clases
-permalink: /clases/
+title: Material
+permalink: /material/
 ---
 
-## [Cronograma de clases](/clases/cronograma/)
+## Unidades
 
 * [Unidad 1 - Conceptos Básicos de 2D](/clases/unidad1/)
 * [Unidad 2 - Conceptos Avanzados de 2D](/clases/unidad2/)
@@ -14,3 +14,8 @@ permalink: /clases/
 * [Unidad 6 - Detección de Colisiones](/clases/unidad6/)
 * [Unidad 7 - Técnicas de Optimización](/clases/unidad7/)
 * [Unidad 8 - Adaptadores de Video](/clases/unidad8/)
+
+## Práctica
+
+* [Ejercicios de parcial](https://drive.google.com/file/d/0BxUJZewaWJ7mWUZraFJXVmJqNUk/view?usp=sharing)
+* [Ejercicios adicionales](https://drive.google.com/file/d/0BxUJZewaWJ7mYk1aQ2Y2Y08wSUE/view?usp=sharing)

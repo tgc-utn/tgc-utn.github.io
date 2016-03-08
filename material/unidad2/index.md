@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/unidad2/
+permalink: /material/unidad2/
 ---
 
 ## Unidad 2 - Conceptos Avanzados de 2D
