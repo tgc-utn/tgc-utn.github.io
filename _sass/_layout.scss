@@ -93,13 +93,13 @@
 }
 
 
-
 /**
  * Site footer
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    text-align: center;
 }
 
 .footer-heading {
@@ -111,7 +111,6 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
-    text-align: center;
 }
 
 .social-media-list li {
@@ -168,12 +167,12 @@
 }
 
 
-
 /**
  * Page content
  */
 .page-content {
     padding: $spacing-unit 0;
+    text-align: center;
 }
 
 .page-heading {
@@ -198,7 +197,6 @@
     display: block;
     font-size: 24px;
 }
-
 
 
 /**
