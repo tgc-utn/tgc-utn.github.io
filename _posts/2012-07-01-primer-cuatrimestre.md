@@ -16,3 +16,9 @@ categories: anteriores
 ![Antigravity](/images/20121c/antigravity.jpg)
 
 ### Grupo Nerv - Juego de Rol
+
+![Nerv](/images/20121c/nerv.jpg)
+
+### Los Unicos - Aventuras
+
+![LosUnicos](/images/20121c/losunicos.jpg)
