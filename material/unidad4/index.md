@@ -4,7 +4,7 @@ permalink: /material/unidad4/
 ---
 ## Unidad 4 - Texturas e Iluminación
 
-![Unidad 4](/images/unidad4.jpg)
+![Unidad 4](/images/unidades/unidad4.jpg)
 
 ### Apunte
 

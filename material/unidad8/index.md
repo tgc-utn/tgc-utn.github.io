@@ -4,7 +4,7 @@ permalink: /material/unidad8/
 ---
 ## Unidad 8 - Adaptadores de Video
 
-![Unidad 8](/images/unidad8.jpg)
+![Unidad 8](/images/unidades/unidad8.jpg)
 
 ### Apunte
 

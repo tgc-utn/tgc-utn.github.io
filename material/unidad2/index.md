@@ -5,7 +5,7 @@ permalink: /material/unidad2/
 
 ## Unidad 2 - Conceptos Avanzados de 2D
 
-![Unidad 2](/images/unidad2.jpg)
+![Unidad 2](/images/unidades/unidad2.jpg)
 
 ### Apunte
 

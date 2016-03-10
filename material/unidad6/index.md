@@ -4,7 +4,7 @@ permalink: /material/unidad6/
 ---
 ## Unidad 6 - Detección de Colisiones
 
-![Unidad 6](/images/unidad6.jpg)
+![Unidad 6](/images/unidades/unidad6.jpg)
 
 ### Apunte
 

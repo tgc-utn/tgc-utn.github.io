@@ -4,7 +4,7 @@ permalink: /material/unidad5/
 ---
 ## Unidad 5 - Animación
 
-![Unidad 5](/images/unidad5.jpg)
+![Unidad 5](/images/unidades/unidad5.jpg)
 
 ### Apunte
 

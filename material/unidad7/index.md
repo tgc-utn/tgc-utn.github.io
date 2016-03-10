@@ -4,7 +4,7 @@ permalink: /material/unidad7/
 ---
 ## Unidad 7 - Técnicas de Optimización
 
-![Unidad 7](/images/unidad7.jpg)
+![Unidad 7](/images/unidades/unidad7.jpg)
 
 ### Apunte
 

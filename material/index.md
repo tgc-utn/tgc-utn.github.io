@@ -6,14 +6,14 @@ permalink: /material/
 
 ## Unidades
 
-* [Unidad 1 - Conceptos Básicos de 2D](/clases/unidad1/)
-* [Unidad 2 - Conceptos Avanzados de 2D](/clases/unidad2/)
-* [Unidad 3 - Conceptos Básicos de 3D](/clases/unidad3/)
-* [Unidad 4 - Texturas e Iluminación](/clases/unidad4/)
-* [Unidad 5 - Animación](/clases/unidad5/)
-* [Unidad 6 - Detección de Colisiones](/clases/unidad6/)
-* [Unidad 7 - Técnicas de Optimización](/clases/unidad7/)
-* [Unidad 8 - Adaptadores de Video](/clases/unidad8/)
+* [Unidad 1 - Conceptos Básicos de 2D](/material/unidad1/)
+* [Unidad 2 - Conceptos Avanzados de 2D](/material/unidad2/)
+* [Unidad 3 - Conceptos Básicos de 3D](/material/unidad3/)
+* [Unidad 4 - Texturas e Iluminación](/material/unidad4/)
+* [Unidad 5 - Animación](/material/unidad5/)
+* [Unidad 6 - Detección de Colisiones](/material/unidad6/)
+* [Unidad 7 - Técnicas de Optimización](/material/unidad7/)
+* [Unidad 8 - Adaptadores de Video](/material/unidad8/)
 
 ## Práctica
 

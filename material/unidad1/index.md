@@ -4,7 +4,7 @@ permalink: /material/unidad1/
 ---
 ## Unidad 1 - Conceptos Básicos de 2D
 
-![Unidad 1](/images/unidad1.jpg)
+![Unidad 1](/images/unidades/unidad1.jpg)
 
 ### Apunte
 

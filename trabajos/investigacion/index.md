@@ -9,14 +9,14 @@ permalink: /trabajos/investigacion/
 ### Port de TgcViewer a WebGL
 Beta
 
-![Logo](/images/webgl.png)
+![Logo](/images/investigacion/webgl.png)
 
 * Autor: [Matías Leone](https://github.com/leonematias)
 * Repositorio: [TgcViewer-WebGL](https://github.com/leonematias/TgcViewer-WebGL)
 
 ### Blog de Investigación sobre Gráficos
 
-![Logo](/images/MarianoBanquiero.jpg)
+![Logo](/images/investigacion/MarianoBanquiero.jpg)
 
 * Autor: [Mariano Banquiero](https://github.com/mbanquiero)
 * Cursada: 2010 1C
@@ -27,8 +27,8 @@ Sus proyectos de investigación sirven como base para la creación de nuevas her
 
 ### Construcción de un Convex Hull
 
-![Logo](/images/ConvexHull.jpg)
-![Logo](/images/GabrielDenk.jpg)
+![Logo](/images/investigacion/ConvexHull.jpg)
+![Logo](/images/investigacion/GabrielDenk.jpg)
 
 * Autor: Gabriel Denk
 * Cursada: 2010 1C
@@ -38,8 +38,8 @@ Sus proyectos de investigación sirven como base para la creación de nuevas her
 
 ### Física de cuerpo rígido en esferas
 
-![Logo](/images/particulas.jpg)
-![Logo](/images/RodrigoGarcia.jpg)
+![Logo](/images/investigacion/particulas.jpg)
+![Logo](/images/investigacion/RodrigoGarcia.jpg)
 
 * Autor: [Rodrigo Garcia](https://github.com/mysery)
 * Cursada: 2010 2C

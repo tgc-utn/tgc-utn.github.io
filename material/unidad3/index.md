@@ -4,7 +4,7 @@ permalink: /material/unidad3/
 ---
 ## Unidad 3 - Conceptos Básicos de 3D
 
-![Unidad 3](/images/unidad3.png)
+![Unidad 3](/images/unidades/unidad3.png)
 
 ### Apunte
 
