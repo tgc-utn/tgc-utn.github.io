@@ -7,7 +7,8 @@ categories: anteriores
 Grupo Antigravity - Crash Bandicoot
 
 
-YouTube Video
+Video del TP
+<iframe width="425" height="355" src="https://www.youtube.com/embed/4vRUokNF4yQ" frameborder="0" allowfullscreen></iframe>
 
 
 Grupo Nerv - Juego de Rol

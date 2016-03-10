@@ -7,7 +7,8 @@ categories: anteriores
 Grupo Challenge Accepted - Bote en el agua
 
 
-YouTube Video
+Video del TP
+<iframe width="425" height="355" src="https://www.youtube.com/embed/tx6Oqt3ZmxU" frameborder="0" allowfullscreen></iframe>
 
 
 Grupo Manoja - Juego de pelea
