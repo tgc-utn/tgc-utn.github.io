@@ -17,8 +17,8 @@ categories: anteriores
 
 ### Grupo Nerv - Juego de Rol
 
-![Nerv](/images/20121c/nerv.jpg)
+![Nerv](/images/20121c/nerv.png)
 
 ### Los Unicos - Aventuras
 
-![LosUnicos](/images/20121c/losunicos.jpg)
+![LosUnicos](/images/20121c/losunicos.png)
