@@ -12,6 +12,7 @@ permalink: /trabajos/actual/
 * [Guía de TgcViewer](https://drive.google.com/file/d/0B-mVMTBAay-gRWNOdTZ5N0dqbTQ/edit?usp=sharing) (Actualizado en 25/03/2014)
 * [Guía de MeshCreator](https://drive.google.com/file/d/0B-mVMTBAay-gMnBGMFJFdnQ3WTg/edit?usp=sharing) (Actualizado en 25/03/2014)
 * [Guía de 3Ds Max](https://docs.google.com/file/d/0B-mVMTBAay-gY1ZkejFCeFdkMlU/edit?usp=sharing) (Actualizado en 17/03/2013)
+* [Guía de exportador de SketchUp](https://drive.google.com/file/d/0BxUJZewaWJ7mTkluTjI0ZEMzTTg/view?usp=sharing) (Actualizado en 01/08/2015)
 * [Guía TerrainEditor](https://docs.google.com/file/d/0B-mVMTBAay-gMC13dWNCemtSeUU/edit?usp=sharing) (Actualizado en 19/08/2013)
 
 ### Downloads
@@ -20,6 +21,8 @@ permalink: /trabajos/actual/
 * [Visual Studio Community Edition](https://www.visualstudio.com/es-ar/products/visual-studio-community-vs)
 * [DirectX SDK](http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=6812) (última versión Junio 2010, 570 mb.)
 * [3Ds Max](http://www.autodesk.com/education/free-software/3ds-max) (Academic version)
+* [SketchUp](http://www.sketchup.com/)
+* [Exportador de SketchUp](https://drive.google.com/file/d/0BxUJZewaWJ7mWk5wLTIzcUZJSWc/view?usp=sharing) (beta)
 
 ### Grupos
 
