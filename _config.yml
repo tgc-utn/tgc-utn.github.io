@@ -20,3 +20,6 @@ youtube_username: tgcentregas
 
 # Build settings
 markdown: kramdown
+
+# For Travisci
+exclude: [vendor]
