@@ -4,10 +4,10 @@ permalink: /trabajos/investigacion/
 ---
 ## Trabajos de investigación desarrollados por los alumnos de la materia
 
-### Grupo de Investigacion de gráficos por Computadora  (GIGC)   http://gigcutn.com.ar/
+### Grupo de Investigación de gráficos por Computadora  
+* [GIGC](https://github.com/gigc)
 
-### Port de TgcViewer a WebGL
-Beta
+### Port de TgcViewer a WebGL (Beta)
 
 ![Logo](/images/investigacion/webgl.png)
 
@@ -21,7 +21,7 @@ Beta
 * Autor: [Mariano Banquiero](https://github.com/mbanquiero)
 * Cursada: 2010 1C
 
-Sus proyectos de investigación sirven como base para la creación de nuevas herramietnas en el Framework de la materia.
+Sus proyectos de investigación sirven como base para la creación de nuevas herramientas en el Framework de la materia.
 
 [Blog](http://poke53265.blogspot.com/)
 

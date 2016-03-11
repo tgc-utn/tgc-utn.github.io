@@ -26,16 +26,17 @@ permalink: /informacion/
    * Para rendir final
        * Aprobadas: Análisis de Sistemas
 
-##### Docentes
+#### Docentes
 
    * Ing. Mariano Banquiero
+   * Ing. Martín Giachetti
    * Ing. Matias Leone  
    * Ing. Leandro Barbagallo  
 
 #### Forma de comunicación
 
    * Anuncios en clase
-   * Anuncios por medio del grupo Google -  [TecnicasDeGraficosPorComputadora](http://groups.google.com/group/tecnicasdegraficosporcomputadora)
+   * Anuncios por medio del grupo Google - [TecnicasDeGraficosPorComputadora](http://groups.google.com/group/tecnicasdegraficosporcomputadora)
 
 #### Material de Estudio
 
@@ -44,7 +45,7 @@ permalink: /informacion/
    * Bibliografía complementaria:
        * Real-Time Rendering, 3rd Edition - Tomas Akenine-Moller, Eric Haines, Naty Hoffman - AK Peters
        * Real-Time Collision Detection - Christer Ericson, Morgan Kauffman
-       * Computer Graphics with OpenGL   Hearn, Baker. Prentice-Hall.
+       * Computer Graphics with OpenGL - Hearn, Baker. Prentice-Hall.
        * Advanced Graphics Programming using Opengl, Morgan Kauffman
        * Core Techniques and Algorithms in Game Programming: Daniel Sánchez-Crespo Dalmau
        * Mathematics for Game Developers, Christopher Tremblay, Premier Press
