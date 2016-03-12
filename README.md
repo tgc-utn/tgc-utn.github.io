@@ -1,4 +1,4 @@
-# tgc-utn.github.io ![Build Status](https://travis-ci.org/tgc-utn/tgc-utn.github.io.svg?branch=master).
+# tgc-utn.github.io [![Build Status](https://travis-ci.org/tgc-utn/tgc-utn.github.io.svg?branch=master)](https://travis-ci.org/tgc-utn/tgc-utn.github.io)
 
 Repositorio de la página web de [TGC](http://tgc-utn.github.io/).
 
