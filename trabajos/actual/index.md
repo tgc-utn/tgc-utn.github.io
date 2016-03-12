@@ -67,8 +67,8 @@ No se recomienda utilizar la última versión del framework para el TP, descarga
   * [Modelos 3D](http://www.creativecrash.com/3dmodels)
 * Texturas:
   * [Banco de texturas](http://www.cgtextures.com/)
-  * [Texturas de SkyBox](http://www.3delyvisions.com/skf1.htm)
-  * [Texturas de SkyBox 2](http://www.hazelwhorley.com/textures.html)
+  * [Texturas de SkyBox](http://www.hazelwhorley.com/textures.html)
+  * [Texturas de SkyBox 2](http://www.custommapmakers.org/skyboxes.php)
 * Tutoriales:
   * [Modelado de personaje Low-Poly](http://www.3dtotal.com/team/Tutorials_3/low_poly_character/low_poly_01.php)
   * [Modelado de personaje Low-Poly 2](http://www.3dtotal.com/team/Tutorials/discmage/discmage1.php)
