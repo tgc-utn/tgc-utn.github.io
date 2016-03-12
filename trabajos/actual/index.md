@@ -66,7 +66,6 @@ No se recomienda utilizar la última versión del framework para el TP, descarga
   * [Models Low-Poly en formato MD2](http://www.md2.sitters-electronics.nl/)
   * [Modelos 3D](http://www.creativecrash.com/3dmodels)
 * Texturas:
-  * [Texturas del juego Ryzom](http://media.ryzom.com/?query=texture%20image%20tile&start=580)
   * [Banco de texturas](http://www.cgtextures.com/)
   * [Texturas de SkyBox](http://www.3delyvisions.com/skf1.htm)
   * [Texturas de SkyBox 2](http://www.hazelwhorley.com/textures.html)
@@ -75,7 +74,6 @@ No se recomienda utilizar la última versión del framework para el TP, descarga
   * [Modelado de personaje Low-Poly 2](http://www.3dtotal.com/team/Tutorials/discmage/discmage1.php)
   * [Modelado, texturado y animación Low-Poly](http://www.3dk.org/tutorial/Modeling-Texturing-and-Animating-low-poly-Lara-Croft-in-3ds-max-Part-I-.html)
   * [Videos y tutoriales varios](http://www.poopinmymouth.com/tutorial/tutorial.htm)
-  * [Modelado de una casa Low-Poly en 3D](http://www.max-realms.com/modules/tutorials/house_tut1.php)
 * Videos con tutoriales:
   * [Tutoriales sobre uso general de 3Ds MAX](http://www.youtube.com/view_play_list?p=A12BF2F8CC489A50)
   * [Treasure Chest 3D Modeling](http://www.youtube.com/watch?v=EP-hC31eCYw)

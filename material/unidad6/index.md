@@ -23,4 +23,4 @@ permalink: /material/unidad6/
 ### Link
 
 * [General Collision Detection for Games using Ellipsoids](http://www.gamedev.net/reference/articles/article1026.asp)
-* [GeometricTools: sitio con código de muchas colisiones](http://www.geometrictools.com/LibMathematics/Intersection/Intersection.html)
+* [GeometricTools: sitio con código de muchas colisiones](http://www.geometrictools.com/index.html)

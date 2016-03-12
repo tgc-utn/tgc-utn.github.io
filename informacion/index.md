@@ -28,10 +28,10 @@ permalink: /informacion/
 
 #### Docentes
 
-   * Ing. Mariano Banquiero
-   * Ing. Martín Giachetti
-   * Ing. Matias Leone  
-   * Ing. Leandro Barbagallo  
+{% for member in site.data.members %}
+* [{{ member.name }}](https://github.com/{{ member.github }})
+{% endfor %}
+
 
 #### Forma de comunicación
 
