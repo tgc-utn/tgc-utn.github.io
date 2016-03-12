@@ -21,8 +21,8 @@ permalink: /material/unidad5/
 ### Links
 
 * Videos de Euler Gimbal Lock y Quaternions
-  * [the-rotation-problem](http://guerrillacg.org/home/3d-rigging/the-rotation-problem)
-  * [euler-rotations-explained](http://guerrillacg.org/home/3d-rigging/euler-rotations-explained)
+  * [the-rotation-problem](https://vimeo.com/2649637)
+  * [euler-rotations-explained](https://www.youtube.com/watch?v=zc8b2Jo7mno)
 * [Applet ángulos de Euler](http://prt.fernuni-hagen.de/lehre/KURSE/PRT001/course_main_sh3d/node11.html)
 * [Curvas cúbicas paramétricas](http://sabia.tic.udc.es/gc/teoria/Curvas/HTML/TrabajoGC.htm)
 * [Artículo sobre Quaternions](http://www.gamasutra.com/view/feature/3278/rotating_objects_using_quaternions.php)

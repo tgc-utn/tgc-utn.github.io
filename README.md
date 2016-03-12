@@ -1,4 +1,4 @@
-# tgc-utn.github.io ![Build Status](https://travis-ci.org/tgc-utn/tgc-utn.github.io.svg?branch=master)
+# tgc-utn.github.io ![Build Status](https://travis-ci.org/tgc-utn/tgc-utn.github.io.svg?branch=master).
 
 Repositorio de la página web de [TGC](http://tgc-utn.github.io/).
 
@@ -31,7 +31,7 @@ Completar esta sección :laughing:
 * [kramdown](http://kramdown.gettalong.org/)
 * [SASS](http://sass-lang.com/)
 * [CoffeScript](http://coffeescript.org/)
- 
+
 Algunas cosas que pueden ayudar
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown editor](http://dillinger.io/)
