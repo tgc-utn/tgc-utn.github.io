@@ -22,7 +22,7 @@ td{
 ### Grupo CEGA - Sniper
 
 :-------------------------:|:-------------------------:|:-------------------------:
-![CEGA1](/images/20141c/Captura CEGA 1.jpg) | ![CEGA2](/images/20141c/Caputra CEGA 2.jpg) | ![CEGA3](/images/20141c/Captura CEGA 3.jpg)
+![CEGA1](/images/20141c/Captura CEGA 1.jpg) | ![CEGA2](/images/20141c/Captura CEGA 2.jpg) | ![CEGA3](/images/20141c/Captura CEGA 3.jpg)
 
 ### Grupo HotShot - Sniper
 
