@@ -17,7 +17,7 @@ td{
 ### Grupo BackSpaceship - Nave Espacial
 
 :-------------------------:|:-------------------------:|:-------------------------:
-![BackSpaceship1](/images/20141c/Captura BackSpaceship 1.jpg) | ![BackSpaceship2](/images/20141c/Captura BackSpaceship 2.jpg) | ![BackSpaceship3](/images/20141c/Captura BackSpaceship 2.jpg)
+![BackSpaceship1](/images/20141c/Captura BackSpaceship 1.jpg) | ![BackSpaceship2](/images/20141c/Captura BackSpaceship 2.jpg) | ![BackSpaceship3](/images/20141c/Captura BackSpaceship 3.jpg)
 
 ### Grupo CEGA - Sniper
 
@@ -32,7 +32,7 @@ td{
 ### Grupo Indga - Nave Espacial
 
 :-------------------------:|:-------------------------:|:-------------------------:
-![Indga1](/images/20141c/Captura Indga 1.jpg) | ![Indga2](/images/20141c/Captura Indga 2.jpg) | ![Indga3](/images/20141c/Captura Indga 2.jpg)
+![Indga1](/images/20141c/Captura Indga 1.jpg) | ![Indga2](/images/20141c/Captura Indga 2.jpg) | ![Indga3](/images/20141c/Captura Indga 3.jpg)
 
 ### Grupo LOS_PINTORES - Sniper
 
