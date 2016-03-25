@@ -17,7 +17,7 @@ permalink: /trabajos/actual/
 
 ### Downloads
 
-* [Framework TgcViewer para el TP](https://github.com/tgc-utn/tgc-viewer/releases/tag/v1.0.1)
+* [Framework TgcViewer para el TP](https://github.com/tgc-utn/tgc-viewer/archive/master.zip)
 * [Visual Studio Community Edition](https://www.visualstudio.com/es-ar/products/visual-studio-community-vs)
 * [DirectX SDK](http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=6812) (última versión Junio 2010, 570 mb.)
 * [3Ds Max](http://www.autodesk.com/education/free-software/3ds-max) (Academic version)
