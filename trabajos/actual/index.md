@@ -8,7 +8,7 @@ permalink: /trabajos/actual/
 
 ### Documentos (leer todos, en el siguiente orden)
 
-* [Enunciado del TP](https://drive.google.com/file/d/0B-mVMTBAay-gUlhfRV9kSndFSDQ/edit?usp=sharing) (Actualizado en 19/08/2014)
+* [Enunciado del TP](https://drive.google.com/open?id=0B-mVMTBAay-gZ3RocUNsa1k1U28) (Actualizado en 01/04/2016)
 * [Guía de TgcViewer](https://drive.google.com/file/d/0B-mVMTBAay-gRWNOdTZ5N0dqbTQ/edit?usp=sharing) (Actualizado en 25/03/2014)
 * [Guía de MeshCreator](https://drive.google.com/file/d/0B-mVMTBAay-gMnBGMFJFdnQ3WTg/edit?usp=sharing) (Actualizado en 25/03/2014)
 * [Guía de 3Ds Max](https://docs.google.com/file/d/0B-mVMTBAay-gY1ZkejFCeFdkMlU/edit?usp=sharing) (Actualizado en 17/03/2013)
@@ -26,7 +26,7 @@ permalink: /trabajos/actual/
 
 ### Grupos
 
-* Dar de alta tu grupo: [Aquí](https://docs.google.com/forms/d/1MX3tvmLXd8n09fUYfDrQJAQeDadmYAp6Yy1-1MxJuIk/viewform)
+* Dar de alta tu grupo: [Aquí](http://goo.gl/forms/Q7FqdJMdoL)
 
 ### Sugerencias
 
@@ -36,7 +36,7 @@ permalink: /trabajos/actual/
 
 * [TGCViewer](https://github.com/tgc-utn/tgc-viewer)
 
-No se recomienda utilizar la última versión del framework para el TP, descargar el enlace de arriba. En el repositorio se van agrando las últimas mejoras para futuros cuatrimestres, pero no para la cursada actual.
+No utilizar la última versión del framework para el TP, descargar el enlace de arriba. En el repositorio se van agrando las últimas mejoras para futuros cuatrimestres, pero no para la cursada actual.
 
 ### Enlaces sobre C#:
 
