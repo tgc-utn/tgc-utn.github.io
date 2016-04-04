@@ -14,6 +14,7 @@ permalink: /trabajos/actual/
 * [Guía de 3Ds Max](https://docs.google.com/file/d/0B-mVMTBAay-gY1ZkejFCeFdkMlU/edit?usp=sharing) (Actualizado en 17/03/2013)
 * [Guía de exportador de SketchUp](https://drive.google.com/file/d/0BxUJZewaWJ7mTkluTjI0ZEMzTTg/view?usp=sharing) (Actualizado en 01/08/2015)
 * [Guía TerrainEditor](https://docs.google.com/file/d/0B-mVMTBAay-gMC13dWNCemtSeUU/edit?usp=sharing) (Actualizado en 19/08/2013)
+* [Guía VM](https://docs.google.com/document/d/12N1LkUitgn6flJ4YKlcFQNeo9NjX7TTnsAps8SVEE0U/edit) (Actualizado en 04/04/2016)
 
 ### Downloads
 
@@ -23,6 +24,7 @@ permalink: /trabajos/actual/
 * [3Ds Max](http://www.autodesk.com/education/free-software/3ds-max) (Academic version)
 * [SketchUp](http://www.sketchup.com/)
 * [Exportador de SketchUp](https://drive.google.com/file/d/0BxUJZewaWJ7mWk5wLTIzcUZJSWc/view?usp=sharing) (beta)
+* [VM-WinXP Framework TgcViewer](https://drive.google.com/open?id=0B-mVMTBAay-gWVY3U09PSHBIWjA) (NO RECOMENDADO)
 
 ### Grupos
 
