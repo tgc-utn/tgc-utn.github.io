@@ -5,7 +5,9 @@ permalink: /trabajos/investigacion/
 ## Trabajos de investigación desarrollados por los alumnos de la materia
 
 ### Grupo de Investigación de gráficos por Computadora  
-* [GIGC](https://github.com/gigc)
+
+* Web de [GIGC](http://gigc.github.io)
+* Github de [GIGC](https://github.com/gigc)
 
 ### Port de TgcViewer a WebGL (Beta)
 
