@@ -19,6 +19,7 @@ permalink: /material/unidad2/
 ### Práctica
 
 * [Unidad 2 - Practica.pdf](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B-mVMTBAay-gYTFiYjQ3ZGEtNDFkMS00OTBiLTlmN2QtOWI1MzRjODNlOTc2&hl=es)
+* [Ejemplos de clase 2](/material/unidad2/EjemplosJSClase2.zip?raw=true)
 
 ### Links
 
