@@ -18,7 +18,10 @@ permalink: /material/unidad3/
 ### Práctica
 
 * [Unidad 3 - Practica.pdf](https://docs.google.com/open?id=0B-mVMTBAay-gSm5jZXlQbTR6S00)
+* [Ejemplos de proyeccinones](https://github.com/tgc-utn/canvas-html-examples/tree/master/Proyecciones)
 
 ### Links
 
 * [Half Life 2](http://orange.half-life2.com/hl2ep2.html)
+* [Proyeccion isometrica](http://www3.ul.ie/~rynnet/keanea/isometri.htm)
+* [Axonometric projections - a technical overview](http://www.compuphase.com/axometr.htm#CARTESIO)
