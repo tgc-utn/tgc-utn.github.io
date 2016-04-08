@@ -37,7 +37,7 @@ td{
 |  2    | jueves 24 de Marzo | Sin actividad feriado |
 |  3    | jueves 31 de Marzo | Introducción al Trabajo Práctico, Ejercicios, Demo TGCViewer |
 |  4    | jueves 07 de Abril | Unidad 3 - Conceptos Básicos de 3D  / Cierre de inscripción de grupos de TP (via Web) |
-|  5    | jueves 14 de Abril | Unidad 3 - Continuación Avanzados de 3D |
+|  5    | jueves 14 de Abril | Unidad 3 - Conceptos Avanzados de 3D |
 |  6    | jueves 21 de Abril | Unidad 6 - Detección de Colisiones |
 |  7    | jueves 28 de Abril | Unidad 4 - Texturas e Iluminación |
 |  8    | jueves 05 de Mayo  | Unidad 8 - Clase de Shaders 1 |
