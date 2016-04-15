@@ -18,7 +18,7 @@ permalink: /material/unidad3/
 ### Práctica
 
 * [Unidad 3 - Practica.pdf](https://docs.google.com/open?id=0B-mVMTBAay-gSm5jZXlQbTR6S00)
-* [Ejemplos de proyeccinones](https://github.com/tgc-utn/canvas-html-examples/tree/master/Proyecciones)
+* [Ejemplos de proyecciones](https://github.com/tgc-utn/canvas-html-examples/tree/master/Proyecciones)
 
 ### Links
 
