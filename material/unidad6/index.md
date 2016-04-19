@@ -19,6 +19,7 @@ permalink: /material/unidad6/
 ### Prácticas
 
 * [Unidad 6 - Practica.pdf](https://docs.google.com/file/d/0B-mVMTBAay-gYnE5dkUxQnF5QkE/edit?usp=sharing)
+* [Ejemplos de colisiones en 2D](https://github.com/tgc-utn/canvas-html-examples/tree/master/Colisiones)
 
 ### Link
 
