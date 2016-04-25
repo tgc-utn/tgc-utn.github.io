@@ -20,3 +20,4 @@ permalink: /material/unidad4/
 ### Práctica
 
 * [Unidad 4 - Practica.pdf](https://docs.google.com/open?id=0B-mVMTBAay-gSXJ5cG9BMGZQMDA)
+* [Ejemplos texturas canvas](https://github.com/tgc-utn/canvas-html-examples/tree/master/Texturas)
