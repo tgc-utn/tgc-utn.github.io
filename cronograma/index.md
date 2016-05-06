@@ -27,7 +27,7 @@ td{
 
 </style>
 
-* [Calendario Académico](http://www.frba.utn.edu.ar/calendario-academico.html)
+* [Calendario Académico](https://www.frba.utn.edu.ar/es/calendario-academico/)
 
 ## Calendario de la cursada
 
@@ -43,9 +43,9 @@ td{
 |  8    | jueves 05 de Mayo  | Unidad 8 - Clase de Shaders 1 |
 |  9    | jueves 12 de Mayo  | Unidad 8 - Clase de Shaders 2 / Primera entrega del TP (vía Email) |
 | 10    | jueves 19 de Mayo  | Unidad 8- Efectos Avanzados / Workshop ejercicios parcial |
-| 11    | jueves 26 de Mayo  | Unidad 5 - Animación |
-| 12    | jueves 02 de Junio | Unidad 7 - Técnicas de Optimización |
-| 13    | jueves 09 de Junio | Clase de consulta previa al parcial / Segunda entrega del TP (via Email) |
+| 11    | jueves 26 de Mayo  | Sin actividad - Examenes de finales |
+| 12    | jueves 02 de Junio | Unidad 5 - Animación |
+| 13    | jueves 09 de Junio | Unidad 7 - Técnicas de Optimización / Segunda entrega del TP (via Email) |
 | 14    | jueves 16 de Junio | Parcial |
 | 15    | jueves 23 de Junio | 1° Recuperatorio |
 | 16    | jueves 30 de Junio | Presentación oral grupal del Trabajo Práctico |
