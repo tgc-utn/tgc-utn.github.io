@@ -47,6 +47,6 @@ td{
 | 12    | jueves 02 de Junio | Unidad 5 - Animación |
 | 13    | jueves 09 de Junio | Unidad 7 - Técnicas de Optimización / Segunda entrega del TP (via Email) |
 | 14    | jueves 16 de Junio | Parcial |
-| 15    | jueves 23 de Junio | 1° Recuperatorio |
+| 15    | jueves 23 de Junio | Sin actividad elecciones obligatorias |
 | 16    | jueves 30 de Junio | Presentación oral grupal del Trabajo Práctico |
-| 17    | jueves 07 de Julio | 2° Recuperatorio |
+| 17    | jueves 07 de Julio | 1° Recuperatorio |
