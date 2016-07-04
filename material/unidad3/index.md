@@ -25,4 +25,5 @@ permalink: /material/unidad3/
 
 * [Half Life 2](http://orange.half-life2.com/hl2ep2.html)
 * [Proyeccion isometrica](http://www3.ul.ie/~rynnet/keanea/isometri.htm)
+* [Explicacion de View Matrix](http://www.3dgep.com/understanding-the-view-matrix/)
 * [Axonometric projections - a technical overview](http://www.compuphase.com/axometr.htm)
