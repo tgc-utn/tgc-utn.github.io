@@ -30,5 +30,5 @@ permalink: /material/unidad5/
   Se puede identificar porque es necesario el uso de quaterniones en las animaciones con rotaciones, hay que asignar con "hat axis aling" con movimientos de 90 hacia delante 90 hacia atras.
 * [Curvas cúbicas paramétricas](http://sabia.tic.udc.es/gc/teoria/Curvas/HTML/TrabajoGC.htm)
 * [Artículo sobre Quaternions](http://www.gamasutra.com/view/feature/3278/rotating_objects_using_quaternions.php)
-* [Basic bone System](http://gpwiki.org/index.php/OpenGL:Tutorials:Basic_Bones_System)
+* [Basic bone System](http://moddb.wikia.com/wiki/OpenGL:Tutorials:Basic_Bones_System)
 * [Making of Avatar](http://www.youtube.com/watch?v=P2_vB7zx_SQ)
