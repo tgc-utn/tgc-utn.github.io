@@ -53,7 +53,7 @@ No utilizar la última versión del framework para el TP, descargar el enlace de
 * [Programación de Shaders](http://msdn.microsoft.com/en-us/library/bb944006%28v=VS.85%29.aspx)
 * [Ejemplos DirectX (para C++)](http://www.codesampler.com/dx9src.htm)
 * [Libro Managed DirectX 9 Kick Start](http://books.google.com.ar/books?id=8Y4VrGBtGM8C&dq=Managed+DirectX+9+Kick+Start&printsec=frontcover&source=bn&hl=es&ei=MwNWTPuBHsKB8gb0nYyTBQ&sa=X&oi=book_result&ct=result&resnum=4&ved=0CC8Q6AEwAw#v=onepage&q&f=false)
-* [Libro Begining DirectX 9](http://books.google.com.ar/books?id=n0hcRvDniVQC&printsec=frontcover&dq=Beginning+DirectX+9&hl=es&ei=jwZWTLihAsKB8gadm4yTBQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCcQ6AEwAA#v=onepage&q&f=false)
+* [Libro Beginning DirectX 9](http://read.pudn.com/downloads40/ebook/138617/[Beginning.DirectX.9.0].Beginning.DirectX.9.pdf)
 * [Libro DirectX 9 graphics](http://books.google.com/books?id=CE-nxZ2JfS8C&printsec=frontcover&dq=directx+9&hl=es&ei=vYRgTMW4OMO88ga5irHCDQ&sa=X&oi=book_result&ct=result&resnum=2&ved=0CC0Q6AEwAQ#v=onepage&q&f=false)
 * [Tutorial de Shaders HLSL](http://rbwhitaker.wikidot.com/hlsl-tutorials)
 * [Foro de GameDev](http://www.gamedev.net/index)
