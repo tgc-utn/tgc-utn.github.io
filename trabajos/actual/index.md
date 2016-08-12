@@ -8,23 +8,24 @@ permalink: /trabajos/actual/
 
 ### Documentos (leer todos, en el siguiente orden)
 
-* [Enunciado del TP](https://drive.google.com/open?id=0B-mVMTBAay-gZ3RocUNsa1k1U28) (Actualizado en 01/04/2016)
-* [Guía de TgcViewer](https://drive.google.com/file/d/0B-mVMTBAay-gRWNOdTZ5N0dqbTQ/edit?usp=sharing) (Actualizado en 25/03/2014)
+* [Enunciado del Trabajo Práctico](https://drive.google.com/open?id=10_9YngZLLZzIyVjXMp61XSO1rYHBJRgFBm-CUNm2vdw)
+* [Guía de TGC framework](https://drive.google.com/open?id=1zeM7PZKPU-v5EufukBtf3OeyI7dCSuoGhdn0DqgPUuk)
 * [Guía de MeshCreator](https://drive.google.com/file/d/0B-mVMTBAay-gMnBGMFJFdnQ3WTg/edit?usp=sharing) (Actualizado en 25/03/2014)
 * [Guía de 3Ds Max](https://docs.google.com/file/d/0B-mVMTBAay-gY1ZkejFCeFdkMlU/edit?usp=sharing) (Actualizado en 17/03/2013)
 * [Guía de exportador de SketchUp](https://drive.google.com/file/d/0BxUJZewaWJ7mTkluTjI0ZEMzTTg/view?usp=sharing) (Actualizado en 01/08/2015)
-* [Guía TerrainEditor](https://docs.google.com/file/d/0B-mVMTBAay-gMC13dWNCemtSeUU/edit?usp=sharing) (Actualizado en 19/08/2013)
-* [Guía VM](https://drive.google.com/open?id=12N1LkUitgn6flJ4YKlcFQNeo9NjX7TTnsAps8SVEE0U) (Actualizado en 04/04/2016)
+* [Guía de TerrainEditor](https://docs.google.com/file/d/0B-mVMTBAay-gMC13dWNCemtSeUU/edit?usp=sharing) (Actualizado en 19/08/2013)
+* [Guía para la VM](https://drive.google.com/open?id=12N1LkUitgn6flJ4YKlcFQNeo9NjX7TTnsAps8SVEE0U) (Actualizado en 04/04/2016)
 
 ### Downloads
 
-* [Framework TgcViewer para el TP](https://github.com/tgc-utn/tgc-viewer/releases/tag/v1.0.1)
-* [Visual Studio Community Edition](https://www.visualstudio.com/es-ar/products/visual-studio-community-vs)
+* [TGC Viewer](https://github.com/tgc-utn/tgc-viewer/releases) (Ejemplos)
 * [DirectX SDK](http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=6812) (última versión Junio 2010, 570 mb.)
+* [Visual Studio Community Edition](https://www.visualstudio.com/es-ar/products/visual-studio-community-vs)
+* [Monodevelop](http://www.monodevelop.com/)
 * [3Ds Max](http://www.autodesk.com/education/free-software/3ds-max) (Academic version)
 * [SketchUp](http://www.sketchup.com/)
 * [Exportador de SketchUp](https://drive.google.com/file/d/0BxUJZewaWJ7mWk5wLTIzcUZJSWc/view?usp=sharing) (beta)
-* [VM-WinXP Framework TgcViewer](https://drive.google.com/open?id=0B-mVMTBAay-gWVY3U09PSHBIWjA) (NO RECOMENDADO)
+* [VM-WinXP Framework TgcViewer](https://drive.google.com/open?id=0B-mVMTBAay-gWVY3U09PSHBIWjA) (DEPRECATED, NO TIENE LA ULTIMA VERSION)
 
 ### Grupos
 
@@ -34,9 +35,10 @@ permalink: /trabajos/actual/
 
 * Subir sugerencias o bugs sobre el Framework: [Aquí](https://github.com/tgc-utn/tgc-viewer/issues)
 
-### Repositorio
+### Repositorios
 
-* [TGCViewer](https://github.com/tgc-utn/tgc-viewer)
+* [TGC Groups](https://github.com/tgc-utn/tgc-group)
+* [TGC Viewer](https://github.com/tgc-utn/tgc-viewer)
 
 No utilizar la última versión del framework para el TP, descargar el enlace de arriba. En el repositorio se van agrando las últimas mejoras para futuros cuatrimestres, pero no para la cursada actual.
 
