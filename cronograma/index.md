@@ -34,8 +34,8 @@ td{
 | Clase | Fecha              | Actividad |
 |:-----:|:------------------:|-----------|
 |  1    | jueves 11 de Agosto | Unidad 1 y 2 - Conceptos Básicos y Avanzados de 2D |
-|  2    | jueves 18 de Agosto | Introducción al Trabajo Práctico, Ejercicios, Demo TGCViewer |
-|  3    | jueves 25 de Agosto | Unidad 3 - Conceptos Básicos de 3D  / Cierre de inscripción de grupos de TP (via Web) |
+|  2    | jueves 18 de Agosto | Introducción al Trabajo Práctico, Ejercicios, Demo TGCViewer / Cierre de inscripción de grupos de TP (via Web) |
+|  3    | jueves 25 de Agosto | Unidad 3 - Conceptos Básicos de 3D |
 |  4    | jueves 01 de Septiembre | Unidad 3 - Conceptos Avanzados de 3D |
 |  5    | jueves 08 de Septiembre | Unidad 6 - Detección de Colisiones |
 |  6    | jueves 15 de Septiembre | Unidad 4 - Texturas e Iluminación |
