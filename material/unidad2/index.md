@@ -19,7 +19,8 @@ permalink: /material/unidad2/
 ### Práctica
 
 * [Unidad 2 - Practica.pdf](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B-mVMTBAay-gYTFiYjQ3ZGEtNDFkMS00OTBiLTlmN2QtOWI1MzRjODNlOTc2&hl=es)
-* [Ejemplos de transformaciones](https://github.com/tgc-utn/canvas-html-examples/tree/master/Transformaciones)
+* [Ejemplos de transformaciones (JavaScript)](https://github.com/tgc-utn/canvas-html-examples/tree/master/Transformaciones)
+* [Ejemplos de transformaciones (C# TGC.Viewer)](https://github.com/tgc-utn/tgc-viewer/blob/9ef543e1ecaef0a0546664ad5c0b55a88980230d/TGC.Examples/Engine2D/Transforms2D.cs)
 
 ### Links
 
