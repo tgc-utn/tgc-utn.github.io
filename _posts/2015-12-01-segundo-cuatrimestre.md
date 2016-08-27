@@ -14,7 +14,7 @@ categories: anteriores
 ### Grupo Socketes: Futbol
 <iframe width="425" height="355" src="https://www.youtube.com/embed/pgEwUC0jvH4" frameborder="0" allowfullscreen></iframe>
 * TODO Fix lag de video
-[int1](/images/20152c/MatíasLeonelRege-RenéJuanRicoMendoza.jpg)
+![int1](/images/20152c/MatíasLeonelRege-RenéJuanRicoMendoza.jpg)
 Matías Leonel Rege | René Juan Rico Mendoza
 
 ### Grupo CShark: Barcos y Mar
