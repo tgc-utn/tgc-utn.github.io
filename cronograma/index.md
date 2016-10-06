@@ -40,11 +40,12 @@ td{
 |  5    | jueves 08 de Septiembre | Unidad 6 - Detección de Colisiones |
 |  6    | jueves 15 de Septiembre | Unidad 4 - Texturas e Iluminación |
 |  7    | jueves 22 de Septiembre | Unidad 8 - Clase de Shaders 1 |
-|  8    | jueves 06 de Octubre  | Sin actividad - Examenes de finales |
-|  9    | jueves 13 de Octubre  | Unidad 8 - Clase de Shaders 2 / Primera entrega del TP (vía Email) |
-| 10    | jueves 20 de Octubre  | Unidad 8- Efectos Avanzados / Workshop ejercicios parcial |
-| 11    | jueves 27 de Octubre  | Unidad 5 - Animación |
-| 12    | jueves 03 de Noviembre | Unidad 7 - Técnicas de Optimización / Segunda entrega del TP (via Email) |
-| 13    | jueves 10 de Noviembre | Parcial |
-| 14    | jueves 17 de Noviembre | 1° Recuperatorio |
-| 15    | jueves 24 de Noviembre | Presentación oral grupal del Trabajo Práctico |
+|  8    | jueves 29 de Septiembre | Unidad 8 - Clase de Shaders 2 |
+|  9    | jueves 06 de Octubre  | Sin actividad - Examenes de finales |
+| 10    | jueves 13 de Octubre  | Unidad 8 - Efectos Avanzados / Primera entrega del TP (vía Email) |
+| 11    | jueves 20 de Octubre  | Unidad 5 - Animación / Workshop ejercicios parcial |
+| 12    | jueves 27 de Octubre  | Unidad 7 - Técnicas de Optimización |
+| 13    | jueves 03 de Noviembre | Ensayo parcial / Segunda entrega del TP (via Email) |
+| 14    | jueves 10 de Noviembre | Parcial |
+| 15    | jueves 17 de Noviembre | 1° Recuperatorio |
+| 16    | jueves 24 de Noviembre | Presentación oral grupal del Trabajo Práctico |
