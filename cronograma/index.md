@@ -45,7 +45,7 @@ td{
 | 10    | jueves 18 de Mayo  | Unidad 8 - Efectos Avanzados | Tercer entrega del TP (vía Email)
 | 11    | jueves 25 de Mayo  | Sin actividad - Dia del trabajador |
 | 12    | jueves 01 de Junio | Unidad 7 - Técnicas de Optimización |
-| 13    | jueves 08 de Junio | Unidad 5 - Animación | Workshop ejercicios parcial |
+| 13    | jueves 08 de Junio | Unidad 5 - Animación | Workshop ejercicios parcial
 | 14    | jueves 15 de Junio | Ensayo parcial | Cuarta entrega del TP (via Email) 
 | 15    | jueves 22 de Junio | Parcial |
 | 16    | jueves 29 de Junio | 1° Recuperatorio |
