@@ -4,29 +4,6 @@ title: Cronograma
 permalink: /clases/cronograma/
 ---
 
-<style>
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-  font-size: 1em;
-  border: 1px solid #CCC;
-  margin: 0;
-  padding: 0.5em 1em;
-}
-
-th {
- font-weight: bold;
-  background-color: #F0F0F0;
-  border:1px solid #000000;
-}
-
-td{
-    border:1px solid #000000;
-}
-
-</style>
-
 * [Calendario Académico](https://www.frba.utn.edu.ar/es/calendario-academico/)
 
 ## Calendario de la cursada
