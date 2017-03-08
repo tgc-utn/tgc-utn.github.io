@@ -32,7 +32,7 @@ td{
 ## Calendario de la cursada
 
 | Clase | Fecha              | Actividad    | Trabajo practico   
-|:-----:|:------------------:|:------------:|:------------------: 
+|:-----:|:------------------:|:------------:|:------------------
 |  1    | jueves 16 de Marzo | Unidad 1 y 2 - Conceptos Básicos y Avanzados de 2D | Presentación de enunciado 
 |  2    | jueves 23 de Marzo | Introducción al Trabajo Práctico, Ejercicios, Demo TGCViewer | Cierre de inscripción de grupos de TP (via Web) 
 |  3    | jueves 30 de Marzo | Unidad 3 - Conceptos Básicos de 3D | Presentación Tutores 
