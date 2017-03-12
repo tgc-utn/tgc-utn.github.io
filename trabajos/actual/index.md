@@ -51,9 +51,7 @@ No utilizar la última versión del framework para el TP, descargar el enlace de
 # Enlaces sobre DirectX:
 
 * [Ayuda de Managed DirectX (MSDN inglés)](http://msdn.microsoft.com/en-us/library/bb318658%28VS.85%29.aspx)
-* [Ejemplos Managed DirectX (para .NET)](http://www.mdxinfo.com/tutorials.php)
 * [Programación de Shaders](http://msdn.microsoft.com/en-us/library/bb944006%28v=VS.85%29.aspx)
-* [Ejemplos DirectX (para C++)](http://www.codesampler.com/dx9src.htm)
 * [Libro Managed DirectX 9 Kick Start](http://books.google.com.ar/books?id=8Y4VrGBtGM8C&dq=Managed+DirectX+9+Kick+Start&printsec=frontcover&source=bn&hl=es&ei=MwNWTPuBHsKB8gb0nYyTBQ&sa=X&oi=book_result&ct=result&resnum=4&ved=0CC8Q6AEwAw#v=onepage&q&f=false)
 * [Libro Beginning DirectX 9](http://read.pudn.com/downloads40/ebook/138617/[Beginning.DirectX.9.0].Beginning.DirectX.9.pdf)
 * [Libro DirectX 9 graphics](http://books.google.com/books?id=CE-nxZ2JfS8C&printsec=frontcover&dq=directx+9&hl=es&ei=vYRgTMW4OMO88ga5irHCDQ&sa=X&oi=book_result&ct=result&resnum=2&ved=0CC0Q6AEwAQ#v=onepage&q&f=false)
@@ -66,7 +64,7 @@ No utilizar la última versión del framework para el TP, descargar el enlace de
   * [Libro Modeling a Character in 3Ds Max](http://books.google.com.ar/books?id=w_KLe1AylhEC&printsec=frontcover&dq=3d+max+character&hl=es&ei=hAdWTNOVFIK78gbazaHABA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC8Q6AEwAA#v=onepage&q=3d%20max%20character&f=false)
   * [Libro 3Ds Max Modeling for Games](http://books.google.com.ar/books?id=G7cgPVJ06nMC&printsec=frontcover&dq=3d+max+character&hl=es&ei=hAdWTNOVFIK78gbazaHABA&sa=X&oi=book_result&ct=result&resnum=2&ved=0CDQQ6AEwAQ#v=onepage&q=3d%20max%20character&f=false)
 * Modelos:
-  * [Modelos Low-Poly](http://www.3d-animation.com.ar/free_3d_models_index.php)
+  * [Modelos Low-Poly](http://www.artist-3d.com/free_3d_models/index.php)
   * [Models Low-Poly en formato MD2](http://www.md2.sitters-electronics.nl/)
   * [Modelos 3D](http://www.creativecrash.com/3dmodels)
 * Texturas:
@@ -76,7 +74,6 @@ No utilizar la última versión del framework para el TP, descargar el enlace de
 * Tutoriales:
   * [Modelado de personaje Low-Poly](http://www.3dtotal.com/team/Tutorials_3/low_poly_character/low_poly_01.php)
   * [Modelado de personaje Low-Poly 2](http://www.3dtotal.com/team/Tutorials/discmage/discmage1.php)
-  * [Modelado, texturado y animación Low-Poly](http://www.3dk.org/tutorial/Modeling-Texturing-and-Animating-low-poly-Lara-Croft-in-3ds-max-Part-I-.html)
   * [Videos y tutoriales varios](http://www.poopinmymouth.com/tutorial/tutorial.htm)
 * Videos con tutoriales:
   * [Tutoriales sobre uso general de 3Ds MAX](http://www.youtube.com/view_play_list?p=A12BF2F8CC489A50)
