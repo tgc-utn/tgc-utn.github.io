@@ -25,5 +25,5 @@ permalink: /material/unidad8/
 ### Links
 * [Shadertoy: Herramienta para programar shaders en webgl](https://www.shadertoy.com/)
 * [GPGP. Ejemplo de uso científico del GPU](http://www.ks.uiuc.edu/Research/gpu/)
-* [AMD RenderMonkey: Herramienta para programar shaders](http://developer.amd.com/gpu/rendermonkey/)
+* [RenderMonkey: Herramienta para programar shaders](http://gpuopen.com/archive/gamescgi/rendermonkey-toolsuite/)
 * [Articulo sobre NVIDIA CUDA](http://ixbtlabs.com/articles3/video/cuda-1-p1.html)
