@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cronograma
+navHome: true
 permalink: /clases/cronograma/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Trabajos
+navHome: true
 permalink: /trabajos/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Información de la cátedra
+navHome: true
 permalink: /informacion/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Material
+navHome: true
 permalink: /material/
 ---
 
