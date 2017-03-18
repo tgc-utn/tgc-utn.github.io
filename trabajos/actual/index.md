@@ -65,7 +65,6 @@ No utilizar la última versión del framework para el TP, descargar el enlace de
   * [Libro 3Ds Max Modeling for Games](http://books.google.com.ar/books?id=G7cgPVJ06nMC&printsec=frontcover&dq=3d+max+character&hl=es&ei=hAdWTNOVFIK78gbazaHABA&sa=X&oi=book_result&ct=result&resnum=2&ved=0CDQQ6AEwAQ#v=onepage&q=3d%20max%20character&f=false)
 * Modelos:
   * [Modelos Low-Poly](http://www.artist-3d.com/free_3d_models/index.php)
-  * [Models Low-Poly en formato MD2](http://www.md2.sitters-electronics.nl/)
   * [Modelos 3D](http://www.creativecrash.com/3dmodels)
 * Texturas:
   * [Banco de texturas](http://www.cgtextures.com/)
