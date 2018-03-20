@@ -34,19 +34,19 @@ td{
 
 | Clase | Fecha               | Actividad    | Trabajo practico  |
 |:-----:|:-------------------:|:------------:|:-----------------:|
-|  1    | jueves 10 de Agosto | Unidad 1 y 2 - Conceptos Básicos y Avanzados de 2D | |
-|  2    | jueves 17 de Agosto | Introducción al Trabajo Práctico, Ejercicios, Demo TGCViewer | Cierre de inscripción de grupos de TP|
-|  3    | jueves 24 de Agosto | Unidad 3 - Conceptos Básicos de 3D | Presentación Tutores|
-|  4    | jueves 31 de Agosto | Unidad 3 - Conceptos Avanzados de 3D | Primer entrega|
-|  5    | jueves 07 de Septiembre | Unidad 6 - Detección de Colisiones ||
-|  6    | jueves 14 de Septiembre | Unidad 7 - Técnicas de Optimización ||
-|  7    | jueves 21 de Septiembre | Sin actividad - Día del estudiante | Segunda entrega|
-|  8    | jueves 28 de Septiembre | Unidad 4 - Texturas e Iluminación ||
-|  9    | jueves 05 de Octubre  | Unidad 8 - Clase de Shaders 1 ||
-| 10    | jueves 12 de Octubre  | Unidad 8 - Clase de Shaders 2 | Tercer entrega|
-| 11    | jueves 19 de Octubre  | Unidad 8 - Efectos Avanzados ||
-| 12    | jueves 26 de Octubre | Workshop especial y ejercicios parcial ||
-| 13    | jueves 02 de Noviembre | Ensayo parcial | Cuarta entrega del TP|
-| 14    | jueves 09 de Noviembre | Parcial ||
-| 15    | jueves 16 de Noviembre | 1° Recuperatorio ||
-| 16    | jueves 23 de Noviembre | Presentación oral grupal del Trabajo Práctico ||
+|  1    | martes 20 de Marzo | Unidad 1 y 2 - Conceptos Básicos y Avanzados de 2D | |
+|  2    | martes 27 de Marzo | Introducción al Trabajo Práctico, Ejercicios, Demo TGCViewer | Cierre de inscripción de grupos de TP|
+|  3    | martes 03 de Abril | Unidad 3 - Conceptos Básicos de 3D | Presentación Tutores|
+|  4    | martes 10 de Abril | Unidad 3 - Conceptos Avanzados de 3D | Primer entrega|
+|  5    | martes 17 de Abril | Unidad 6 - Detección de Colisiones ||
+|  6    | martes 24 de Abril | Unidad 7 - Técnicas de Optimización ||
+|  7    | martes 08 de Mayo | Sin actividad - Día del estudiante | Segunda entrega|
+|  8    | martes 15 de Mayo | Unidad 4 - Texturas e Iluminación ||
+|  9    | martes 22 de Mayo  | Unidad 8 - Clase de Shaders 1 ||
+| 10    | martes 29 de Mayo  | Unidad 8 - Clase de Shaders 2 | Tercer entrega|
+| 11    | martes 05 de Junio  | Unidad 8 - Efectos Avanzados ||
+| 12    | martes 12 de Junio | Workshop especial y ejercicios parcial ||
+| 13    | martes 19 de Junio | Ensayo parcial | Cuarta entrega del TP|
+| 14    | martes 26 de Junio | Parcial ||
+| 15    | martes 03 de Julio | 1° Recuperatorio ||
+| 16    | martes 10 de Julio | Presentación oral grupal del Trabajo Práctico ||
