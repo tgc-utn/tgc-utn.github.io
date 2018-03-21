@@ -13,7 +13,7 @@ permalink: /informacion/
    * Año: 3°
    * Código: 082066
    * Carga horaria: 4hs semanales (19:00 a 22:15)
-   * Dias: Jueves
+   * Dias: Martes
    * Turno: Noche
    * Aula:  A confirmar (Medrano)
 
