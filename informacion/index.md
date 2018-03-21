@@ -7,8 +7,6 @@ permalink: /informacion/
 
 ## Técnicas de Gráficos por Computadora
 
-### 1° Cuatrimestre 2016
-
 #### General
 
    * Titulo: Técnicas de Gráficos por Computadora
