@@ -35,12 +35,13 @@ td{
 | Clase | Fecha               | Actividad    | Trabajo practico  |
 |:-----:|:-------------------:|:------------:|:-----------------:|
 |  1    | martes 20 de Marzo | Unidad 1 y 2 - Conceptos Básicos y Avanzados de 2D | |
-|  2    | martes 27 de Marzo | Introducción al Trabajo Práctico, Ejercicios, Demo TGCViewer | Cierre de inscripción de grupos de TP|
-|  3    | martes 03 de Abril | Unidad 3 - Conceptos Básicos de 3D | Presentación Tutores|
-|  4    | martes 10 de Abril | Unidad 3 - Conceptos Avanzados de 3D | Primer entrega|
-|  5    | martes 17 de Abril | Unidad 6 - Detección de Colisiones ||
+|  2    | martes 27 de Marzo | Introducción al Trabajo Práctico, Demo TGCViewer | |
+|  3    | martes 03 de Abril | Unidad 3 - Conceptos Básicos de 3D, Ejercicios | Cierre de inscripción de grupos de TP|
+|  4    | martes 10 de Abril | Unidad 3 - Conceptos Avanzados de 3D | Presentación Tutores|
+|  5    | martes 17 de Abril | Unidad 6 - Detección de Colisiones | Primer entrega|
 |  6    | martes 24 de Abril | Unidad 7 - Técnicas de Optimización ||
-|  7    | martes 08 de Mayo | Sin actividad - Día del estudiante | Segunda entrega|
+|  6    | martes 01 de Mayo | Sin actividad - Día del Trabajador ||
+|  7    | martes 08 de Mayo | Unidad 7 - Técnicas de Optimización | Segunda entrega|
 |  8    | martes 15 de Mayo | Unidad 4 - Texturas e Iluminación ||
 |  9    | martes 22 de Mayo  | Unidad 8 - Clase de Shaders 1 ||
 | 10    | martes 29 de Mayo  | Unidad 8 - Clase de Shaders 2 | Tercer entrega|
