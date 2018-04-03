@@ -29,7 +29,7 @@ permalink: /trabajos/actual/
 
 ### Grupos
 
-* Dar de alta tu grupo: [Aquí](https://goo.gl/forms/wRIMKzXvrVdRGm2h2)
+* Dar de alta tu grupo: [Formulario de grupos 1C2018](https://goo.gl/forms/vfrmvII1t4Q5yulu1)
 
 ### Sugerencias
 
