@@ -32,7 +32,7 @@ td{
 
 ## Calendario de la cursada
 
-| Clase | Fecha               | Actividad    | Trabajo practico  |
+| Clase | Fecha               | Actividad    | Trabajo Práctico  |
 |:-----:|:-------------------:|:------------:|:-----------------:|
 |  1    | martes 20 de Marzo | Unidad 1 y 2 - Conceptos Básicos y Avanzados de 2D | |
 |  2    | martes 27 de Marzo | Introducción al Trabajo Práctico, Demo TGCViewer | |
@@ -41,12 +41,12 @@ td{
 |  5    | martes 17 de Abril | Unidad 6 - Detección de Colisiones | Primer entrega|
 |  6    | martes 24 de Abril | Unidad 7 - Técnicas de Optimización ||
 |  6    | martes 01 de Mayo | Sin actividad - Día del Trabajador ||
-|  7    | martes 08 de Mayo | Unidad 7 - Técnicas de Optimización | Segunda entrega|
-|  8    | martes 15 de Mayo | Unidad 4 - Texturas e Iluminación ||
-|  9    | martes 22 de Mayo  | Unidad 8 - Clase de Shaders 1 ||
-| 10    | martes 29 de Mayo  | Unidad 8 - Clase de Shaders 2 | Tercer entrega|
-| 11    | martes 05 de Junio  | Unidad 8 - Efectos Avanzados ||
-| 12    | martes 12 de Junio | Workshop especial y ejercicios parcial ||
+|  7    | martes 08 de Mayo | Unidad 4 - Texturas e Iluminación | Segunda entrega|
+|  8    | martes 15 de Mayo | Unidad 8 - Clase de Shaders 1 ||
+|  9    | martes 22 de Mayo | Unidad 8 - Clase de Shaders 2 ||
+| 10    | martes 29 de Mayo | Unidad 8 - Efectos Avanzados | Tercer entrega|
+| 11    | martes 05 de Junio | Workshop especial ||
+| 12    | martes 12 de Junio | Ejercicios parcial ||
 | 13    | martes 19 de Junio | Ensayo parcial | Cuarta entrega del TP|
 | 14    | martes 26 de Junio | Parcial ||
 | 15    | martes 03 de Julio | 1° Recuperatorio ||
