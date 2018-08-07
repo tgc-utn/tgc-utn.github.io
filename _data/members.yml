@@ -1,21 +1,24 @@
 
-- name: Mariano Banquiero
-  github: mbanquiero
-
 - name: Leandro Barbagallo
   github: lebarba
 
-- name: Matías Leone
-  github: leonematias
+- name: Leandro Javier Laiño
+  github: LeandroJavierLaino
+
+- name: Lucio Moya
+  github: DNAngeluS
+
+- name: Mariano Banquiero
+  github: mbanquiero
 
 - name: Martín Giachetti
   github: mgiachetti
 
+- name: Matías Leone
+  github: leonematias
+
 - name: Pablo Biancotto
   github: akhanubis
-
-- name: Lucio Moya
-  github: DNAngeluS
 
 - name: René Juan Rico Mendoza
   github: rejurime

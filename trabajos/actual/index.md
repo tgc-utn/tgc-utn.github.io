@@ -20,16 +20,14 @@ permalink: /trabajos/actual/
 
 * [TGC Viewer](https://github.com/tgc-utn/tgc-viewer/releases) (Ejemplos)
 * [DirectX SDK](http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=6812) (última versión Junio 2010, 570 mb.)
-* [Visual Studio Community Edition](https://www.visualstudio.com/es-ar/products/visual-studio-community-vs)
-* [Monodevelop](http://www.monodevelop.com/)
+* [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/)
 * [3Ds Max](http://www.autodesk.com/education/free-software/3ds-max) (Academic version)
 * [SketchUp](http://www.sketchup.com/)
 * [Exportador de SketchUp](https://drive.google.com/file/d/0BxUJZewaWJ7mWk5wLTIzcUZJSWc/view?usp=sharing) (beta)
-* [VM-WinXP Framework TgcViewer](https://drive.google.com/open?id=0B-mVMTBAay-gWVY3U09PSHBIWjA) (DEPRECATED, NO TIENE LA ULTIMA VERSION)
 
 ### Grupos
 
-* Dar de alta tu grupo: [Formulario de grupos 1C2018](https://goo.gl/forms/vfrmvII1t4Q5yulu1)
+* [Dar de alta tu grupo](https://goo.gl/forms/vfrmvII1t4Q5yulu1)
 
 ### Sugerencias
 
