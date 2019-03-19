@@ -36,18 +36,17 @@ td{
 |:-----:|:-------------------:|:------------:|:-----------------:|
 |  1    | martes 19 de Marzo | Unidad 1 y 2 - Conceptos Básicos y Avanzados de 2D ||
 |  2    | martes 26 de Marzo | Introducción al Trabajo Práctico, Demo TGCViewer ||
-|  3    | martes 28 de Agosto | Unidad 3 - Conceptos Básicos de 3D, Ejercicios | Cierre de inscripción de grupos de TP|
-|  4    | martes 9 de Abril | Unidad 3 - Conceptos Avanzados de 3D | Presentación Tutores|
-|  5    | martes 16 de Abril | Unidad 6 - Detección de Colisiones | Primer entrega|
-|  6    | martes 23 de Abril | Unidad 7 - Técnicas de Optimización ||
-|  7    | martes 30 de Abril | Unidad 4 - Texturas e Iluminación | Segunda entrega|
-|  8    | martes 7 de Mayo | Unidad 8 - Clase de Shaders 1 ||
-|  9    | martes 14 de Mayo | Unidad 8 - Clase de Shaders 2 ||
-| 10    | martes 21 de Mayo | Unidad 8 - Efectos Avanzados | Tercer entrega|
-| 11    | martes 28 de Mayo | Workshop especial - Ejercicios parcial||
-| 12    | martes 04 de Junio | Ensayo parcial | Cuarta entrega del TP |
-| 13    | martes 11 de Junio | Parcial ||
-| 14    | martes 18 de Junio | 1° Recuperatorio ||
-| 15    | martes 25 de Junio | Presentación oral grupal del Trabajo Práctico ||
-| 16    | martes 02 de Julio | 2° Recuperatorio ||
-|     | Sabado 03 de Agosto | Última fecha firma de TP asignaturas Cuatrimestrales ||
+|  3    | martes 9 de Abril | Unidad 3 - Conceptos Básicos de 3D, Ejercicios | Cierre de inscripción de grupos de TP|
+|  4    | martes 16 de Abril | Unidad 3 - Conceptos Avanzados de 3D | Presentación Tutores|
+|  5    | martes 23 de Abril | Unidad 6 - Detección de Colisiones | Primer entrega|
+|  6    | martes 30 de Abril | Unidad 7 - Técnicas de Optimización ||
+|  7    | martes 7 de Mayo | Unidad 4 - Texturas e Iluminación | Segunda entrega|
+|  8    | martes 14 de Mayo | Unidad 8 - Clase de Shaders 1 ||
+|  9    | martes 21 de Mayo | Unidad 8 - Clase de Shaders 2 ||
+| 10    | martes 28 de Mayo | Unidad 8 - Efectos Avanzados | Tercer entrega|
+| 11    | martes 4 de Junio | Workshop especial - Ejercicios parcial||
+| 12    | martes 11 de Junio | Ensayo parcial | Cuarta entrega del TP |
+| 13    | martes 18 de Junio | Parcial ||
+| 14    | martes 25 de Junio | 1° Recuperatorio ||
+| 15    | martes 2 de Julio | Presentación oral grupal del Trabajo Práctico ||
+|     | Sabado 3 de Agosto | Última fecha firma de TP asignaturas Cuatrimestrales ||
