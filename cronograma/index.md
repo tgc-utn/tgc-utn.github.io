@@ -49,4 +49,5 @@ td{
 | 13    | martes 11 de Junio | Parcial ||
 | 14    | martes 18 de Junio | 1° Recuperatorio ||
 | 15    | martes 25 de Junio | Presentación oral grupal del Trabajo Práctico ||
-| 16    | martes 02 de Julio | Última fecha firma de TP asignaturas Cuatrimestrales ||
+| 16    | martes 02 de Julio | 2° Recuperatorio ||
+|     | Sabado 03 de Agosto | Última fecha firma de TP asignaturas Cuatrimestrales ||
