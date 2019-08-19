@@ -70,7 +70,6 @@ No utilizar la última versión del framework para el TP, descargar el enlace de
   * [Texturas de SkyBox 2](http://www.custommapmakers.org/skyboxes.php)
 * Tutoriales:
   * [Modelado de personaje Low-Poly](https://3dtotal.com/tutorials/t/low-poly-character-modeling-and-texturing-athey-nansel-moravetz-model-man-low-poly)
-  * [Modelado de personaje Low-Poly 2](http://www.3dtotal.com/team/Tutorials/discmage/discmage1.php)
   * [Videos y tutoriales varios](http://www.poopinmymouth.com/#tutorials)
 * Videos con tutoriales:
   * [Tutoriales sobre uso general de 3Ds MAX](https://www.youtube.com/view_play_list?p=A12BF2F8CC489A50)
