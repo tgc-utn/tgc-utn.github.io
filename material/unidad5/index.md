@@ -8,11 +8,11 @@ permalink: /material/unidad5/
 
 ### Apunte
 
-* [Unidad 5 - Apunte.pdf](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B-mVMTBAay-gMTAwNjczODUtNTY0ZC00ODVhLTk2MTktZTY4Nzc0ZWJkYjI0&hl=es)
+* [Unidad 5 - Apunte.pdf](https://drive.google.com/open?id=0B-mVMTBAay-gMTAwNjczODUtNTY0ZC00ODVhLTk2MTktZTY4Nzc0ZWJkYjI0)
 
 ### Lectura Adicional
 
-* [Computer animation - Algorithms and techniques-Chapter 4.pdf](https://docs.google.com/leaf?id=0B-mVMTBAay-gY2VmMzY4YTgtNzI2Zi00ODg4LWI4MzktNTU1OWE5OGQ4YzE3&sort=name&layout=list&num=50)
+* [Computer animation - Algorithms and techniques-Chapter 4.pdf](https://drive.google.com/open?id=0B-mVMTBAay-gY2VmMzY4YTgtNzI2Zi00ODg4LWI4MzktNTU1OWE5OGQ4YzE3)
 
 ### Práctica
 
@@ -21,8 +21,8 @@ permalink: /material/unidad5/
 ### Links
 
 * Videos de Euler Gimbal Lock y Quaternions
-  * [Euler rotations explained](https://www.youtube.com/watch?v=zc8b2Jo7mno)
+  * [Euler rotations explained](https://youtu.be/zc8b2Jo7mno)
   * [The rotation problem](https://vimeo.com/2649637)
-* [Curvas cúbicas paramétricas](http://sabia.tic.udc.es/gc/teoria/Curvas/HTML/TrabajoGC.htm)
-* [Basic bone System](http://moddb.wikia.com/wiki/OpenGL:Tutorials:Basic_Bones_System)
-* [Making of Avatar](http://www.youtube.com/watch?v=P2_vB7zx_SQ)
+* [Artículo sobre Quaternions](https://www.gamasutra.com/view/feature/3278/rotating_objects_using_quaternions.php)
+* [Basic bone System](https://moddb.fandom.com/wiki/OpenGL:Tutorials:Basic_Bones_System)
+* [Making of Avatar](https://youtu.be/P2_vB7zx_SQ)

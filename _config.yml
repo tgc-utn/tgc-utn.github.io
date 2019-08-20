@@ -7,19 +7,24 @@
 
 # Site settings
 title: Técnicas de Gráficos por Computadora
+author: TGC
 email: tgcentregas@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "show_excerpts:"
  Página web de Técnicas de Gráficos por Computadora de la UTN FRBA.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tgcutn.com.ar" # the base hostname & protocol for your site
-facebook_group: tgcutn
-github_username: tgc-utn
-google_group: tecnicasdegraficosporcomputadora
-twitter_username: tgcutn
-youtube_username: tgcentregas
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+minima:
+  # generate social links in footer
+  social_links:
+    twitter: tgcutn
+    github: tgc-utn
+    facebook: tgcutn
+    youtube: tgcentregas
 
 # Build settings
-markdown: kramdown
+theme: minima
 
-# For Travisci
-exclude: [vendor]
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

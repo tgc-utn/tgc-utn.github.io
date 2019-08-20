@@ -1,0 +1,6 @@
+#!/bin/sh
+set -e # halt script on error
+
+echo "Building the example site..."
+bundle exec jekyll build
+bundle exec htmlproofer ./_site
