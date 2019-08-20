@@ -4,9 +4,9 @@ Repositorio de la página web de [TGC](http://tgc-utn.github.io/).
 
 ### Puesta en marcha (Debian / Ubuntu)
 
-Esta es una web contruida con [Jekyll](https://jekyllrb.com/) y alojada en [GitHub Pages](https://pages.github.com/). Para poder levantar el sitio primero verifique los [requerimientos](https://jekyllrb.com/docs/installation/#requirements) de Jekyll. Se utilizo para el diseño de la web el [template](https://github.com/jekyll/minima) por defecto de Jekyll y iconos de [Iconfinder](https://www.iconfinder.com/iconsets/social-network-9).
+Esta es una web contruida con [Jekyll](https://jekyllrb.com/) y alojada en [GitHub Pages](https://pages.github.com/). Para poder levantar el sitio primero verifique los [requerimientos](https://jekyllrb.com/docs/installation/#requirements) de Jekyll. Se utilizo para el diseño de la web el [template](https://github.com/jekyll/minima) por defecto de Jekyll.
 
-Vamos a necesitar tener instalado primero [Ruby](https://www.ruby-lang.org/) y luego intalar la gema de Jekyll.
+Vamos a necesitar tener instalado primero [Ruby](https://www.ruby-lang.org/).
 
 ```bash
 sudo apt-get install ruby-full build-essential zlib1g-dev

@@ -20,9 +20,7 @@ permalink: /material/unidad5/
 
 ### Links
 
-* Videos de Euler Gimbal Lock y Quaternions
-  * [Euler rotations explained](https://youtu.be/zc8b2Jo7mno)
-  * [The rotation problem](https://vimeo.com/2649637)){: data-proofer-ignore="true" }
+* [Euler rotations explained](https://youtu.be/zc8b2Jo7mno)
 * [Artículo sobre Quaternions](https://www.gamasutra.com/view/feature/3278/rotating_objects_using_quaternions.php)
 * [Basic bone System](https://moddb.fandom.com/wiki/OpenGL:Tutorials:Basic_Bones_System)
 * [Making of Avatar](https://youtu.be/P2_vB7zx_SQ)
