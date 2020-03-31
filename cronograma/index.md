@@ -38,15 +38,15 @@ td{
 |  2    | martes 24 de Marzo | No se dictarán clases - Día Nacional de la Memoria por la Verdad y la Justicia ||
 |  3    | martes 31 de Marzo | No se dictarán clases - Día del Veterano y de los Caídos en la Guerra de las Malvinas ||
 |  4    | martes 07 de Abril | Nociones de gráficos por computadora ||
-|  5    | martes 14 de Abril | Presentación del trabajo práctico ||
-|  6    | martes 21 de Abril | Transformaciones ||
-|  7    | martes 28 de Abril | Render Pipeline ||
-|  8    | martes 05 de Mayo | Texturas y Nociones de Shaders ||
-|  9    | martes 12 de Mayo | Iluminación y Vertex Shader ||
-| 10    | martes 19 de Mayo | Shaders de Post-Procesado ||
+|  5    | martes 14 de Abril | Transformaciones ||
+|  6    | martes 21 de Abril | Render Pipeline ||
+|  7    | martes 28 de Abril | Texturas y Nociones de Shaders ||
+|  8    | martes 05 de Mayo | Iluminación y Vertex Shader ||
+|  9    | martes 12 de Mayo | Shaders de Post-Procesado ||
+| 10    | martes 19 de Mayo | PBR ||
 |  -    | martes 26 de Mayo | Turno de examen final - No se dictarán clases ||
-| 11    | martes 02 de Junio | PBR ||
-| 12    | martes 09 de Junio | Optimización ||
+| 11    | martes 02 de Junio | Optimización ||
+| 12    | martes 09 de Junio | Game engine workshop ||
 | 13    | martes 16 de Junio | Ensayo parcial ||
 | 14    | martes 23 de Junio | Parcial ||
 | 15    | martes 30 de Junio | 1° Recuperatorio ||
