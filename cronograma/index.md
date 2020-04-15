@@ -37,18 +37,18 @@ td{
 |  1    | martes 17 de Marzo | No se dictarán clases ||
 |  2    | martes 24 de Marzo | No se dictarán clases - Día Nacional de la Memoria por la Verdad y la Justicia ||
 |  3    | martes 31 de Marzo | No se dictarán clases - Día del Veterano y de los Caídos en la Guerra de las Malvinas ||
-|  4    | martes 07 de Abril | Nociones de gráficos por computadora ||
-|  5    | martes 14 de Abril | Transformaciones ||
+|  4    | martes 07 de Abril | [Nociones de gráficos por computadora](https://docs.google.com/presentation/d/13SGHD1smmkZSZ5RZ9af4C0v_oaSXpK5pQ8SAOGsQN9A) ||
+|  5    | martes 14 de Abril | [Transformaciones](https://docs.google.com/presentation/d/1Swn4KPXrVTW7QMxvIhDQIjBaBsWQer4SY2m5mc6LVGQ) ||
 |  6    | martes 21 de Abril | Render Pipeline ||
-|  7    | martes 28 de Abril | Texturas y Nociones de Shaders ||
+|  7    | martes 28 de Abril | Texturas y Nociones de Shaders | Primera entrega del TP |
 |  8    | martes 05 de Mayo | Iluminación y Vertex Shader ||
 |  9    | martes 12 de Mayo | Shaders de Post-Procesado ||
-| 10    | martes 19 de Mayo | PBR ||
+| 10    | martes 19 de Mayo | PBR | Segunda entrega del TP |
 |  -    | martes 26 de Mayo | Turno de examen final - No se dictarán clases ||
 | 11    | martes 02 de Junio | Optimización ||
-| 12    | martes 09 de Junio | Game engine workshop ||
+| 12    | martes 09 de Junio | Game engine workshop | Tercera entrega del TP |
 | 13    | martes 16 de Junio | Ensayo parcial ||
 | 14    | martes 23 de Junio | Parcial ||
-| 15    | martes 30 de Junio | 1° Recuperatorio ||
+| 15    | martes 30 de Junio | 1° Recuperatorio | Cuarta entrega del TP |
 | 16    | martes 07 de Julio | Presentación oral grupal del trabajo práctico ||
 |  -    | sábado 01 de Agosto | Última fecha firma de TP asignaturas Cuatrimestrales ||
