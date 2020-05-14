@@ -39,10 +39,10 @@ td{
 |  3    | martes 31 de Marzo | No se dictarán clases - Día del Veterano y de los Caídos en la Guerra de las Malvinas ||
 |  4    | martes 07 de Abril | [Nociones de gráficos por computadora](https://docs.google.com/presentation/d/13SGHD1smmkZSZ5RZ9af4C0v_oaSXpK5pQ8SAOGsQN9A) ||
 |  5    | martes 14 de Abril | [Transformaciones](https://docs.google.com/presentation/d/1Swn4KPXrVTW7QMxvIhDQIjBaBsWQer4SY2m5mc6LVGQ) ||
-|  6    | martes 21 de Abril | Render Pipeline ||
-|  7    | martes 28 de Abril | Texturas y Nociones de Shaders | Primera entrega del TP |
-|  8    | martes 05 de Mayo | Iluminación y Vertex Shader ||
-|  9    | martes 12 de Mayo | Shaders de Post-Procesado ||
+|  6    | martes 21 de Abril | [Render Pipeline](https://docs.google.com/presentation/d/1RQRYWBX9S9Qc5kwJmT_d2ASb7UfFxnlxSpODgkhI440) ||
+|  7    | martes 28 de Abril | [Texturas y Nociones de Shaders](https://docs.google.com/presentation/d/1w1pWBYd3EHGwKs0o3v6ddjmhPZp5V6Hr-LEYHs5B3Mk) | Primera entrega del TP |
+|  8    | martes 05 de Mayo | [Iluminación y Vertex Shader](https://docs.google.com/presentation/d/1nQ7xWib-3MoYDNirxEykiAHnsClffb00a57zjJyq7Zg) ||
+|  9    | martes 12 de Mayo | [Shaders de Post-Procesado](https://docs.google.com/presentation/d/1kkOsSZJjFzbnZw1duE_E5TUtG-0bC0yRuDnhzPCD134) ||
 | 10    | martes 19 de Mayo | PBR | Segunda entrega del TP |
 |  -    | martes 26 de Mayo | Turno de examen final - No se dictarán clases ||
 | 11    | martes 02 de Junio | Optimización ||
