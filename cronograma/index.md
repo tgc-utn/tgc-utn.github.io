@@ -43,9 +43,9 @@ td{
 |  7    | martes 28 de Abril | [Texturas y Nociones de Shaders](https://docs.google.com/presentation/d/1w1pWBYd3EHGwKs0o3v6ddjmhPZp5V6Hr-LEYHs5B3Mk) | Primera entrega del TP |
 |  8    | martes 05 de Mayo | [Iluminación y Vertex Shader](https://docs.google.com/presentation/d/1nQ7xWib-3MoYDNirxEykiAHnsClffb00a57zjJyq7Zg) ||
 |  9    | martes 12 de Mayo | [Shaders de Post-Procesado](https://docs.google.com/presentation/d/1kkOsSZJjFzbnZw1duE_E5TUtG-0bC0yRuDnhzPCD134) ||
-| 10    | martes 19 de Mayo | PBR | Segunda entrega del TP |
+| 10    | martes 19 de Mayo | [PBR](https://docs.google.com/presentation/d/1PASgwE1Ku8aMQBzWxVE2YBrDnZv6Wq4jDpLWRX2wj64) | Segunda entrega del TP |
 |  -    | martes 26 de Mayo | Turno de examen final - No se dictarán clases ||
-| 11    | martes 02 de Junio | Optimización ||
+| 11    | martes 02 de Junio | [Optimización](https://docs.google.com/presentation/d/1XiWBmhVaKx0pbjBbObiDiNE1Zf4Rgw7T26YmRFda4No) ||
 | 12    | martes 09 de Junio | Game engine workshop | Tercera entrega del TP |
 | 13    | martes 16 de Junio | Ensayo parcial ||
 | 14    | martes 23 de Junio | Parcial ||
