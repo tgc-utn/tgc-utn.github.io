@@ -3,7 +3,7 @@
     * Copyright 2013-2020 Start Bootstrap
     * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-grayscale/blob/master/LICENSE)
     */
-    (function ($) {
+(function ($) {
     "use strict"; // Start of use strict
 
     // Smooth scrolling using jQuery easing
@@ -29,7 +29,22 @@
             }
         }
     });
-
+    
+    $(document).ready(function() 
+    {
+        var shaderContainer = $('#background-shader');
+        var useShader = shaderContainer.is(':visible');
+        // Executes in lg or greater
+        if(useShader) 
+            shaderContainer.attr('src', shaderContainer.attr('data-src'));
+        else
+        {
+            var videoContainer = $('#background-video-src');
+            videoContainer.attr('src', videoContainer.attr('data-src'));
+            videoContainer.parent()[0].load();
+        }
+    });
+    
     // Closes responsive menu when a scroll trigger link is clicked
     $(".js-scroll-trigger").click(function () {
         $(".navbar-collapse").collapse("hide");
@@ -54,3 +69,6 @@
     // Collapse the navbar when page is scrolled
     $(window).scroll(navbarCollapse);
 })(jQuery); // End of use strict
+
+
+    

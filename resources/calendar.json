@@ -1,0 +1,68 @@
+{
+    "dates":
+    [
+        {
+            "date": "20-1-2020",
+            "events": 
+            [
+                {
+                    "type": "Clase",
+                    "name": "Nociones de gráficos por computadora",
+                    "link": ""
+                }
+            ]
+        },   
+        {
+            "date": "27-1-2020",
+            "events": 
+            [
+                {
+                    "type": "Clase",
+                    "name": "Transformaciones",
+                    "link": "https://docs.google.com/presentation/d/1Swn4KPXrVTW7QMxvIhDQIjBaBsWQer4SY2m5mc6LVGQ"
+                },
+                {
+                    "type": "TP",
+                    "name": "Primera entrega del trabajo práctico"
+                }
+            ]
+        },
+        {
+            "date": "4-2-2020",
+            "holiday": true,
+            "events": 
+            [
+                {
+                    "type": "No hay clases",
+                    "name": "Día del trabajador"
+                }
+            ]
+        },
+        {
+            "date": "11-2-2020",
+            "events": 
+            [
+                {
+                    "type": "Clase",
+                    "name": "Render Pipeline",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "date": "18-2-2020",
+            "events": 
+            [
+                {
+                    "type": "Clase",
+                    "name": "Iluminación",
+                    "link": ""
+                },
+                {
+                    "type": "Parcial",
+                    "name": "Primer Parcial"
+                }
+            ]
+        }
+    ]
+}

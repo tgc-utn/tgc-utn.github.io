@@ -1,0 +1,61 @@
+{
+    "categories":
+    [
+        {
+            "name": "Matemática",
+            "links":
+            [   
+                {
+                    "link": "https://www.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V",
+                    "name": "Math for Game Devs",
+                    "description": "Curso completo en formato video de matemática para desarrolladores de videojuegos.",
+                    "author": 
+                    {
+                        "name": "Freya Hólmer", 
+                        "link": "https://twitter.com/FreyaHolmer"
+                    },
+                    "tags": ["Matemática", "Funciones"]
+                },
+                {
+                    "link": "https://www.desmos.com/calculator",
+                    "name": "Desmos",
+                    "description": "Pagina web para dibujar funciones.",
+                    "tags": ["Matemática", "Funciones"]
+                } 
+            ]
+        },
+     
+        {
+            "name": "Shaders",
+            "links":
+            [   
+                {
+                    "link": "https://thebookofshaders.com/",
+                    "name": "The Book of Shaders",
+                    "description": "Página web que explica shaders desde cero, y múltiples cálculos que pueden realizarse usando sólamente un quad.",
+                    "author": 
+                    {
+                        "name": "Patricio Gonzalez Vivo", 
+                        "link": "http://patriciogonzalezvivo.com/"
+                    },
+                    "tags": ["Matemática", "Shaders", "Funciones", "Quad", "GLSL", "WebGL"]
+                },
+                {
+                    "link": "https://shadertoy.com/",
+                    "name": "Shader Toy",
+                    "description": "Red social de shaders en quads.",
+                    "author":
+                    {
+                        "name": "Beautypi",
+                        "link": "http://www.beautypi.com/"
+                    },
+                    "tags": ["Shaders", "GLSL", "WebGL"]
+                } 
+            ]
+            
+        }
+        
+        
+        
+    ]
+}
