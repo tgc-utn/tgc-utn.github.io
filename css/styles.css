@@ -392,7 +392,7 @@ h6, .h6 {
 }
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 0.85rem;
   font-weight: 300;
 }
 
@@ -4764,7 +4764,7 @@ a.badge:hover, a.badge:focus {
 
 .badge-primary {
   color: #fff;
-  background-color: #64a19d;
+  background-color: #0083e3;
 }
 a.badge-primary:hover, a.badge-primary:focus {
   color: #fff;
@@ -4803,7 +4803,7 @@ a.badge-success:focus, a.badge-success.focus {
 
 .badge-info {
   color: #fff;
-  background-color: #17a2b8;
+  background-color: #098dc1;
 }
 a.badge-info:hover, a.badge-info:focus {
   color: #fff;
@@ -10400,4 +10400,29 @@ body {
 .text-white-50 strong
 {
 	color: #cbcbcb;
+}
+
+#resources
+{
+	padding-top: 10rem;
+	padding-bottom: 10rem;
+}
+
+
+#calendar
+{
+	padding-top: 10rem;
+	padding-bottom: 10rem;
+}
+
+#tps
+{
+	padding-top: 10rem;
+	padding-bottom: 10rem;
+}
+
+
+.inline-icon
+{
+	margin-right: .2rem;
 }

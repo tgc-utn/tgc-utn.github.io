@@ -31,11 +31,11 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#index">Inicio</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#recursos">Recursos</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#unidades">Unidades</a></li>
-						<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#tp">Trabajo pr&aacute;ctico</a></li>
-						<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#tps">Trabajos anteriores</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#">Inicio</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="resources.html">Recursos</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="calendar.html">Calendario</a></li>
+						<li class="nav-item"><a class="nav-link js-scroll-trigger" href="https://docs.google.com/document/d/1R9nnQYHihX_bXz55AWbHuvmFl8olRc1Jlz7njMbOlYg/edit?usp=sharing" target="_blank">Trabajo pr&aacute;ctico</a></li>
+						<li class="nav-item"><a class="nav-link js-scroll-trigger" href="tps.html">Trabajos anteriores</a></li>
                     </ul>
                 </div>
             </div>
@@ -50,7 +50,10 @@
                     <a class="btn btn-primary js-scroll-trigger" href="#about">Conocer m&aacute;s</a>
                 </div>
             </div>
-			<iframe class="main-shader" width="2560" height="1440" frameborder="0" src="https://www.shadertoy.com/embed/WtyyDm?gui=false&t=10&paused=false&muted=true&fullscreen=true&frameborder=0" allowfullscreen="allowfullscreen"></iframe>
+			<iframe id="background-shader" class="main-shader d-lg-block d-none" width="2560" height="1440" frameborder="0" data-src="https://www.shadertoy.com/embed/WtyyDm?gui=false&t=10&paused=false&muted=true&fullscreen=true&frameborder=0" allowfullscreen="allowfullscreen"></iframe>
+			<video autoplay muted loop class="main-shader d-lg-none d-xl-none" id="background-video">
+                <source id="background-video-src" data-src="assets/media/background.mp4" type="video/mp4">
+            </video>
         </header>
 		
         <!-- About-->
@@ -110,7 +113,7 @@
 				 <!-- Contents-->
                 <div class="row align-items-center no-gutters mb-4 mb-lg-5">                    
                     <div class="col-xl-12 col-lg-5">
-                        <div class="text-lg-left">
+                        <div class="text-lg-left text-center">
                            <h4>&iquest;Qu&eacute; contenidos tiene TGC?</h4>
                            <div class="list-group" id="contents">
 							  <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
@@ -309,7 +312,7 @@
 						<div class="col-xl-12 col-lg-12 row mb-5">
 							<div class="col-xl-6 col-lg-6">
 								<img src="assets/img/math-is-math.png" class="img-fluid mb-3 mb-lg-0" />								
-								<figcaption class="figure-caption text-center"><i>Math is math!</i></figcaption>
+								<figcaption class="figure-caption text-center mb-3 mb-lg-0"><i>Math is math!</i></figcaption>
 							</div>									
 							<p class="text-white-50 mb-0 col-xl-6 col-lg-6">		
 								Tanto la teor&iacute;a como la pr&aacute;ctica requieren de conocimientos en matem&aacute;tica, asumidos ya aprendidos.
