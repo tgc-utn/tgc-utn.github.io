@@ -1,0 +1,18 @@
+// Print-only styles.
+@media print {
+  .side-bar,
+  .page-header {
+    display: none;
+  }
+  .main-content {
+    max-width: auto;
+    margin: 1em;
+  }
+}
+
+
+@media (min-width: 50rem) {
+  .site-title {
+    font-size: 18px !important;
+  }
+}

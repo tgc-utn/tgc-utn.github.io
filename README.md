@@ -4,7 +4,8 @@ Repositorio de la página web de [TGC](http://tgc-utn.github.io/).
 
 ### Puesta en marcha (Debian / Ubuntu)
 
-Esta es una web contruida con [Jekyll](https://jekyllrb.com/) y alojada en [GitHub Pages](https://pages.github.com/). Para poder levantar el sitio primero verifique los [requerimientos](https://jekyllrb.com/docs/installation/#requirements) de Jekyll. Se utilizo para el diseño de la web el [template](https://github.com/jekyll/minima) por defecto de Jekyll.
+Esta es una web contruida con [Jekyll](https://jekyllrb.com/) y alojada en [GitHub Pages](https://pages.github.com/). Para poder levantar el sitio primero verifique los [requerimientos](https://jekyllrb.com/docs/installation/#requirements) de Jekyll. 
+Usamos el theme [Just the docs](https://pmarsceill.github.io/just-the-docs/)
 
 Vamos a necesitar tener instalado primero [Ruby](https://www.ruby-lang.org/).
 
@@ -21,7 +22,9 @@ Siguiendo estos pasos vamos a poder copiar el repositorio a la computadora y con
 ```bash
 git clone https://github.com/tgc-utn/tgc-utn.github.io.git
 cd tgc-utn.github.io
-bundle exec jekyll serve
+bundle install
+
+bundle exec jekyll serve --livereload --config _config.yml,_config_dev.yml
 # => Listo solo hay que entrar a http://localhost:4000
 ```
 
