@@ -1,6 +1,8 @@
 ---
-layout: page
-permalink: /material/unidad1/
+layout: default
+title: Unidad 1 - Conceptos Básicos de 2D
+parent: Material
+nav_order: 1
 ---
 ## Unidad 1 - Conceptos Básicos de 2D
 
