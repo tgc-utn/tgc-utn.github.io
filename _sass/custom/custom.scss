@@ -16,12 +16,26 @@
   }
 }
 
-@media (min-width: $lg) {
+@media (min-width: 70rem) {
   .side-bar {
     width: $nav-width;
   }
 }
 
+// Indice
+.home-title {
+  // font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  // font-family: 'Heebo', sans-serif !important;
+  font-size: 2.5rem;
+  line-height: 2.5rem;
+  // letter-spacing: 0.8rem;
+  background: linear-gradient(rgba(0, 231, 255, 0.9), rgb(0, 135, 255));
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+// Cronograma
 table.cronograma {
   width: 100%;
   border-collapse: collapse;
