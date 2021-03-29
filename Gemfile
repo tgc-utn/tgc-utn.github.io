@@ -10,4 +10,5 @@ gem 'github-pages'
 
 group :jekyll_plugins do
   gem "just-the-docs", "~> 0.3.3"
+  gem 'jekyll-fontawesome-svg'
 end

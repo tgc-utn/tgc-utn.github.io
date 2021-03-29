@@ -35,6 +35,26 @@
   background-clip: text;
 }
 
+.home-logo { 
+  padding: 2rem 10rem;
+  background-color: #292929;
+  background-size: 16px 16px;
+  background-position: 50%;
+  background-image: linear-gradient(
+    90deg
+    ,rgba(55,55,255,.4) 1px,transparent 0),linear-gradient(
+    180deg
+    ,rgba(55,55,255,.4) 1px,transparent 0);
+}
+
+.home-image img{
+
+}
+
+.contact .icon{ 
+  vertical-align: text-bottom;
+}
+
 // Cronograma
 table.cronograma {
   width: 100%;
