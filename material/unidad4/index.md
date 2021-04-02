@@ -1,6 +1,8 @@
 ---
-layout: page
-permalink: /material/unidad4/
+layout: default
+title: Unidad 4 - Texturas e Iluminación
+parent: Material
+nav_order: 4
 ---
 ## Unidad 4 - Texturas e Iluminación
 

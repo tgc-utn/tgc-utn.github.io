@@ -1,6 +1,8 @@
 ---
-layout: page
-permalink: /material/unidad2/
+layout: default
+title: Unidad 2 - Conceptos Avanzados de 2D
+parent: Material
+nav_order: 2
 ---
 
 ## Unidad 2 - Conceptos Avanzados de 2D

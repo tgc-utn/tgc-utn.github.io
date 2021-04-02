@@ -1,6 +1,8 @@
 ---
-layout: page
-permalink: /material/unidad6/
+layout: default
+title: Unidad 6 - Detección de Colisiones
+parent: Material
+nav_order: 6
 ---
 ## Unidad 6 - Detección de Colisiones
 

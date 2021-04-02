@@ -1,6 +1,8 @@
 ---
-layout: page
-permalink: /material/unidad7/
+layout: default
+title: Unidad 7 - Técnicas de Optimización
+parent: Material
+nav_order: 7
 ---
 ## Unidad 7 - Técnicas de Optimización
 

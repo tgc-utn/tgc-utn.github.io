@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Material
-navHome: true
+has_children: true
 permalink: /material/
 ---
 

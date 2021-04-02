@@ -9,6 +9,7 @@
 title: Técnicas de Gráficos por Computadora
 author: TGC
 email: tgcentregas@gmail.com
+theme: just-the-docs
 description: > # this means to ignore newlines until "show_excerpts:"
  Página web de Técnicas de Gráficos por Computadora de la UTN FRBA.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -16,17 +17,33 @@ url: "http://tgcutn.com.ar" # the base hostname & protocol for your site
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
-minima:
-  # generate social links in footer
-  social_links:
-    twitter: tgcutn
-    github: tgc-utn
-    facebook: tgcutn
-    youtube: tgcentregas
+# minima:
+#   # generate social links in footer
+#   social_links:
+#     twitter: tgcutn
+#     github: tgc-utn
+#     facebook: tgcutn
+#     youtube: tgcentregas
+
+# Just the docs
+color_scheme: tgc
+logo: "/images/logotgc.png"
+# Aux links for the upper right navigation
+aux_links:
+  "GitHub":
+    - "//github.com/tgc-utn"
+aux_links_new_tab: true
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Editar esta pagina en GitHub."
+gh_edit_repository: "https://github.com/tgc-utn/tgc-utn.github.io/" # the github URL for your repo
+gh_edit_branch: "master" # the branch that your docs is served from
+gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Build settings
 markdown: kramdown
-theme: minima
+
+lang: es-AR
 
 plugins:
  - jekyll-feed

@@ -1,6 +1,8 @@
 ---
-layout: page
-permalink: /material/unidad5/
+layout: default
+title: Unidad 5 - Animación
+parent: Material
+nav_order: 5
 ---
 ## Unidad 5 - Animación
 

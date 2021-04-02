@@ -1,6 +1,8 @@
 ---
 layout: default
-permalink: /material/unidad8/
+title: Unidad 8 - Adaptadores de Video
+parent: Material
+nav_order: 8
 ---
 ## Unidad 8 - Adaptadores de Video
 

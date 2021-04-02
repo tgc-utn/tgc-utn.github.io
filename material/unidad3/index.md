@@ -1,6 +1,8 @@
 ---
-layout: page
-permalink: /material/unidad3/
+layout: default
+title: Unidad 3 - Conceptos Básicos de 3D
+parent: Material
+nav_order: 3
 ---
 ## Unidad 3 - Conceptos Básicos de 3D
 
