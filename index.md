@@ -81,3 +81,9 @@ Como trabajamos con modelos, puntos y espacios, también es importante que desem
 [^rti]: Aquellas aplicaciones que tienen que responder en un intervalo de tiempo determinado, usualmente corto.
 
 {% fa_svg_generate %}
+
+<script type="text/javascript" src="assets/js/shaderback.js"></script>
+<script type="text/javascript">
+    shaderback.setDebug(true);
+    window.onload = shaderback.loadURL("assets/shaders/ronan.fs",true);
+</script>
