@@ -1,7 +1,17 @@
+### Jekyll ###
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+### Ruby ###
+*.gem
+*.rbc
 vendor/
-.DS_Store
 Gemfile.lock
+
+### VisualStudioCode ###
+.vscode/*
+
+### macOS ###
+.DS_Store
