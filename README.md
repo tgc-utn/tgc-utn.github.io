@@ -1,4 +1,4 @@
-# tgc-utn.github.io [![Build Status](https://travis-ci.org/tgc-utn/tgc-utn.github.io.svg?branch=master)](https://travis-ci.org/tgc-utn/tgc-utn.github.io)
+# tgc-utn.github.io [![Build and deploy Jekyll site to GitHub Pages](https://github.com/tgc-utn/tgc-utn.github.io/actions/workflows/github-pages.yml/badge.svg)](https://github.com/tgc-utn/tgc-utn.github.io/actions/workflows/github-pages.yml)
 
 Repositorio de la página web de [TGC](http://tgc-utn.github.io/).
 
