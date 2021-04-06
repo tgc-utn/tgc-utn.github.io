@@ -23,4 +23,5 @@ jobs:
       - name: htmlproofer
         run: |
           bundle install
-          bundle exec htmlproofer ${GITHUB_WORKSPACE}/../jekyll_build
+          cd ${GITHUB_WORKSPACE}/../jekyll_build
+          bundle exec htmlproofer ./
