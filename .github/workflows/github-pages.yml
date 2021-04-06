@@ -22,6 +22,5 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: htmlproofer
         run: |
-          bundle config path "${GITHUB_WORKSPACE}/vendor/bundle"
-          gem install html-proofer
+          bundle install
           bundle exec htmlproofer ${GITHUB_WORKSPACE}/../jekyll_build
