@@ -56,7 +56,7 @@ Federico Naveira | Sebastian Amaro | Sebastian Gomez Battista
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 | | | |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![int1](/images/20131c/Alejandro Mendez 1404490.JPG) | ![int2](/images/20131c/Cesar Montalvan.jpg) | ![int3](/images/20131c/Alejandro Suarez 1145381  .jpg) | ![int4](/images/20131c/Martin Silberkasten.jpg)
+![int1](/images/20131c/Alejandro Mendez 1404490.JPG) | ![int2](/images/20131c/Cesar Montalvan.jpg) | ![int3](/images/20131c/Alejandro Suarez 1145381.jpg) | ![int4](/images/20131c/Martin Silberkasten.jpg)
 Alejandro Mendez | Cesar Montalvan | Alejandro Suarez | Martin Silberkasten
 
 

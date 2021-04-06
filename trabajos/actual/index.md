@@ -54,7 +54,6 @@ permalink: /trabajos/actual/
 
 ### Enlaces sobre C#:
 
-* [Tutorial C# (español)](http://www.devjoker.com/asp/~/gru/Tutorial-C/TUCS/Tutorial-C.aspx)
 * [Tutorial C# (inglés)](http://www.java2s.com/Tutorial/CSharp/CatalogCSharp.htm)
 * [Libro Pro C# 2008 and the .NET 3.5 platform](http://books.google.com/books?id=VGT1_UJzjM0C&printsec=frontcover&dq=c%23+pro&hl=es&ei=r4VgTKCfHYK78gb45py2DQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCsQ6AEwAA#v=onepage&q&f=false)
 
@@ -65,7 +64,6 @@ permalink: /trabajos/actual/
 
 * [Ayuda de Managed DirectX (MSDN inglés)](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/bb318658(v=vs.85))
 * [Libro Managed DirectX 9 Kick Start](https://books.google.com.ar/books?id=8Y4VrGBtGM8C&lpg=PP1&dq=Managed%20DirectX%209%20Kick%20Start&hl=es&pg=PP1#v=onepage&q&f=false)
-* [Libro Beginning DirectX 9](http://read.pudn.com/downloads40/ebook/138617/[Beginning.DirectX.9.0].Beginning.DirectX.9.pdf)
 * [Libro DirectX 9 graphics](http://books.google.com/books?id=CE-nxZ2JfS8C&printsec=frontcover&dq=directx+9&hl=es&ei=vYRgTMW4OMO88ga5irHCDQ&sa=X&oi=book_result&ct=result&resnum=2&ved=0CC0Q6AEwAQ#v=onepage&q&f=false)
 
 * [Foro de GameDev](http://www.gamedev.net/index)
