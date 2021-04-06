@@ -30,3 +30,4 @@ jobs:
       - uses: chabad360/htmlproofer@master
         with:
           directory: "./"
+          arguments: --allow-hash-href
