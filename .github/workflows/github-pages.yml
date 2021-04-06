@@ -20,3 +20,12 @@ jobs:
       - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+  htmlproofer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: master
+      - uses: chabad360/htmlproofer@master
+        with:
+          directory: "./"
