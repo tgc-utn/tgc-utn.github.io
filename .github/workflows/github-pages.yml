@@ -20,6 +20,7 @@ jobs:
       - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      - run: |
-          bundle config path "$PWD/vendor/bundle"
+      - name: htmlproofer
+        run: |
+          bundle config path "${GITHUB_WORKSPACE}/vendor/bundle"
           bundle exec htmlproofer ${GITHUB_WORKSPACE}/../jekyll_build
