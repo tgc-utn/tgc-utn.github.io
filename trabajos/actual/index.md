@@ -22,6 +22,8 @@ permalink: /trabajos/actual/
 
 ### Documentos (leer todos, en el siguiente orden)
 <!-- TODO: Escribir sobre el TP en MONOGAME! -->
+* [Enunciado del Trabajo Práctico](https://docs.google.com/document/d/1R9nnQYHihX_bXz55AWbHuvmFl8olRc1Jlz7njMbOlYg/)
+* [Recursos para el Trabajo Práctico](https://drive.google.com/file/d/1Gmr6qM6kEt6sngbwr1_ZJOvb97MSq3QR/view)
 <!-- * [Enunciado del Trabajo Práctico](https://drive.google.com/open?id=10_9YngZLLZzIyVjXMp61XSO1rYHBJRgFBm-CUNm2vdw) -->
 <!-- * [Guía de TGC framework](https://drive.google.com/open?id=1zeM7PZKPU-v5EufukBtf3OeyI7dCSuoGhdn0DqgPUuk) -->
 <!-- * [Guía de MeshCreator](https://drive.google.com/file/d/0B-mVMTBAay-gMnBGMFJFdnQ3WTg/edit?usp=sharing) (Actualizado en 25/03/2014) -->
