@@ -84,6 +84,7 @@ Como trabajamos con modelos, puntos y espacios, también es importante que desem
 
 <script type="text/javascript" src="assets/js/shaderback.js"></script>
 <script type="text/javascript">
-    shaderback.setDebug(true);
-    window.onload = shaderback.loadURL("assets/shaders/ronan.fs",true);
+    if(window.innerWidth > 1200){
+        window.onload = shaderback.loadURL("assets/shaders/ronan.fs",true);
+    }
 </script>
