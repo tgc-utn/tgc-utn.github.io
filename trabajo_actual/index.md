@@ -25,7 +25,7 @@ has_children: true
 
 El trabajo práctico de este cuatrimestre consiste en desarrollar un _Ejemplo Creativo_ usando la siguiente [plantilla](https://github.com/tgc-utn/tgc-monogame-tp). En el mismo, el alumno debe integrar todas las técnicas que vio en la cursada, cumpliendo con ciertas restricciones básicas pero aplicando su imaginación para elegir la temática global.
 
-Tendrán que seleccionar el tema del desarrollo de una lista de opciones disponibles, donde cada una presentará los lineamientos y condiciones que deberán ser cumplidos y evaluados. Cada alumno debe inscribirse en el siguiente *[https://docs.google.com/forms/d/e/1FAIpQLScBzqcmqcy5w6Rei-6CrZi4STqx6YGsxmVHTDHhz312n_B_zw/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScBzqcmqcy5w6Rei-6CrZi4STqx6YGsxmVHTDHhz312n_B_zw/viewform?usp=sf_link)*
+Tendrán que seleccionar el tema del desarrollo de una lista de opciones disponibles, donde cada una presentará los lineamientos y condiciones que deberán ser cumplidos y evaluados. Cada alumno debe inscribirse en el siguiente *[https://docs.google.com/forms/d/e/1FAIpQLScBzqcmqcy5w6Rei-6CrZi4STqx6YGsxmVHTDHhz312n_B_zw/viewform?usp=sf_link](formulario)*
 
 La cátedra provee un conjunto de [ejemplos](https://github.com/tgc-utn/tgc-monogame-samples) que sirven de base al alumno. Estos [ejemplos](https://github.com/tgc-utn/tgc-monogame-samples) utilizan muchos modelos 3D y texturas que se ubican en la carpeta Content. El alumno puede hacer uso de todos estos modelos para su ejemplo como así también puede incorporar otros.
 
