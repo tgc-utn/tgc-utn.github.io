@@ -21,18 +21,18 @@ Acá vas a poder encontrar todos los recursos que necesites para la cursada.
 {: .d-flex .flex-justify-around .home-image}
 ### Gráficos por Computadora
 {: .home-title .d-flex .flex-justify-around	 }
-Llamamos Gráficos por Computadora al campo de las ciencias de la computación que se dedica a la generacion de imagenes digitales.
-En esta asignatura nos focalizaremos en Aplicaciones Gráficas en Tiempo Real[^rti], muy utilizadas en el mundo de la arquitectura, videojuegos, medicina, y más.
+Llamamos Gráficos por Computadora al campo de las ciencias de la computación que se dedica a la generación de imágenes digitales.
+En esta asignatura nos enfocamos en Aplicaciones Gráficas en Tiempo Real[^rti], muy utilizadas en el mundo de la arquitectura, videojuegos, medicina, y más.
 
 Quiere decir que nos alejamos de los sistemas orientados a eventos, comunes en otras materias, y nos adentramos en los sistemas en tiempo real:
 ¡Nuestro código responde muchas veces por segundo!
 
-El objetivo es formar personas en los fundamentos de esta área y otorgar los conocimientos necesarios para poder crear este tipo de aplicaciones, que puedan aprender los desarrollos mas recientes sin dificultad. 
+El objetivo es formar personas en los fundamentos de esta área y otorgar los conocimientos necesarios para poder crear este tipo de aplicaciones, que puedan aprender los desarrollos más recientes sin dificultad. 
 
 
 ### ¿Cuales son las condiciones de aprobación?
 {: .home-title .d-flex .flex-justify-around	 }
-para aprobar la asignatura es necesario realizar un [trabajo teórico práctico integrador]({% link trabajo_actual/index.md %}) en el cual se implementan todos los conocimientos adquiridos durante la cursada y un parcial teórico práctico.
+Para aprobar la asignatura es necesario realizar un [trabajo teórico práctico integrador]({% link trabajo_actual/index.md %}) en el cual se implementan todos los conocimientos adquiridos durante la cursada y un parcial teórico práctico.
 
 ![logo-tgc](images/home/section5.png)
 {: .d-flex .flex-justify-around .home-image}
@@ -48,22 +48,22 @@ Cómo se compone un modelo, puntos en el espacio, transformaciones para llevarlo
 ### ¿Esto significa que voy a tener que hacer modelos 3D?
 {: .home-title .d-flex .flex-justify-around	 }
 **¡No!**
-la asignatura está orientada no a los recursos en una aplicación gráfica (modelos, texturas, sonidos) sino estrictamente a la programación, no evaluamos diseño grafico. 
+la asignatura está orientada no a los recursos en una aplicación gráfica (modelos, texturas, sonidos) sino estrictamente a la programación, no evaluamos diseño gráfico. 
 
-Te vamos a dar los modelos necesarios para tu TP. Si aun queres usar un modelo propio, podes, pero tene en cuenta que el tiempo que dediques a hacer andar un modelo es tiempo que no dedicas a la parte que se evalua!
+Te vamos a dar los modelos necesarios para tu TP. Si aún querés usar un modelo propio, podes, pero tené en cuenta que el tiempo que dediques a hacer andar un modelo es tiempo que no dedicas a la parte que se evalúa!
 
-### ¿Que tengo que saber de matematica para poder cursar?
+### ¿Que tengo que saber de matemática para poder cursar?
 {: .home-title .d-flex .flex-justify-around	 }
 
-Tanto la teoría como la práctica requieren de conocimientos en matemática, vistos en las materias homogeneas de la carrera.
- * Calculo vectorial
- * Algebra de matrices
- * Coordenadas Cartesianas, Polares, y como ir de una a otra
- * Geometria del espacio (Puntos, Rectas y Planos)
+Tanto la teoría como la práctica requieren de conocimientos en matemática, vistos en las materias homogéneas de la carrera.
+ * Cálculo vectorial
+ * Álgebra de matrices
+ * Coordenadas Cartesianas, Polares, y cómo ir de una a otra
+ * Geometría del espacio (Puntos, Rectas y Planos)
 
 Como trabajamos con modelos, puntos y espacios, también es importante que desempolves tus apuntes de geometría. No vamos a derivar ni integrar.
 
-¿Necesitás un repaso? Te cubrimos, [Matematica para graficos]({% link material/matematica.md %}).
+¿Necesitás un repaso? Te cubrimos, [Matemática para gráficos]({% link material/matematica.md %}).
 
 ## Google Group de la catedra
 {: .home-title .d-flex .flex-justify-around	 }
