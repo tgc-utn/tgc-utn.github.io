@@ -25,7 +25,7 @@ has_children: true
 
 El trabajo práctico de este cuatrimestre consiste en desarrollar un _Ejemplo Creativo_ usando la siguiente [plantilla](https://github.com/tgc-utn/tgc-monogame-tp). En el mismo, el alumno debe integrar todas las técnicas que vio en la cursada, cumpliendo con ciertas restricciones básicas pero aplicando su imaginación para elegir la temática global.
 
-Tendrán que seleccionar el tema del desarrollo de una lista de opciones disponibles, donde cada una presentará los lineamientos y condiciones que deberán ser cumplidos y evaluados. Cada alumno debe incribirse en el siguiente *[https://docs.google.com/forms/d/e/1FAIpQLScBzqcmqcy5w6Rei-6CrZi4STqx6YGsxmVHTDHhz312n_B_zw/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScBzqcmqcy5w6Rei-6CrZi4STqx6YGsxmVHTDHhz312n_B_zw/viewform?usp=sf_link)*
+Tendrán que seleccionar el tema del desarrollo de una lista de opciones disponibles, donde cada una presentará los lineamientos y condiciones que deberán ser cumplidos y evaluados. Cada alumno debe inscribirse en el siguiente *[https://docs.google.com/forms/d/e/1FAIpQLScBzqcmqcy5w6Rei-6CrZi4STqx6YGsxmVHTDHhz312n_B_zw/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScBzqcmqcy5w6Rei-6CrZi4STqx6YGsxmVHTDHhz312n_B_zw/viewform?usp=sf_link)*
 
 La cátedra provee un conjunto de [ejemplos](https://github.com/tgc-utn/tgc-monogame-samples) que sirven de base al alumno. Estos [ejemplos](https://github.com/tgc-utn/tgc-monogame-samples) utilizan muchos modelos 3D y texturas que se ubican en la carpeta Content. El alumno puede hacer uso de todos estos modelos para su ejemplo como así también puede incorporar otros.
 
@@ -58,7 +58,7 @@ P.E. 2016-2C-3072-LosBorbotones.
 * IDEs 
   * [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/)
   * [Visual Studio Code](https://code.visualstudio.com/)
-  * [Rider](https://www.jetbrains.com/rider/) - necesita licencia educativa, se puede obtener con la cuenta de la UTN [aca](https://www.jetbrains.com/es-es/community/education/#students) 
+  * [Rider](https://www.jetbrains.com/rider/) - necesita licencia educativa, se puede obtener con la cuenta de la UTN [acá](https://www.jetbrains.com/es-es/community/education/#students) 
 
 * [Recursos(Modelos) para el Trabajo Práctico](https://drive.google.com/file/d/1Gmr6qM6kEt6sngbwr1_ZJOvb97MSq3QR/view)
 
