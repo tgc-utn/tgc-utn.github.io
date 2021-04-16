@@ -9,11 +9,11 @@ permalink: /informacion/
 
 #### General
 
-   * Titulo: Técnicas de Gráficos por Computadora
+   * Título: Técnicas de Gráficos por Computadora
    * Año: 3°
    * Código: 082066
-   * Carga horaria: 4hs semanales (19:00 a 22:15)
-   * Dias: Miércoles
+   * Carga horaria: 4 hs semanales (19:00 a 22:15)
+   * Días: Miércoles
    * Turno: Noche
    * Aula:  A confirmar (Medrano)
 

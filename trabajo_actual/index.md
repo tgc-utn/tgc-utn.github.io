@@ -67,12 +67,12 @@ P.E. 2016-2C-3072-LosBorbotones.
 * [TGC Monogame TP](https://github.com/tgc-utn/tgc-monogame-tp)
 * [TGC Monogame samples](https://github.com/tgc-utn/tgc-monogame-samples)
 
-## Enlaces sobre C#:
+## Enlaces sobre C#
 
 * Tutorial C# [Español](https://docs.microsoft.com/es-es/dotnet/csharp/tour-of-csharp/tutorials/) o [Inglés](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)
 * [Tutorial C# (inglés)](http://www.java2s.com/Tutorial/CSharp/CatalogCSharp.htm)
 
-## Enlaces sobre Shaders:
+## Enlaces sobre Shaders
 
 * [Tutorial de Shaders HLSL](http://rbwhitaker.wikidot.com/hlsl-tutorials)
 * [Programación de Shaders](https://docs.microsoft.com/es-es/windows/desktop/direct3dhlsl/dx-graphics-hlsl-writing-shaders-9)
