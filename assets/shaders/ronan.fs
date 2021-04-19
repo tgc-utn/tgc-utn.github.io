@@ -212,7 +212,7 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
     // Normalized pixel coordinates (from 0 to 1)
     vec2 uv = fragCoord/iResolution.xx;
     
-    float scale = 10.0;
+    float scale = 15.0;
 
     uv *= scale;
     uv.y += iGlobalTime * 0.15;
