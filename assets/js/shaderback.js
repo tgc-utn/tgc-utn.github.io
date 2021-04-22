@@ -94,8 +94,8 @@ var shaderback = (function () {
   
     // Update dimensions on a resize event
     function resize() {
-      var width = canvas.clientWidth / pixelScale;
-      var height = canvas.clientHeight / pixelScale;
+      var width = window.innerWidth;
+      var height = window.innerHeight;
       if (canvas.width !== width || canvas.height !== height) {
         canvas.width = width;
         canvas.height = height;
