@@ -1,0 +1,194 @@
+{"0": {
+    "doc": "Unidad 8 - Adaptadores de Video",
+    "title": "Unidad 8 - Adaptadores de Video",
+    "content": ". Apunte . | Unidad 8 - Apunte.pdf | Guía de Shaders.pdf | . Lecturas Adicionales . | Game Graphics Programming - Cap 5 Programmable Shaders.pdf | How Things Work: How GPUs Work.pdf | A Closer Look at GPUs.pdf | Computer Organization and Design, 4th Ed, Introduction to Graphic Processing Units.pdf | . Práctica . | Unidad 8 - Practica.pdf | . Links . | Shadertoy: Herramienta para programar shaders en webgl | GPGP. Ejemplo de uso científico del GPU | RenderMonkey: Herramienta para programar shaders | Articulo sobre NVIDIA CUDA | . ",
+    "url": "http://tgcutn.com.ar/material/unidad8/",
+    "relUrl": "/material/unidad8/"
+  },"1": {
+    "doc": "Unidad 3 - Conceptos Básicos de 3D",
+    "title": "Unidad 3 - Conceptos Básicos de 3D",
+    "content": ". Apunte . | Unidad 3 - Apunte.pdf | Unidad 3 - Anexo Matemática 3D.pdf | . Lectura Adicional . | Managed DirectX9 KickStart - Part I Beginning Graphics Concepts.pdf | . Práctica . | Unidad 3 - Practica.pdf | Ejemplos de proyecciones | Brazo de robot | . Links . | Half Life 2 | Explicacion de View Matrix | Axonometric projections - a technical overview | . ",
+    "url": "http://tgcutn.com.ar/material/unidad3/",
+    "relUrl": "/material/unidad3/"
+  },"2": {
+    "doc": "Unidad 7 - Técnicas de Optimización",
+    "title": "Unidad 7 - Técnicas de Optimización",
+    "content": ". Apunte . | Unidad 7 - Apunte indoor.pdf | Unidad 7 - Apunte outdoor.pdf | . Lecturas Adicionales . | Core Techniques and Algorithms in Game Programming - Chapter 13 Indoors Rendering.pdf | Core Techniques and Algorithms in Game Programming - Chapter 14 Outdoors Algorithms.pdf | Mathematics for Game Developers - Cap 16 Space Partitioning.pdf | Real-Time rendering - Cap 14 Acceleration Algorithms.pdf | . Prácticas . | Unidad 7 - Practica indoor.pdf | Unidad 7 - Practica outdoor.pdf | . ",
+    "url": "http://tgcutn.com.ar/material/unidad7/",
+    "relUrl": "/material/unidad7/"
+  },"3": {
+    "doc": "Unidad 4 - Texturas e Iluminación",
+    "title": "Unidad 4 - Texturas e Iluminación",
+    "content": ". Apunte . | Unidad 4 - Apunte.pdf | Unidad 4 - Introducción a DirectX Shaders.pdf | . Lecturas Adicionales . | Advanced Graphics Programming using Opengl- Color, Shading and Lighting.pdf | Advanced Graphics Programming using Opengl- Texture Mapping.pdf | Essential Mathematics for Games - Cap 8 Lighting.pdf | . Práctica . | Unidad 4 - Practica.pdf | Ejemplos texturas canvas | . ",
+    "url": "http://tgcutn.com.ar/material/unidad4/",
+    "relUrl": "/material/unidad4/"
+  },"4": {
+    "doc": "Unidad 1 - Conceptos Básicos de 2D",
+    "title": "Unidad 1 - Conceptos Básicos de 2D",
+    "content": ". Apunte . | Unidad 1 - Apunte.pdf | . Lectura Adicional . | Display Interfaces, Fundamentals and Standards - Basic Concepts In Display Systems, Format and Timing Standards.pdf | . Práctica . | Unidad 1 - Practica.pdf | . Links . | 2D DCT simulator applet | You Fade to Light Oled screen | What is a sprite sheet? | . ",
+    "url": "http://tgcutn.com.ar/material/unidad1/",
+    "relUrl": "/material/unidad1/"
+  },"5": {
+    "doc": "Unidad 6 - Detección de Colisiones",
+    "title": "Unidad 6 - Detección de Colisiones",
+    "content": ". Apunte . | Unidad 6 - Apunte.pdf | . Lectura Adicional . | Real Time Collision Detection - Chaper 4 Bounding Volumes.pdf | Real Time Collision Detection - Chaper 5 Basic Primitive Tests.pdf | Essential Mathematics for Games - Cap 12 Intersection Testing.pdf | . Prácticas . | Unidad 6 - Practica.pdf | Ejemplos de colisiones en 2D | . Link . | General Collision Detection for Games using Ellipsoids | GeometricTools: sitio con código de muchas colisiones | . ",
+    "url": "http://tgcutn.com.ar/material/unidad6/",
+    "relUrl": "/material/unidad6/"
+  },"6": {
+    "doc": "Unidad 2 - Conceptos Avanzados de 2D",
+    "title": "Unidad 2 - Conceptos Avanzados de 2D",
+    "content": ". Apunte . | Unidad 2 - Apunte.pdf | . Lecturas Adcionales . | Real Time Rendering - Graphics Hardware - Clase-2D.pdf | Mathematics For Computer Graphics - 2D Transformations.pdf | . Práctica . | Unidad 2 - Practica.pdf | Ejemplos de transformaciones (JavaScript) | Ejemplos de transformaciones (C# TGC.Viewer) | . Links . | Microsoft Surface | . ",
+    "url": "http://tgcutn.com.ar/material/unidad2/",
+    "relUrl": "/material/unidad2/"
+  },"7": {
+    "doc": "Material",
+    "title": "Unidades",
+    "content": ". | Unidad 1 - Conceptos Básicos de 2D | Unidad 2 - Conceptos Avanzados de 2D | Unidad 3 - Conceptos Básicos de 3D | Unidad 4 - Texturas e Iluminación | Unidad 5 - Animación | Unidad 6 - Detección de Colisiones | Unidad 7 - Técnicas de Optimización | Unidad 8 - Adaptadores de Video | . ",
+    "url": "http://tgcutn.com.ar/material/#unidades",
+    "relUrl": "/material/#unidades"
+  },"8": {
+    "doc": "Material",
+    "title": "Práctica",
+    "content": ". | Ejercicios de parcial | Ejercicios adicionales | Simulacro de parcial | Simulacro de parcial proyecto base | Machete oficial | . ",
+    "url": "http://tgcutn.com.ar/material/#pr%C3%A1ctica",
+    "relUrl": "/material/#práctica"
+  },"9": {
+    "doc": "Material",
+    "title": "Material",
+    "content": " ",
+    "url": "http://tgcutn.com.ar/material/",
+    "relUrl": "/material/"
+  },"10": {
+    "doc": "Inicio",
+    "title": "Técnicas de Gráficos por Computadora",
+    "content": " ",
+    "url": "http://tgcutn.com.ar/#t%C3%A9cnicas-de-gr%C3%A1ficos-por-computadora",
+    "relUrl": "/#técnicas-de-gráficos-por-computadora"
+  },"11": {
+    "doc": "Inicio",
+    "title": "¡Hola!",
+    "content": "Este es el sitio oficial de Técnicas de Gráficos por Computadora, la materia de tercer año de la Universidad Tecnológica Nacional, Facultad Regional Buenos Aires. Acá vas a poder encontrar todos los recursos que necesites para la cursada. Gráficos por Computadora . Llamamos Gráficos por Computadora al campo de las ciencias de la computación que se dedica a la generación de imágenes digitales. En esta asignatura nos enfocamos en Aplicaciones Gráficas en Tiempo Real1, muy utilizadas en el mundo de la arquitectura, videojuegos, medicina, y más. Quiere decir que nos alejamos de los sistemas orientados a eventos, comunes en otras materias, y nos adentramos en los sistemas en tiempo real: ¡Nuestro código responde muchas veces por segundo! . El objetivo es formar personas en los fundamentos de esta área y otorgar los conocimientos necesarios para poder crear este tipo de aplicaciones, que puedan aprender los desarrollos más recientes sin dificultad. ¿Cuales son las condiciones de aprobación? . Para aprobar la asignatura es necesario realizar un trabajo teórico práctico integrador en el cual se implementan todos los conocimientos adquiridos durante la cursada y un parcial teórico práctico. ¿Cómo se desarrolla la materia? . Durante la cursada, se exploran los contenidos teóricos que conllevan dibujar modelos tridimensionales en tiempo real. Cómo se compone un modelo, puntos en el espacio, transformaciones para llevarlo a la pantalla, y técnicas para iluminarlo junto con distintos efectos que se pueden lograr. ¿Esto significa que voy a tener que hacer modelos 3D? . ¡No! la asignatura está orientada no a los recursos en una aplicación gráfica (modelos, texturas, sonidos) sino estrictamente a la programación, no evaluamos diseño gráfico. Te vamos a dar los modelos necesarios para tu TP. Si aún querés usar un modelo propio, podes, pero tené en cuenta que el tiempo que dediques a hacer andar un modelo es tiempo que no dedicas a la parte que se evalúa! . ¿Que tengo que saber de matemática para poder cursar? . Tanto la teoría como la práctica requieren de conocimientos en matemática, vistos en las materias homogéneas de la carrera. | Cálculo vectorial | Álgebra de matrices | Coordenadas Cartesianas, Polares, y cómo ir de una a otra | Geometría del espacio (Puntos, Rectas y Planos) | . Como trabajamos con modelos, puntos y espacios, también es importante que desempolves tus apuntes de geometría. No vamos a derivar ni integrar. ¿Necesitás un repaso? Te cubrimos, Matemática para gráficos. ",
+    "url": "http://tgcutn.com.ar/#hola",
+    "relUrl": "/#hola"
+  },"12": {
+    "doc": "Inicio",
+    "title": "Google Group de la catedra",
+    "content": "Unirse . ",
+    "url": "http://tgcutn.com.ar/#google-group-de-la-catedra",
+    "relUrl": "/#google-group-de-la-catedra"
+  },"13": {
+    "doc": "Inicio",
+    "title": "Contacto",
+    "content": "Telegram Email . comment-dots . paper-plane . envelope . | Aquellas aplicaciones que tienen que responder en un intervalo de tiempo determinado, usualmente corto. &#8617; . | . ",
+    "url": "http://tgcutn.com.ar/#contacto",
+    "relUrl": "/#contacto"
+  },"14": {
+    "doc": "Inicio",
+    "title": "Inicio",
+    "content": ". ",
+    "url": "http://tgcutn.com.ar/",
+    "relUrl": "/"
+  },"15": {
+    "doc": "Clases",
+    "title": "Clases",
+    "content": "Proximamente . ",
+    "url": "http://tgcutn.com.ar/clases",
+    "relUrl": "/clases"
+  },"16": {
+    "doc": "Trabajos",
+    "title": "Trabajos",
+    "content": ". | Trabajo práctico actual: descarga del TP, crear grupo, etc. | Trabajos de Investigación: papers y temas investigados por alumnos | . Anteriores . | 2015 - Segundo Cuatrimestre | 2015 - Primer Cuatrimestre | 2014 - Segundo Cuatrimestre | 2014 - Primer Cuatrimestre | 2013 - Primer Cuatrimestre | 2012 - Segundo Cuatrimestre | 2012 - Primer Cuatrimestre | 2011 - Segundo Cuatrimestre | 2011 - Primer Cuatrimestre | 2010 - Segundo Cuatrimestre | 2010 - Primer Cuatrimestre | . ",
+    "url": "http://tgcutn.com.ar/trabajos/",
+    "relUrl": "/trabajos/"
+  },"17": {
+    "doc": "Cronograma",
+    "title": "Calendario de la cursada",
+    "content": "| Clase | Fecha | Actividad | Trabajo Práctico | . | 1 | 07 de abril | Nociones de gráficos por computadora |   | . | 2 | 14 de abril | Transformaciones |   | . | 3 | 21 de abril | Render Pipeline |   | . | 4 | 28 de abril | Texturas y Nociones de Shaders |   | . | 5 | 05 de mayo | Colisiones y Vertex Shader | Primera entrega del TP | . | 6 | 12 de mayo | Iluminación |   | . | 7 | 19 de mayo | Practica de Shaders |   | . | 8 | 26 de mayo | Shaders de Post-Procesado | Segunda entrega del TP | . | 9 | 02 de junio | Optimización |   | . | 10 | 09 de junio | Game engine workshop | Tercera entrega del TP | . | 11 | 16 de junio | Ensayo parcial |   | . | 12 | 23 de junio | Fecha de finales |   | . | 13 | 30 de junio | Parcial |   | . | 14 | 07 de julio | 1° Recuperatorio / Physically Based Rendering | Cuarta entrega del TP | . | 15 | 14 de julio | Presentación oral grupal del trabajo práctico | Entrega final del TP | . | 16 | 02 de agosto | Última fecha firma de TP asignaturas Cuatrimestrales |   | . ",
+    "url": "http://tgcutn.com.ar/clases/cronograma/#calendario-de-la-cursada",
+    "relUrl": "/clases/cronograma/#calendario-de-la-cursada"
+  },"18": {
+    "doc": "Cronograma",
+    "title": "Cronograma",
+    "content": ". | Calendario Académico | . ",
+    "url": "http://tgcutn.com.ar/clases/cronograma/",
+    "relUrl": "/clases/cronograma/"
+  },"19": {
+    "doc": "Información de la cátedra",
+    "title": "Técnicas de Gráficos por Computadora",
+    "content": "General . | Título: Técnicas de Gráficos por Computadora | Año: 3° | Código: 082066 | Carga horaria: 4 hs semanales (19:00 a 22:15) | Días: Miércoles | Turno: Noche | Aula: A confirmar (Medrano) | . Correlatividades . | Para cursar . | Regularizadas: Análisis de Sistemas | Aprobadas: Paradigmas de Programación | . | Para rendir final . | Aprobadas: Análisis de Sistemas | . | . Docentes . | Javier Rotelli . | Leandro Barbagallo . | Leandro Javier Laiño . | Lucio Moya Farina . | Mariano Banquiero . | Martín Giachetti . | Matías Leone . | Pablo Biancotto . | René Juan Rico Mendoza . | Rodrigo Nicolás Garcia . | Ronán Ariel Vinitzca . | . Forma de comunicación . | Anuncios en clase | Anuncios por medio del grupo Google - TecnicasDeGraficosPorComputadora | . Material de Estudio . | Apuntes provistos por la cátedra. | Material complementario disponible en el sitio online (Papers, Links, Ejemplos interactivos). | Bibliografía complementaria: . | Real-Time Rendering, 3rd Edition - Tomas Akenine-Moller, Eric Haines, Naty Hoffman - AK Peters | Real-Time Collision Detection - Christer Ericson, Morgan Kauffman | Computer Graphics with OpenGL - Hearn, Baker. Prentice-Hall. | Advanced Graphics Programming using Opengl, Morgan Kauffman | Core Techniques and Algorithms in Game Programming: Daniel Sánchez-Crespo Dalmau | Mathematics for Game Developers, Christopher Tremblay, Premier Press | Essential Mathematics for Games and Interactive Applications, A Programmer’s Guide - 2nd Edition - 2008 | . | . Objetivos de la materia . | El objetivo del curso de Técnicas de Gráficos por Computadora es que el alumno logre: . | Conocer y dominar las distintas técnicas comúnmente utilizadas en la actualidad para la construcción de aplicaciones gráficas en computadoras, como así también aquellas que podrían ser utilizadas en el futuro, sentando las bases para la investigación posterior por parte del alumno devenido en profesional de la materia. | Comprender las tendencias actuales y futuras del mercado de desarrollo gráfico, fomentando a la vez la formación de ideas propias que le permitan aprovechar las herramientas y conceptos más útiles en cada caso, independientemente de la herramienta “de moda”. | Adquirir la capacidad de incorporar distintos tipos de algoritmos y técnicas para el proceso de desarrollo de aplicaciones gráficas, considerando: Comprender la importancia de la calidad y la optimización de las aplicaciones, sobre las bases del funcionamiento técnico y conceptual de herramientas de construcción de software gráfico, con el objetivo de optimizar su valor, entender e incorporar los conceptos de diseño utilizados en la construcción de distintas herramientas aprovechando las bases conceptuales que guían un modelo sobre un conjunto de herramientas dado, extender y/o modificar las herramientas que así lo permitan y sentar las bases para la construcción de sus propias herramientas de desarrollo. | . | . Unidades . | Conceptos Básicos de 2D | Conceptos Avanzados de 2D | Conceptos Básicos de 3D | Texturas e Iluminación | Animación | Detección de Colisiones | Técnicas de Optimización | Adaptadores de Video | . Metodología de Evaluación . | Un trabajo práctico grupal. | Un examen parcial, dos recuperatorios. | Final | . ",
+    "url": "http://tgcutn.com.ar/informacion/#t%C3%A9cnicas-de-gr%C3%A1ficos-por-computadora",
+    "relUrl": "/informacion/#técnicas-de-gráficos-por-computadora"
+  },"20": {
+    "doc": "Información de la cátedra",
+    "title": "Información de la cátedra",
+    "content": " ",
+    "url": "http://tgcutn.com.ar/informacion/",
+    "relUrl": "/informacion/"
+  },"21": {
+    "doc": "Trabajo Practico",
+    "title": "Trabajo Práctico CUATRIMESTRE ACTUAL",
+    "content": ". Contenido . | Introducción . | Creación del ejemplo | . | Downloads | Repositorios | Enlaces sobre C# | Enlaces sobre Shaders | Otros | . ",
+    "url": "http://tgcutn.com.ar/trabajos/actual/#trabajo-pr%C3%A1ctico-cuatrimestre-actual",
+    "relUrl": "/trabajos/actual/#trabajo-práctico-cuatrimestre-actual"
+  },"22": {
+    "doc": "Trabajo Practico",
+    "title": "Introducción",
+    "content": "El trabajo práctico de este cuatrimestre consiste en desarrollar un Ejemplo Creativo usando la siguiente plantilla. En el mismo, el alumno debe integrar todas las técnicas que vio en la cursada, cumpliendo con ciertas restricciones básicas pero aplicando su imaginación para elegir la temática global. Tendrán que seleccionar el tema del desarrollo de una lista de opciones disponibles, donde cada una presentará los lineamientos y condiciones que deberán ser cumplidos y evaluados. Cada alumno debe inscribirse en el siguiente formulario . La cátedra provee un conjunto de ejemplos que sirven de base al alumno. Estos ejemplos utilizan muchos modelos 3D y texturas que se ubican en la carpeta Content. El alumno puede hacer uso de todos estos modelos para su ejemplo como así también puede incorporar otros. Muchas de las técnicas a utilizar son desarrolladas en forma individual en cada uno de los ejemplos provisto por la cátedra. Es tarea del alumno comprenderlos, dominarlos y lograr su integración para desarrollar su propio ejemplo. Todas las consignas del TP se encuentran en el siguiente documento: Enunciado completo del Trabajo Práctico . Creación del ejemplo . Deben hacer un fork del proyecto TGC.MonoGame.TP que les servirá como plantilla para desarrollar su propio ejemplo. Una vez realizado el fork deben cambiarle el nombre (TGC.MonoGame.TP) por el nombre de su grupo. De esta manera se podrá identificar el proyecto de cada grupo. El formato especificado por la cátedra para el nombre del proyecto es: . &lt;Año&gt;-&lt;Cuatrimestre&gt;-&lt;Curso&gt;-&lt;NombreDelGrupo&gt; . donde: . | El año deberá tener cuatro dígitos. | Cuatrimestre deberá ser ‘1C’ o ‘2C’, según corresponda. | El curso será el código del curso, sin la letra K antecedente. | NombreDelGrupo deberá tener como máximo 20 caracteres. | . P.E. 2016-2C-3072-LosBorbotones. Deben respetar el formato. ",
+    "url": "http://tgcutn.com.ar/trabajos/actual/#introducci%C3%B3n",
+    "relUrl": "/trabajos/actual/#introducción"
+  },"23": {
+    "doc": "Trabajo Practico",
+    "title": "Downloads",
+    "content": ". | IDEs . | Visual Studio Community Edition | Visual Studio Code | Rider - necesita licencia educativa, se puede obtener con la cuenta de la UTN acá | . | Recursos(Modelos) para el Trabajo Práctico | . ",
+    "url": "http://tgcutn.com.ar/trabajos/actual/#downloads",
+    "relUrl": "/trabajos/actual/#downloads"
+  },"24": {
+    "doc": "Trabajo Practico",
+    "title": "Repositorios",
+    "content": ". | TGC Monogame TP | TGC Monogame samples | . ",
+    "url": "http://tgcutn.com.ar/trabajos/actual/#repositorios",
+    "relUrl": "/trabajos/actual/#repositorios"
+  },"25": {
+    "doc": "Trabajo Practico",
+    "title": "Enlaces sobre C#",
+    "content": ". | Tutorial C# Español o Inglés | Tutorial C# (inglés) | . ",
+    "url": "http://tgcutn.com.ar/trabajos/actual/#enlaces-sobre-c",
+    "relUrl": "/trabajos/actual/#enlaces-sobre-c"
+  },"26": {
+    "doc": "Trabajo Practico",
+    "title": "Enlaces sobre Shaders",
+    "content": ". | Tutorial de Shaders HLSL | Programación de Shaders ",
+    "url": "http://tgcutn.com.ar/trabajos/actual/#enlaces-sobre-shaders",
+    "relUrl": "/trabajos/actual/#enlaces-sobre-shaders"
+  },"27": {
+    "doc": "Trabajo Practico",
+    "title": "Otros",
+    "content": "| Foro de GameDev | . ",
+    "url": "http://tgcutn.com.ar/trabajos/actual/#otros",
+    "relUrl": "/trabajos/actual/#otros"
+  },"28": {
+    "doc": "Trabajo Practico",
+    "title": "Trabajo Practico",
+    "content": " ",
+    "url": "http://tgcutn.com.ar/trabajos/actual/",
+    "relUrl": "/trabajos/actual/"
+  },"29": {
+    "doc": "Unidad 5 - Animación",
+    "title": "Unidad 5 - Animación",
+    "content": ". Apunte . | Unidad 5 - Apunte.pdf | . Lectura Adicional . | Computer animation - Algorithms and techniques-Chapter 4.pdf | . Práctica . | Unidad 5 - Practica.pdf | . Links . | Euler rotations explained | Artículo sobre Quaternions | Basic bone System | Making of Avatar | . ",
+    "url": "http://tgcutn.com.ar/material/unidad5/",
+    "relUrl": "/material/unidad5/"
+  },"30": {
+    "doc": "Matematica para gráficos",
+    "title": "Matematica para gráficos",
+    "content": "Proximamente . ",
+    "url": "http://tgcutn.com.ar/material/matematica.html",
+    "relUrl": "/material/matematica.html"
+  },"31": {
+    "doc": "Recursos monogame",
+    "title": "Recursos monogame",
+    "content": " ",
+    "url": "http://tgcutn.com.ar/trabajo_actual/monogame.html",
+    "relUrl": "/trabajo_actual/monogame.html"
+  }
+}
