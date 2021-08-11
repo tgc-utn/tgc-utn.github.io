@@ -22,6 +22,5 @@ nav_order: 1
 
 ### Links
 
-* [2D DCT simulator applet](http://pi4.informatik.uni-mannheim.de/pi4.data/content/animations/dct_2d/index.html)
 * [You Fade to Light Oled screen](http://www.chrisoshea.org/projects/you-fade-to-light/)
 * [What is a sprite sheet?](http://www.codeandweb.com/what-is-a-sprite-sheet)
