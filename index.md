@@ -85,16 +85,7 @@ Como trabajamos con modelos, puntos y espacios, también es importante que desem
 <script type="text/javascript" src="assets/js/shaderback.js"></script>
 <script type="text/javascript">
     if(window.innerWidth > 1200){
-        const shaders = [
-            'triangles.fs',
-        ];
         let shaderfile = 'assets/shaders/ronan.fs';
-        if(Math.random() > 0.5){
-            const ind = Math.floor(Math.random() * shaders.length);
-            console.log(ind);
-            shaderfile = 'assets/shaders/' + shaders[ind];
-            console.log(shaderfile);
-        }
         window.onload = shaderback.loadURL(shaderfile,true);
     }
 </script>
