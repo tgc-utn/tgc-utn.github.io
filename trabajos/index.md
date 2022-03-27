@@ -10,7 +10,7 @@ permalink: /trabajos/
 
 ### Anteriores
 
-<iframe width="425" height="355" src="https://youtu.be/fFMRj7Eu8sU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fFMRj7Eu8sU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <ul class="posts">
    {% for post in site.posts %}
