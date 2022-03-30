@@ -11,18 +11,18 @@ nav_order: 2
 
 ### Apunte
 
-* [Unidad 2 - Apunte.pdf](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B-mVMTBAay-gNWI4MmFhNjgtMTEzOS00ZmUwLWI3MjItOGE0ZTQ3NGU4MGMz&hl=es)
+* [Unidad 2 - Apunte.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gNWI4MmFhNjgtMTEzOS00ZmUwLWI3MjItOGE0ZTQ3NGU4MGMz/view?usp=sharing&resourcekey=0-KEQ-uAiFVWw7qsEqxUJBcg)
 
 ### Lecturas Adcionales
 
-* [Real Time Rendering - Graphics Hardware - Clase-2D.pdf](http://docs.google.com/leaf?id=0B-mVMTBAay-gYTQyY2UxMTgtODg4NC00NzVjLWFiZDUtZTJmYWJjOTczYTk3&hl=es&authkey=COio7sIL)
-* [Mathematics For Computer Graphics - 2D Transformations.pdf](http://docs.google.com/leaf?id=0B-mVMTBAay-gOGY5ZWI3N2MtZGZkNS00NzQwLWI0MmYtMjYxOTc0YWI0ZjQx&hl=es&authkey=CMjwrNAE)
+* [Real Time Rendering - Graphics Hardware - Clase-2D.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gYTQyY2UxMTgtODg4NC00NzVjLWFiZDUtZTJmYWJjOTczYTk3/view?usp=sharing&resourcekey=0-QNHSY7G_gGby1GLW9wabOw)
+* [Mathematics For Computer Graphics - 2D Transformations.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gOGY5ZWI3N2MtZGZkNS00NzQwLWI0MmYtMjYxOTc0YWI0ZjQx/view?usp=sharing&resourcekey=0-0-1qfc_ZbT3o2mdHqfUNKw)
 
 ### Práctica
 
-* [Unidad 2 - Practica.pdf](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B-mVMTBAay-gYTFiYjQ3ZGEtNDFkMS00OTBiLTlmN2QtOWI1MzRjODNlOTc2&hl=es)
+* [Unidad 2 - Practica.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gYTFiYjQ3ZGEtNDFkMS00OTBiLTlmN2QtOWI1MzRjODNlOTc2/view?usp=sharing&resourcekey=0-P3aIugkocsqyJ9SqWYw7pA)
 * [Ejemplos de transformaciones (JavaScript)](https://github.com/tgc-utn/canvas-html-examples/tree/master/Transformaciones)
-* [Ejemplos de transformaciones (C# TGC.Viewer)](https://github.com/tgc-utn/tgc-viewer/blob/9ef543e1ecaef0a0546664ad5c0b55a88980230d/TGC.Examples/Engine2D/Transforms2D.cs)
+* [Ejemplos de transformaciones (C# TGC.Viewer)](https://github.com/tgc-utn/tgc-viewer/blob/master/TGC.Examples/Engine2D/Transforms2D.cs)
 
 ### Links
 
