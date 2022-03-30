@@ -15,7 +15,7 @@ nav_order: 6
 ### Lectura Adicional
 
 * [Real Time Collision Detection - Chaper 4 Bounding Volumes.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gNmVaWEdRQUlZWUU/view?usp=sharing&resourcekey=0-4U-j_PBLWsox2bcZ3fec5Q)
-* [Real Time Collision Detection - Chaper 5 Basic Primitive Tests.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gMzc2ZjJkYTQtODFlMS00M2Y0LWFiN2YtNDY0MjJlMTQ5OTc4/view?usp=sharing&resourcekey=0-o1NQVskkh0PWCWXoTLPDRg)
+* [Real Time Collision Detection - Chaper 5 Basic Primitive Tests.pdf](https://drive.google.com/file/d/1CVWVATe7BpmQ578G1_iJyFDMhme6iJfo/view?usp=sharing)
 * [Essential Mathematics for Games - Cap 12 Intersection Testing.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gNXJPTldfRUJZejA/view?usp=sharing&resourcekey=0-rS6IMYCeW3hYeotybNK2RA)
 
 ### Prácticas
