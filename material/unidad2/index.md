@@ -26,4 +26,4 @@ nav_order: 2
 
 ### Links
 
-* [Microsoft Surface](http://www.microsoft.com/surface/)
+* [Microsoft Surface](https://www.microsoft.com/surface)

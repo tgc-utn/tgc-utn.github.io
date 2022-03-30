@@ -23,4 +23,4 @@ nav_order: 1
 ### Links
 
 * [You Fade to Light Oled screen](http://www.chrisoshea.org/projects/you-fade-to-light/)
-* [What is a sprite sheet?](http://www.codeandweb.com/what-is-a-sprite-sheet)
+* [What is a sprite sheet?](https://www.codeandweb.com/what-is-a-sprite-sheet)

@@ -27,4 +27,4 @@ nav_order: 3
 
 * [Half Life 2](http://orange.half-life2.com/hl2ep2.html)
 * [Explicacion de View Matrix](https://www.3dgep.com/understanding-the-view-matrix/)
-* [Axonometric projections - a technical overview](http://www.compuphase.com/axometr.htm)
+* [Axonometric projections - a technical overview](https://www.compuphase.com/axometr.htm)
