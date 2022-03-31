@@ -10,22 +10,22 @@ nav_order: 8
 
 ### Apunte
 
-* [Unidad 8 - Apunte.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gT1Vta2JDZ3NfUE0/edit?usp=sharing)
-* [Guía de Shaders.pdf](https://docs.google.com/open?id=0B-mVMTBAay-gTGtUWVpjUm9wMUk)
+* [Unidad 8 - Apunte.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gT1Vta2JDZ3NfUE0/view?usp=sharing&resourcekey=0-QwkyHT8rdLV3GLejeW2ufg)
+* [Guía de Shaders.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gTGtUWVpjUm9wMUk/view?usp=sharing&resourcekey=0-GhqbacHEWsRQra9zNi5AnQ)
 
 ### Lecturas Adicionales
 
-* [Game Graphics Programming - Cap 5 Programmable Shaders.pdf](https://docs.google.com/open?id=0B-mVMTBAay-gcF9iOG5oSkx3bGM)
-* [How Things Work: How GPUs Work.pdf](http://docs.google.com/leaf?id=0B-mVMTBAay-gYTUwZTE5ZWUtZGNkMy00ZTYyLTljMDgtNmVjNGMwMGZiZDE1&hl=es&authkey=CJvKjtQJ)
-* [A Closer Look at GPUs.pdf](http://graphics.stanford.edu/%7Ekayvonf/papers/fatahalianCACM.pdf)
-* [Computer Organization and Design, 4th Ed, Introduction to Graphic Processing Units.pdf](https://docs.google.com/file/d/0B-mVMTBAay-gQkJWM1VVZFAwTEk/edit?usp=sharing)
+* [Game Graphics Programming - Cap 5 Programmable Shaders.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gcF9iOG5oSkx3bGM/view?usp=sharing&resourcekey=0-3b11OyCQIDsGnb5FSugt4g)
+* [How Things Work: How GPUs Work.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gYTUwZTE5ZWUtZGNkMy00ZTYyLTljMDgtNmVjNGMwMGZiZDE1/view?usp=sharing&resourcekey=0-EPPLo_uq4Mxy-RsEMqtQgQ)
+* [A Closer Look at GPUs.pdf](https://graphics.stanford.edu/%7Ekayvonf/papers/fatahalianCACM.pdf)
+* [Computer Organization and Design, 4th Ed, Introduction to Graphic Processing Units.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gQkJWM1VVZFAwTEk/view?usp=sharing&resourcekey=0-DzjSbMt-OA9saqkeEbk5-Q)
 
 ### Práctica
 
-* [Unidad 8 - Practica.pdf](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B-mVMTBAay-gOTE3ZTJjMWEtY2VlYy00NGUxLTljNDAtMDZjNDIwOWY2MTRi&hl=es)
+* [Unidad 8 - Practica.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gOTE3ZTJjMWEtY2VlYy00NGUxLTljNDAtMDZjNDIwOWY2MTRi/view?usp=sharing&resourcekey=0-dkJgJfZQkO_O3y4sxgD-Mg)
 
 ### Links
 * [Shadertoy: Herramienta para programar shaders en webgl](https://www.shadertoy.com/)
-* [GPGP. Ejemplo de uso científico del GPU](http://www.ks.uiuc.edu/Research/gpu/)
-* [RenderMonkey: Herramienta para programar shaders](http://gpuopen.com/archive/gamescgi/rendermonkey-toolsuite/)
+* [GPGP. Ejemplo de uso científico del GPU](https://www.ks.uiuc.edu/Research/gpu/)
+* [RenderMonkey: Herramienta para programar shaders](https://gpuopen.com/archived/rendermonkey-toolsuite/)
 * [Articulo sobre NVIDIA CUDA](http://ixbtlabs.com/articles3/video/cuda-1-p1.html)
