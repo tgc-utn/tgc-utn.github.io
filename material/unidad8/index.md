@@ -28,4 +28,4 @@ nav_order: 8
 * [Shadertoy: Herramienta para programar shaders en webgl](https://www.shadertoy.com/)
 * [GPGP. Ejemplo de uso científico del GPU](https://www.ks.uiuc.edu/Research/gpu/)
 * [RenderMonkey: Herramienta para programar shaders](https://gpuopen.com/archived/rendermonkey-toolsuite/)
-* [Articulo sobre NVIDIA CUDA](https://ixbtlabs.com/articles3/video/cuda-1-p1.html)
+* [Articulo sobre NVIDIA CUDA](http://ixbtlabs.com/articles3/video/cuda-1-p1.html)
