@@ -10,15 +10,15 @@ nav_order: 5
 
 ### Apunte
 
-* [Unidad 5 - Apunte.pdf](https://drive.google.com/open?id=0B-mVMTBAay-gMTAwNjczODUtNTY0ZC00ODVhLTk2MTktZTY4Nzc0ZWJkYjI0)
+* [Unidad 5 - Apunte.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gMTAwNjczODUtNTY0ZC00ODVhLTk2MTktZTY4Nzc0ZWJkYjI0/view?usp=sharing&resourcekey=0-DtAx3BUtug1Ukxm3Fo9BeA)
 
 ### Lectura Adicional
 
-* [Computer animation - Algorithms and techniques-Chapter 4.pdf](https://drive.google.com/open?id=0B-mVMTBAay-gY2VmMzY4YTgtNzI2Zi00ODg4LWI4MzktNTU1OWE5OGQ4YzE3)
+* [Computer animation - Algorithms and techniques-Chapter 4.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gY2VmMzY4YTgtNzI2Zi00ODg4LWI4MzktNTU1OWE5OGQ4YzE3/view?usp=sharing&resourcekey=0-cKCikWi2uu8L-7LkEF2xwA)
 
 ### Práctica
 
-* [Unidad 5 - Practica.pdf](https://docs.google.com/open?id=0B-mVMTBAay-gMzViZmIxZWYtZWIwNC00ZTZiLTlmNzYtMWMwMTYxMGNjMjgz)
+* [Unidad 5 - Practica.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gMzViZmIxZWYtZWIwNC00ZTZiLTlmNzYtMWMwMTYxMGNjMjgz/view?usp=sharing&resourcekey=0-JfcPB8YsHOeiPowkJ4LsEQ)
 
 ### Links
 

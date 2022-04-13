@@ -10,21 +10,21 @@ nav_order: 3
 
 ### Apunte
 
-* [Unidad 3 - Apunte.pdf](https://docs.google.com/open?id=0B-mVMTBAay-gN0tsdW51ZWVSX0c1dVpqcUFSQkRIUQ)
-* [Unidad 3 - Anexo Matemática 3D.pdf](https://docs.google.com/file/d/0B-mVMTBAay-gTDQzZXM2WDhsWk0/edit?usp=sharing)
+* [Unidad 3 - Apunte.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gN0tsdW51ZWVSX0c1dVpqcUFSQkRIUQ/view?usp=sharing&resourcekey=0--pgDjbxXldGce8-C8jHOKg)
+* [Unidad 3 - Anexo Matemática 3D.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gTDQzZXM2WDhsWk0/view?usp=sharing&resourcekey=0-sUDIXbBXcNYWxWJvYar3oQ)
 
 ### Lectura Adicional
 
-* [Managed DirectX9 KickStart - Part I Beginning Graphics Concepts.pdf](http://docs.google.com/leaf?id=0B-mVMTBAay-gNjI0NmM3NjEtMGQ5OS00ZDEyLWFkZDktMjMyYzFjY2YxNWVh&hl=es&authkey=CKmpyI4K)
+* [Managed DirectX9 KickStart - Part I Beginning Graphics Concepts.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gNjI0NmM3NjEtMGQ5OS00ZDEyLWFkZDktMjMyYzFjY2YxNWVh/view?usp=sharing&resourcekey=0-jRDo4ovw5HCcgMYP18Ej9A)
 
 ### Práctica
 
-* [Unidad 3 - Practica.pdf](https://docs.google.com/open?id=0B-mVMTBAay-gSm5jZXlQbTR6S00)
+* [Unidad 3 - Practica.pdf](https://drive.google.com/file/d/0B-mVMTBAay-gSm5jZXlQbTR6S00/view?usp=sharing&resourcekey=0-aQ8m4iWKZQ1CmZCl8muv6A)
 * [Ejemplos de proyecciones](https://github.com/tgc-utn/canvas-html-examples/tree/master/Proyecciones)
-* [Brazo de robot](/material/unidad3/Brazo1.cs)
+* [Brazo de robot](https://github.com/tgc-utn/tgc-viewer/blob/master/TGC.Examples/Transformations/EjemploBrazoRobot.cs)
  
 ### Links
 
 * [Half Life 2](http://orange.half-life2.com/hl2ep2.html)
 * [Explicacion de View Matrix](https://www.3dgep.com/understanding-the-view-matrix/)
-* [Axonometric projections - a technical overview](http://www.compuphase.com/axometr.htm)
+* [Axonometric projections - a technical overview](https://www.compuphase.com/axometr.htm)

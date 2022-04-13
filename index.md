@@ -75,7 +75,7 @@ Como trabajamos con modelos, puntos y espacios, también es importante que desem
 
 <span class="fs-6 d-flex flex-justify-around contact mb-6">
 [{% fa_svg fas.fa-paper-plane %} Telegram](https://t.me/joinchat/DSaH6kbltQS0jdkF3e5IqA){: .btn .btn-blue}
-[{% fa_svg fas.fa-envelope %} Email](mailto:tgcentregas@gmail.com){: .btn .btn-blue}
+[{% fa_svg fas.fa-envelope %} Email](mailto:tgc.entregas@gmail.com){: .btn .btn-blue}
 </span>
 
 [^rti]: Aquellas aplicaciones que tienen que responder en un intervalo de tiempo determinado, usualmente corto.
