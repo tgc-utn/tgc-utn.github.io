@@ -30,8 +30,15 @@ color_scheme: tgc
 logo: "/images/logotgc.png"
 # Aux links for the upper right navigation
 aux_links:
-  "GitHub":
+  "GitHub <div src='assets/github.svg' class='social-button github'></div>":
     - "//github.com/tgc-utn"
+  "Youtube <div class='social-button youtube'></div>":
+    - "//www.youtube.com/user/tgcentregas"
+  "Google group <div class='social-button gmail'></div>":
+    - "//groups.google.com/g/TecnicasDeGraficosPorComputadora/?authuser=4"
+  "Discord <div src='assets/discord.svg' class='social-button discord'></div>":
+    - "//https://discord.gg/FKZ4k39zAr"
+
 aux_links_new_tab: true
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
