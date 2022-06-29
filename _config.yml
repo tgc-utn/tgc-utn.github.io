@@ -35,7 +35,7 @@ aux_links:
   "Youtube <div class='social-button youtube'></div>":
     - "//youtube.com/user/tgcentregas"
   "Google group <div class='social-button gmail'></div>":
-    - "//groups.google.com/u/1/g/TecnicasDeGraficosPorComputadora"
+    - "//groups.google.com/g/TecnicasDeGraficosPorComputadora"
   "Discord <div src='assets/discord.svg' class='social-button discord'></div>":
     - "//discord.gg/FKZ4k39zAr"
 
