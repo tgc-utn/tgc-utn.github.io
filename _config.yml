@@ -33,11 +33,11 @@ aux_links:
   "GitHub <div src='assets/github.svg' class='social-button github'></div>":
     - "//github.com/tgc-utn"
   "Youtube <div class='social-button youtube'></div>":
-    - "//www.youtube.com/user/tgcentregas"
+    - "//youtube.com/user/tgcentregas"
   "Google group <div class='social-button gmail'></div>":
-    - "//groups.google.com/g/TecnicasDeGraficosPorComputadora/?authuser=4"
+    - "//groups.google.com/g/TecnicasDeGraficosPorComputadora"
   "Discord <div src='assets/discord.svg' class='social-button discord'></div>":
-    - "//https://discord.gg/FKZ4k39zAr"
+    - "//discord.gg/FKZ4k39zAr"
 
 aux_links_new_tab: true
 # Footer "Edit this page on GitHub" link text

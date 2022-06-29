@@ -13,9 +13,9 @@ permalink: /informacion/
    * Año: 3°
    * Código: 082066
    * Carga horaria: 4 hs semanales (19:00 a 22:15)
-   * Días: Miércoles
+   * Días: Martes
    * Turno: Noche
-   * Aula:  A confirmar (Medrano)
+   * Aula: A confirmar (Medrano)
 
 #### Correlatividades
 
@@ -42,13 +42,13 @@ permalink: /informacion/
    * Apuntes provistos por la cátedra.
    * Material complementario disponible en el sitio online (Papers, Links, Ejemplos interactivos).
    * Bibliografía complementaria:
-       * Real-Time Rendering, 3rd Edition - Tomas Akenine-Moller, Eric Haines, Naty Hoffman - AK Peters
-       * Real-Time Collision Detection - Christer Ericson, Morgan Kauffman
+       * Real-Time Rendering, 3rd Edition - Tomas Akenine-Moller, Eric Haines, Naty Hoffman - AK Peters.
+       * Real-Time Collision Detection - Christer Ericson, Morgan Kauffman.
        * Computer Graphics with OpenGL - Hearn, Baker. Prentice-Hall.
-       * Advanced Graphics Programming using Opengl, Morgan Kauffman
-       * Core Techniques and Algorithms in Game Programming: Daniel Sánchez-Crespo Dalmau
-       * Mathematics for Game Developers, Christopher Tremblay, Premier Press
-       * Essential Mathematics for Games and Interactive Applications, A Programmer's Guide - 2nd Edition - 2008
+       * Advanced Graphics Programming using Opengl, Morgan Kauffman.
+       * Core Techniques and Algorithms in Game Programming: Daniel Sánchez-Crespo Dalmau.
+       * Mathematics for Game Developers, Christopher Tremblay, Premier Press.
+       * Essential Mathematics for Games and Interactive Applications, A Programmer's Guide - 2nd Edition - 2008.
 
 #### Objetivos de la materia
 
@@ -72,4 +72,4 @@ permalink: /informacion/
 
    * Un trabajo práctico grupal.
    * Un examen parcial, dos recuperatorios.
-   * Final
+   * Final.
