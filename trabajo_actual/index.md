@@ -36,7 +36,7 @@ Todas las consignas del TP se encuentran en el siguiente documento: [Enunciado c
 
 ### Creación del ejemplo
 
-Deben hacer un [fork](https://guides.github.com/activities/forking/) del proyecto [TGC.MonoGame.TP](https://github.com/tgc-utn/tgc-monogame-tp) que les servirá como plantilla para desarrollar su propio ejemplo. Una vez realizado el fork deben [cambiarle el nombre](https://help.github.com/articles/renaming-a-repository/) (TGC.MonoGame.TP) por el nombre de su grupo. De esta manera se podrá identificar el proyecto de cada grupo.
+Deben hacer un [fork](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) del proyecto [TGC.MonoGame.TP](https://github.com/tgc-utn/tgc-monogame-tp) que les servirá como plantilla para desarrollar su propio ejemplo. Una vez realizado el fork deben [cambiarle el nombre](https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository) (TGC.MonoGame.TP) por el nombre de su grupo. De esta manera se podrá identificar el proyecto de cada grupo.
 
 El formato especificado por la cátedra para el nombre del proyecto es: 
 
