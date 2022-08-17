@@ -5,7 +5,7 @@ navHome: true
 permalink: /clases/cronograma/
 ---
 
-* [Calendario Académico](http://siga.frba.utn.edu.ar/up/docs/CalendarioAcademico2021.pdf)
+* [Calendario Académico](https://frba.utn.edu.ar/static/CalendarioAcademico2022.pdf)
 
 ## Calendario de la cursada
 
