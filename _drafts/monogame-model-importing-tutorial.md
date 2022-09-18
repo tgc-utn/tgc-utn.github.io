@@ -2,28 +2,28 @@
 
 ## Tabla de contenidos
 
-1. [Tabla de contenidos](#tabla-de-contenidos)
-2. [Introducción](#introducción-💻)
-3. [Pasos para importar un modelo 3D](#pasos-para-importar-un-modelo-3d-🧊)
+1. [Tabla de contenidos ℹ️](#tabla-de-contenidos)
+2. [Introducción 🖥️](#introducción)
+3. [Pasos para importar un modelo 3D 🧊](#pasos-para-importar-un-modelo-3d)
     1.  [Buscar un modelo 3D](#buscar-un-modelo-3d)
     2.  [Importar el modelo en el Content Editor](#importar-el-modelo-en-el-content-editor)
     3.  [Compilar el Content Editor](#compilar-el-content-editor)
     4.  [Cargar el modelo desde MonoGame](#cargar-el-modelo-desde-monogame)
     5.  [Mostrar el modelo](#mostrar-el-modelo)
-4. [Restricciones del Trabajo Práctico 📜](#restricciones-del-trabajo-práctico-📜)
-5. [Dibujando meshes con colores distintos 🎨](#dibujando-meshes-con-colores-distintos-🎨)
+4. [Restricciones del Trabajo Práctico 📜](#restricciones-del-trabajo-práctico)
+5. [Dibujando meshes con colores distintos 🎨](#dibujando-meshes-con-colores-distintos)
 
-## Introducción 💻
+## Introducción
 
-Los __modelos tridimensionales__ son actores principales en la asignatura Técnicas de Gráficos por Computadora. Nos permiten representar objetos y efectos en un escenario.
-Principalmente usamos los que están formados por 🔺 triángulos 🔺, que tienen tres 🔹 vértices 🔹 y estos pueden tener distintos atributos. No todos los modelos tienen los mismos atributos, pero todos los vértices tienen por lo menos una posición (en espacio local).
+Los __modelos tridimensionales__ son actores principales en la asignatura Técnicas de Gráficos por Computadora 🖥️. Nos permiten representar objetos y efectos en un escenario.
+Principalmente usamos los que están formados por triángulos 🔺, que tienen tres vértices 🔹 y estos pueden tener distintos atributos. No todos los modelos tienen los mismos atributos, pero todos los vértices tienen por lo menos una posición (en espacio local).
 Esta guía muestra cómo importar estos modelos desde distintos formatos a MonoGame, la herramienta que usa la cátedra para el trabajo práctico cuatrimestral 🙌.
 
-## Pasos para importar un modelo 3D 🧊
+## Pasos para importar un modelo 3D
 
 ### Buscar un modelo 3D
 
-Las fuentes de modelos 3D pueden ser varias. Podemos crear nuestras propias geometrías, especificando atributos y creando índices para que cada primitiva (generalmente triángulos) sepa por qué vértices está compuesta. Para crear geometría de manera procedural (por código), referir a los ejemplos "Tutorial 1" hasta "Tutorial 6" del proyecto [Samples](https://github.com/tgc-utn/tgc-monogame-samples).
+Las fuentes de modelos 3D 🧊 pueden ser varias. Podemos crear nuestras propias geometrías, especificando atributos y creando índices para que cada primitiva (generalmente triángulos) sepa por qué vértices está compuesta. Para crear geometría de manera procedural (por código), referir a los ejemplos "Tutorial 1" hasta "Tutorial 6" del proyecto [Samples](https://github.com/tgc-utn/tgc-monogame-samples).
 
 
 En esta guía vamos a buscar modelos 3D en páginas web por simplicidad. Los formatos que MonoGame acepta por el momento son FBX, OBJ y DAE, por lo que podemos usar esta [página web](https://free3d.com/) para encontrar algún archivo que sea útil. Por ejemplo, esta [🪴 planta 🪴](https://free3d.com/3d-model/indoor-pot-plant-77983.html) es candidata a ser parte de nuestra aplicación gráfica. _Es importante conocer siempre la licencia de un recurso que vamos a utilizar y aplicarla de manera correcta. La asignatura no se hace cargo del uso indebido de licencias de recursos no provistos por la cátedra, ya que su uso dentro de la misma nunca es comercial._
@@ -115,7 +115,7 @@ protected override void Draw(GameTime gameTime)
 
 Este método simplemente dibuja el modelo 3D usando las matrices dadas. Si tenemos suerte, hasta puede encontrar las texturas y aplicarlas. Esta forma de renderizar modelos es bastante automágica pero implementa el `BasicEffect` de MonoGame, por lo que si estás probando un modelo en particular está bien, pero para una entrega del Trabajo Práctico Cuatrimestral no es suficiente.
 
-## Restricciones del Trabajo Práctico 📜
+## Restricciones del Trabajo Práctico
 
 Para dibujar el modelo de la forma que se necesita para el Trabajo Práctico Cuatrimestral, se debe hacer uso de las siguientes líneas:
 
@@ -150,7 +150,7 @@ protected override void Draw(GameTime gameTime)
 
 Esto dibuja un modelo 3D con un color arbitrario (🔴 rojo en este caso). El método `CopyAbsoluteBoneTransformsTo` copia todas las 🔢 Matrices 🔢 que contiene el modelo para dibujar Meshes a un array. El modelo contiene matrices en forma relativa, y para dibujarlo necesitamos estas Matrices de forma absoluta. Vamos a ahondar más en eso en el siguiente Tutorial, por ahora es importante saber que tenemos las Matrices absolutas y es necesario multiplicar la de cada Mesh por la Matriz de Mundo de todo el modelo 🙌.
 
-## Dibujando Meshes con colores distintos 🎨
+## Dibujando Meshes con colores distintos
 
 Si queremos dibujar varios modelos con distintos colores, basta con repetir las últimas líneas y asignarle otro color al efecto. Hasta podríamos definir un método que dibuja cada Mesh con un color aleatorio:
 
