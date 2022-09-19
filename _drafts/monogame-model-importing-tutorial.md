@@ -55,23 +55,23 @@ Si bien se renombró el archivo `"indoor plant_02_+2.fbx"` a `"Plant.fbx"`, los 
 
 Luego de mover los archivos a esa carpeta, resta importarlos. Para eso, simplemente usamos el Content Editor en `{repositorio}/{solución}/Content/Content.mgcb`. Al ejecutar este archivo, obtenemos una imagen parecida a esta:
 
-![MonoGame Content Editor](/assets/tutorials/monogame-model-importing-tutorial/preview1.png)
+![MonoGame Content Editor](assets/tutorials/monogame-model-importing-tutorial/preview1.png)
 
 Hacemos click en el ícono de `"Add Existing Item"`:
 
-![Botón Add Existing Item](/assets/tutorials/monogame-model-importing-tutorial/preview2.png)
+![Botón Add Existing Item](assets/tutorials/monogame-model-importing-tutorial/preview2.png)
 
 Buscamos la carpeta `{repositorio}/{solución}/Content/Models/{modelo}`, en este caso `Plant`,  y hacemos click en el archivo del modelo. Por ahora, no vamos a importar texturas. Luego, deberíamos expandir `Models > Plant > Plant.fbx` y ver el modelo ahí. 
 
-![Visualización del modelo en MonoGame Content Editor](/assets/tutorials/monogame-model-importing-tutorial/preview3.png)
+![Visualización del modelo en MonoGame Content Editor](assets/tutorials/monogame-model-importing-tutorial/preview3.png)
 
 ### Compilar el Content Editor
 
 Si le damos click derecho al archivo y elegimos la opción `"Rebuild"`, debería compilar sin errores. Si hay errores, podemos buscar  la causa del error y resolverla, postear el problema en Discord/Google Groups o buscar otro modelo. Si el modelo compila satisfactoriamente, ya podemos usarlo en MonoGame.
 
-![Botón Rebuild](/assets/tutorials/monogame-model-importing-tutorial/preview4.png)
+![Botón Rebuild](assets/tutorials/monogame-model-importing-tutorial/preview4.png)
 
-![Visualización del modelo Compilado en MonoGame Content Editor](/assets/tutorials/monogame-model-importing-tutorial/preview5.png)
+![Visualización del modelo Compilado en MonoGame Content Editor](assets/tutorials/monogame-model-importing-tutorial/preview5.png)
 
 ### Cargar el modelo desde MonoGame
 
