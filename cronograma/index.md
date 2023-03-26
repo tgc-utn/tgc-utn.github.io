@@ -5,7 +5,7 @@ navHome: true
 permalink: /clases/cronograma/
 ---
 
-* [Calendario Académico](https://frba.utn.edu.ar/static/CalendarioAcademico2022.pdf)
+* [Calendario Académico](https://frba.utn.edu.ar/static/CalendarioAcademico2023.pdf)
 
 ## Calendario de la cursada
 
@@ -15,4 +15,3 @@ permalink: /clases/cronograma/
 |{{forloop.index}}|{{ row["fecha"] | localize: "%d de %B" }} | {{ row["actividad"] }} | {{ row["tp"] }} |
 {% endfor -%}
 {: .cronograma }
-
