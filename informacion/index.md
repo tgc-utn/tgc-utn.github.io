@@ -69,7 +69,7 @@ permalink: /informacion/
    8. Adaptadores de Video
 
 #### Metodología de Evaluación
-
+   * [Régimen de Aprobación Directa](https://docs.google.com/document/d/1QVRlgD8VFyiTYa1KkZ3nGNHqJV7jYGV3ARshijFKi_Q/edit?usp=sharing)
    * Un trabajo práctico grupal.
    * Un examen parcial, dos recuperatorios.
    * Final.
