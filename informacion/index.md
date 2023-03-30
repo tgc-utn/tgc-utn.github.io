@@ -35,7 +35,7 @@ permalink: /informacion/
 #### Forma de comunicación
 
    * Anuncios en clase
-   * Anuncios por medio del grupo Google - [TecnicasDeGraficosPorComputadora](http://groups.google.com/group/tecnicasdegraficosporcomputadora)
+   * Anuncios por medio del grupo Google - [TecnicasDeGraficosPorComputadora](https://groups.google.com/g/tecnicasdegraficosporcomputadora)
 
 #### Material de Estudio
 

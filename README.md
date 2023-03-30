@@ -1,6 +1,6 @@
 # tgc-utn.github.io [![Build and deploy Jekyll site to GitHub Pages](https://github.com/tgc-utn/tgc-utn.github.io/actions/workflows/github-pages.yml/badge.svg)](https://github.com/tgc-utn/tgc-utn.github.io/actions/workflows/github-pages.yml)
 
-Repositorio de la página web de [TGC](http://tgc-utn.github.io/).
+Repositorio de la página web de [TGC](https://tgc-utn.github.io/).
 
 ### Puesta en marcha (Debian / Ubuntu)
 

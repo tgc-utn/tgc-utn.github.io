@@ -58,7 +58,7 @@ P.E. 2016-2C-3072-LosBorbotones.
 * IDEs 
   * [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/)
   * [Visual Studio Code](https://code.visualstudio.com/)
-  * [Rider](https://www.jetbrains.com/rider/) - necesita licencia educativa, se puede obtener con la cuenta de la UTN [acá](https://www.jetbrains.com/es-es/community/education/#students) 
+  * [Rider](https://www.jetbrains.com/rider/) - necesita licencia educativa, se puede obtener con la cuenta de la UTN [acá](https://www.jetbrains.com/es-es/community/education/) 
 
 * [Recursos(Modelos) para el Trabajo Práctico](https://drive.google.com/file/d/1Gmr6qM6kEt6sngbwr1_ZJOvb97MSq3QR/view)
 
@@ -77,4 +77,4 @@ P.E. 2016-2C-3072-LosBorbotones.
 * [Tutorial de Shaders HLSL](http://rbwhitaker.wikidot.com/hlsl-tutorials)
 * [Programación de Shaders](https://docs.microsoft.com/es-es/windows/desktop/direct3dhlsl/dx-graphics-hlsl-writing-shaders-9)
 ## Otros
-* [Foro de GameDev](http://www.gamedev.net/index)
+* [Foro de GameDev](https://www.gamedev.net/)

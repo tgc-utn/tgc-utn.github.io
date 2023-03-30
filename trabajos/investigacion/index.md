@@ -6,7 +6,7 @@ permalink: /trabajos/investigacion/
 
 ### Grupo de Investigación de gráficos por Computadora  
 
-* Web de [GIGC](http://gigc.github.io)
+* Web de [GIGC](https://gigc.github.io)
 * Github de [GIGC](https://github.com/gigc)
 
 ### Port de TgcViewer a WebGL (Beta)
@@ -25,7 +25,7 @@ permalink: /trabajos/investigacion/
 
 Sus proyectos de investigación sirven como base para la creación de nuevas herramientas en el Framework de la materia.
 
-[Blog](http://poke53265.blogspot.com/)
+[Blog](https://poke53265.blogspot.com/)
 
 ### Construcción de un Convex Hull
 
