@@ -34,8 +34,8 @@ permalink: /informacion/
 
 #### Forma de comunicación
 
-   * Anuncios en clase
-   * Anuncios por medio del grupo Google - [TecnicasDeGraficosPorComputadora](https://groups.google.com/g/tecnicasdegraficosporcomputadora)
+   * Anuncios en clase.
+   * Anuncios por medio del grupo Google - [TecnicasDeGraficosPorComputadora](https://groups.google.com/g/tecnicasdegraficosporcomputadora).
 
 #### Material de Estudio
 
@@ -59,17 +59,17 @@ permalink: /informacion/
 
 #### Unidades
 
-   1. Conceptos Básicos de 2D
-   2. Conceptos Avanzados de 2D
-   3. Conceptos Básicos de 3D
-   4. Texturas e Iluminación
-   5. Animación
-   6. Detección de Colisiones
-   7. Técnicas de Optimización
-   8. Adaptadores de Video
+   1. Conceptos Básicos de 2D.
+   2. Conceptos Avanzados de 2D.
+   3. Conceptos Básicos de 3D.
+   4. Texturas e Iluminación.
+   5. Animación.
+   6. Detección de Colisiones.
+   7. Técnicas de Optimización.
+   8. Adaptadores de Video.
 
 #### Metodología de Evaluación
-   * [Régimen de Aprobación Directa](https://docs.google.com/document/d/1QVRlgD8VFyiTYa1KkZ3nGNHqJV7jYGV3ARshijFKi_Q/edit?usp=sharing)
+   * [Régimen de Aprobación Directa](https://docs.google.com/document/d/1QVRlgD8VFyiTYa1KkZ3nGNHqJV7jYGV3ARshijFKi_Q/edit?usp=sharing).
    * Un trabajo práctico grupal.
    * Un examen parcial, dos recuperatorios.
    * Final.

@@ -13,7 +13,7 @@ theme: just-the-docs
 description: > # this means to ignore newlines until "show_excerpts:"
  Página web de Técnicas de Gráficos por Computadora de la UTN FRBA.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tgcutn.com.ar" # the base hostname & protocol for your site
+url: "https://tgcutn.com.ar" # the base hostname & protocol for your site
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

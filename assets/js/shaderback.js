@@ -1,7 +1,7 @@
 /***************************************************************************
  * shaderback.js
  * Shader-generated backgrounds for the web
- * http://www.flypig.co.uk/shaderback
+ * https://www.flypig.co.uk/shaderback
  * 
  * David Llewellyn-Jones <david@flypig.co.uk>
  * Version 0.03
