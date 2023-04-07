@@ -22,7 +22,7 @@ vec2 iMouse;
 // A list of usefull distance function to simple primitives, and an example on how to 
 // do some interesting boolean operations, repetition and displacement.
 //
-// More info here: http://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm
+// More info here: https://iquilezles.org/articles/distfunctions/
 
 float sdPlane( vec3 p )
 {
