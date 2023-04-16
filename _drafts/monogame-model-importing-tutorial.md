@@ -53,7 +53,8 @@ mové el archivo FBX a una carpeta dentro de `{repositorio}/{solución}/Content/
 
 Si bien se renombró el archivo `"indoor plant_02_+2.fbx"` a `"Plant.fbx"`, los archivos y carpetas de texturas no se renombraron porque en algunos casos los modelos 3D hacen uso de rutas relativas y necesitan que estas no se cambien. De cualquier manera las texturas pueden ser importadas a mano en un futuro.
 
-Luego de mover los archivos a esa carpeta, resta importarlos. Para eso, simplemente usamos el Content Editor en `{repositorio}/{solución}/Content/Content.mgcb`. Al ejecutar este archivo, obtenemos una imagen parecida a esta:
+Luego de mover los archivos a esa carpeta, resta importarlos. Para eso, simplemente usamos el Content Editor. Esta herramienta se encuentra instalada de manera local, y para ejecutarla hay que correr el comando `dotnet mgcb-editor .\Content\Content.mgcb` desde el proyecto (en este caso, `tgc-monogame-tp/TGC.MonoGame.TP`) y apuntar al archivo `Content.mgcb`.
+Generalmente se encuentra en `{repositorio}/{proyecto}/Content/Content.mgcb`. Al ejecutar este comando, obtenemos una imagen parecida a esta:
 
 ![MonoGame Content Editor](assets/tutorials/monogame-model-importing-tutorial/preview1.png)
 
