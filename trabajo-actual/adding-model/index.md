@@ -1,12 +1,18 @@
-# 🧵 Guía para importar modelos 3D en MonoGame 🎮
+---
+layout: page
+title: Tutorial para agregar modelos 3D en MonoGame
+permalink: /monogame/adding-model
+---
+
+# 🧵 Tutorial para agregar modelos 3D en MonoGame 🎮
 
 ## Tabla de contenidos
 
 1. [Tabla de contenidos ℹ️](#tabla-de-contenidos)
 2. [Introducción 🖥️](#introducción)
-3. [Pasos para importar un modelo 3D 🧊](#pasos-para-importar-un-modelo-3d)
+3. [Pasos para agregar un modelo 3D 🧊](#pasos-para-agregar-un-modelo-3d)
     1.  [Buscar un modelo 3D](#buscar-un-modelo-3d)
-    2.  [Importar el modelo en el Content Editor](#importar-el-modelo-en-el-content-editor)
+    2.  [Agregar el modelo en el Content Editor](#agregar-el-modelo-en-el-content-editor)
     3.  [Compilar el Content Editor](#compilar-el-content-editor)
     4.  [Cargar el modelo desde MonoGame](#cargar-el-modelo-desde-monogame)
     5.  [Mostrar el modelo](#mostrar-el-modelo)
@@ -17,9 +23,9 @@
 
 Los __modelos tridimensionales__ son actores principales en la asignatura Técnicas de Gráficos por Computadora 🖥️. Nos permiten representar objetos y efectos en un escenario.
 Principalmente usamos los que están formados por triángulos 🔺, que tienen tres vértices 🔹 y estos pueden tener distintos atributos. No todos los modelos tienen los mismos atributos, pero todos los vértices tienen por lo menos una posición (en espacio local).
-Esta guía muestra cómo importar estos modelos desde distintos formatos a MonoGame, la herramienta que usa la cátedra para el trabajo práctico cuatrimestral 🙌.
+Esta guía muestra cómo agregar estos modelos desde distintos formatos a MonoGame, la herramienta que usa la cátedra para el trabajo práctico cuatrimestral 🙌.
 
-## Pasos para importar un modelo 3D
+## Pasos para agregar un modelo 3D
 
 ### Buscar un modelo 3D
 
@@ -34,9 +40,9 @@ Siempre es posible visualizar el modelo en cualquier herramienta externa como [B
 También podríamos extraer las texturas si las necesitamos, pero por ahora no es necesario. Hay veces que las texturas están embebidas dentro del modelo 3D en sí, para eso es importante ver nuestro archivo en alguna herramienta antes de probarlo en MonoGame.
 En otra guía se va a cubrir el uso de texturas.
 
-### Importar el modelo en el Content Editor
+### Agregar el modelo en el Content Editor
 
-Si ya encontraste el modelo 3D ideal para tu aplicación gráfica, lo que sigue es importarlo en tu proyecto de MonoGame. Para eso, 
+Si ya encontraste el modelo 3D ideal para tu aplicación gráfica, lo que sigue es agregarlo en tu proyecto de MonoGame. Para eso, 
 mové el archivo FBX a una carpeta dentro de `{repositorio}/{solución}/Content/Models` (es importante que esté dentro de la carpeta Content). Por ejemplo, para esta guía se movieron y renombraron los archivos para que queden en la siguiente disposición:
 ```
 /tgc-monogame-tp
@@ -53,26 +59,26 @@ mové el archivo FBX a una carpeta dentro de `{repositorio}/{solución}/Content/
 
 Si bien se renombró el archivo `"indoor plant_02_+2.fbx"` a `"Plant.fbx"`, los archivos y carpetas de texturas no se renombraron porque en algunos casos los modelos 3D hacen uso de rutas relativas y necesitan que estas no se cambien. De cualquier manera las texturas pueden ser importadas a mano en un futuro.
 
-Luego de mover los archivos a esa carpeta, resta importarlos. Para eso, simplemente usamos el Content Editor. Esta herramienta se encuentra instalada de manera local, y para ejecutarla hay que correr el comando `dotnet mgcb-editor .\Content\Content.mgcb` desde el proyecto (en este caso, `tgc-monogame-tp/TGC.MonoGame.TP`) y apuntar al archivo `Content.mgcb`.
+Luego de mover los archivos a esa carpeta, resta agregarlos. Para eso, simplemente usamos el Content Editor. Esta herramienta se encuentra instalada de manera local, y para ejecutarla hay que correr el comando `dotnet mgcb-editor .\Content\Content.mgcb` desde el proyecto (en este caso, `tgc-monogame-tp/TGC.MonoGame.TP`) y apuntar al archivo `Content.mgcb`.
 Generalmente se encuentra en `{repositorio}/{proyecto}/Content/Content.mgcb`. Al ejecutar este comando, obtenemos una imagen parecida a esta:
 
-![MonoGame Content Editor](assets/tutorials/monogame-model-importing-tutorial/preview1.png)
+![MonoGame Content Editor](/images/adding-model/preview1.png)
 
 Hacemos click en el ícono de `"Add Existing Item"`:
 
-![Botón Add Existing Item](assets/tutorials/monogame-model-importing-tutorial/preview2.png)
+![Botón Add Existing Item](/images/adding-model/preview2.png)
 
-Buscamos la carpeta `{repositorio}/{solución}/Content/Models/{modelo}`, en este caso `Plant`,  y hacemos click en el archivo del modelo. Por ahora, no vamos a importar texturas. Luego, deberíamos expandir `Models > Plant > Plant.fbx` y ver el modelo ahí. 
+Buscamos la carpeta `{repositorio}/{solución}/Content/Models/{modelo}`, en este caso `Plant`,  y hacemos click en el archivo del modelo. Por ahora, no vamos a agregar texturas. Luego, deberíamos expandir `Models > Plant > Plant.fbx` y ver el modelo ahí. 
 
-![Visualización del modelo en MonoGame Content Editor](assets/tutorials/monogame-model-importing-tutorial/preview3.png)
+![Visualización del modelo en MonoGame Content Editor](/images/adding-model/preview3.png)
 
 ### Compilar el Content Editor
 
 Si le damos click derecho al archivo y elegimos la opción `"Rebuild"`, debería compilar sin errores. Si hay errores, podemos buscar  la causa del error y resolverla, postear el problema en Discord/Google Groups o buscar otro modelo. Si el modelo compila satisfactoriamente, ya podemos usarlo en MonoGame.
 
-![Botón Rebuild](assets/tutorials/monogame-model-importing-tutorial/preview4.png)
+![Botón Rebuild](/images/adding-model/preview4.png)
 
-![Visualización del modelo Compilado en MonoGame Content Editor](assets/tutorials/monogame-model-importing-tutorial/preview5.png)
+![Visualización del modelo Compilado en MonoGame Content Editor](/images/adding-model/preview5.png)
 
 ### Cargar el modelo desde MonoGame
 

@@ -32,7 +32,7 @@ El objetivo es formar personas en los fundamentos de esta área y otorgar los co
 
 ### ¿Cuales son las condiciones de aprobación?
 {: .home-title .d-flex .flex-justify-around	 }
-Para aprobar la asignatura es necesario realizar un [trabajo teórico práctico integrador]({% link trabajo_actual/index.md %}) en el cual se implementan todos los conocimientos adquiridos durante la cursada y un parcial teórico práctico.
+Para aprobar la asignatura es necesario realizar un [trabajo teórico práctico integrador]({% link trabajo-actual/index.md %}) en el cual se implementan todos los conocimientos adquiridos durante la cursada y un parcial teórico práctico.
 
 ![logo-tgc](images/home/section5.png)
 {: .d-flex .flex-justify-around .home-image}
