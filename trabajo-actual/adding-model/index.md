@@ -2,7 +2,7 @@
 layout: page
 title: Tutorial para agregar modelos 3D en MonoGame
 parent: Trabajo Practico
-permalink: /monogame/adding-model
+permalink: /trabajo-actual/adding-model
 nav_order: 1
 ---
 
