@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Tutorial para agregar modelos 3D en MonoGame
+parent: Tutoriales de MonoGame
 permalink: /monogame/adding-model
+nav_order: 1
 ---
 
 # 🧵 Tutorial para agregar modelos 3D en MonoGame 🎮
