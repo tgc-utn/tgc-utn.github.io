@@ -7,51 +7,44 @@
 
 # Site settings
 title: Técnicas de Gráficos por Computadora
+description: > # this means to ignore newlines until "show_excerpts:"
+ Página web de Técnicas de Gráficos por Computadora de la UTN FRBA.
 author: TGC
 email: tgcentregas@gmail.com
 theme: just-the-docs
-description: > # this means to ignore newlines until "show_excerpts:"
- Página web de Técnicas de Gráficos por Computadora de la UTN FRBA.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tgcutn.com.ar" # the base hostname & protocol for your site
-
 show_excerpts: false # set to true to show excerpts on the homepage
 
-# minima:
-#   # generate social links in footer
-#   social_links:
-#     twitter: tgcutn
-#     github: tgc-utn
-#     facebook: tgcutn
-#     youtube: tgcentregas
+collections_dir: collections
+collections:
+  material-tutorials:
+    output: true
+    permalink: /material/tutorials/:name
+  monogame-tutorials:
+    output: true
+    permalink: /jobs/tutorials/:name
+  units:
+    output: true
+    permalink: /material/notes/:name
 
 # Just the docs
-color_scheme: tgc
 logo: "/images/logotgc.png"
+color_scheme: tgc
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
 # Aux links for the upper right navigation
 aux_links:
-  "GitHub <div src='assets/github.svg' class='social-button github'></div>":
+  "GitHub":
     - "//github.com/tgc-utn"
-  "Youtube <div class='social-button youtube'></div>":
+  "Youtube":
     - "//youtube.com/user/tgcentregas"
-  "Google group <div class='social-button gmail'></div>":
+  "Google group":
     - "//groups.google.com/g/TecnicasDeGraficosPorComputadora"
-  "Discord <div src='assets/discord.svg' class='social-button discord'></div>":
+  "Discord":
     - "//discord.gg/FKZ4k39zAr"
 
 aux_links_new_tab: true
-# Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Editar esta pagina en GitHub."
-gh_edit_repository: "https://github.com/tgc-utn/tgc-utn.github.io" # the github URL for your repo
-gh_edit_branch: "develop" # the branch that your docs is served from
-gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
-
-# Build settings
-markdown: kramdown
-
-lang: es-AR
 
 plugins:
- - jekyll-feed
  - jekyll-seo-tag

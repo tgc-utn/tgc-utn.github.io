@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Inicio
+title: Home
+layout: home
 nav_order: 1
 ---
 
@@ -32,7 +32,7 @@ El objetivo es formar personas en los fundamentos de esta área y otorgar los co
 
 ### ¿Cuales son las condiciones de aprobación?
 {: .home-title .d-flex .flex-justify-around	 }
-Para aprobar la asignatura es necesario realizar un [trabajo teórico práctico integrador]({% link trabajo-actual/index.md %}) en el cual se implementan todos los conocimientos adquiridos durante la cursada y un parcial teórico práctico.
+Para aprobar la asignatura es necesario realizar un [trabajo teórico práctico integrador]({% link jobs/statement/index.md %}) en el cual se implementan todos los conocimientos adquiridos durante la cursada y un parcial teórico práctico.
 
 ![logo-tgc](images/home/section5.png)
 {: .d-flex .flex-justify-around .home-image}
@@ -63,24 +63,9 @@ Tanto la teoría como la práctica requieren de conocimientos en matemática, vi
 
 Como trabajamos con modelos, puntos y espacios, también es importante que desempolves tus apuntes de geometría. No vamos a derivar ni integrar.
 
-¿Necesitás un repaso? Te cubrimos, [Matemática para gráficos]({% link material/matematica.md %}).
-
-## Google Group de la catedra
-{: .home-title .d-flex .flex-justify-around	 }
-<span class="fs-6 d-flex flex-justify-around contact mb-6">
-    [Unirse {% fa_svg fas.fa-comment-dots %}](https://groups.google.com/g/TecnicasDeGraficosPorComputadora/about){: .btn .btn-blue}
-</span>
-## Contacto
-{: .home-title .d-flex .flex-justify-around	 }
-
-<span class="fs-6 d-flex flex-justify-around contact mb-6">
-[{% fa_svg fas.fa-paper-plane %} Telegram](https://t.me/joinchat/DSaH6kbltQS0jdkF3e5IqA){: .btn .btn-blue}
-[{% fa_svg fas.fa-envelope %} Email](mailto:tgc.entregas@gmail.com){: .btn .btn-blue}
-</span>
+¿Necesitás un repaso? Te cubrimos, [Matemática para gráficos]({% link material/tutorials/index.md %}).
 
 [^rti]: Aquellas aplicaciones que tienen que responder en un intervalo de tiempo determinado, usualmente corto.
-
-{% fa_svg_generate %}
 
 <script type="text/javascript" src="assets/js/shaderback.js"></script>
 <script type="text/javascript">
