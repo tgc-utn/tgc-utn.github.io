@@ -1,14 +1,6 @@
-# frozen_string_literal: true
+source 'https://rubygems.org'
 
-source "https://rubygems.org"
-
-gem "jekyll"
-gem "minima"
 gem "html-proofer"
-
-gem 'github-pages'
-
-group :jekyll_plugins do
-  gem "just-the-docs", "~> 0.3.3"
-  gem 'jekyll-fontawesome-svg'
-end
+gem "jekyll"
+gem 'jekyll-seo-tag'
+gem "just-the-docs", "0.5.1" 
