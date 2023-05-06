@@ -13,7 +13,7 @@ author: TGC
 email: tgcentregas@gmail.com
 theme: just-the-docs
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tgcutn.com.ar" # the base hostname & protocol for your site
+url: "https://tgcutn.com.ar" # the base hostname & protocol for your site
 show_excerpts: false # set to true to show excerpts on the homepage
 
 collections_dir: collections
