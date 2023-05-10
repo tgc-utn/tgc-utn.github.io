@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Información de la cátedra
+title: Asignatura
 ---
 
 # Técnicas de Gráficos por Computadora
