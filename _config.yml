@@ -23,7 +23,7 @@ collections:
     permalink: /material/tutorials/:name
   monogame-tutorials:
     output: true
-    permalink: /jobs/tutorials/:name
+    permalink: /job/tutorials/:name
   units:
     output: true
     permalink: /material/notes/:name
