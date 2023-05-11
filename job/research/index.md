@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Investigaciones
-parent: Trabajos
+parent: Trabajo
 ---
 
 # Trabajos de investigación desarrollados por los alumnos

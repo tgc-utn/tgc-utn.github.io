@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tutoriales
-parent: Trabajos
+parent: Trabajo
 ---
 
 # Tutoriales de MonoGame

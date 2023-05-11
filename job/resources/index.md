@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Recursos
-parent: Trabajos
+parent: Trabajo
 ---
 
 # Recursos

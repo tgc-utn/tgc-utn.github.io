@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Enunciado
-parent: Trabajos
+parent: Trabajo
 ---
 
 # Trabajo Práctico CUATRIMESTRE ACTUAL

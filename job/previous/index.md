@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Anteriores
-parent: Trabajos
+parent: Trabajo
 ---
 
 # Trabajos prácticos anteriores
