@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trabajos
+title: Trabajo
 has_children: true
 ---
 
