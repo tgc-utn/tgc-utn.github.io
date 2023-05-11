@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  2014 - Primer Cuatrimestre
-date:   2014-07-01 00:00:00 -0300
+title: 2014 - Primer Cuatrimestre
+date: 2014-07-01 00:00:00 -0300
 categories: anteriores
 ---
 <style>

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  2011 - Primer Cuatrimestre
-date:   2011-07-01 00:00:00 -0300
+title: 2011 - Primer Cuatrimestre
+date: 2011-07-01 00:00:00 -0300
 categories: anteriores
 ---
 ### Código de todos los Trabajos Prácticos
