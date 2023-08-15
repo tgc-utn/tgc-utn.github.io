@@ -1,18 +1,19 @@
-fecha,actividad,tp
-28/03/2023,[Nociones de gráficos por computadora](https://docs.google.com/presentation/d/13SGHD1smmkZSZ5RZ9af4C0v_oaSXpK5pQ8SAOGsQN9A),
-04/04/2023,[Transformaciones](https://docs.google.com/presentation/d/1Swn4KPXrVTW7QMxvIhDQIjBaBsWQer4SY2m5mc6LVGQ),Presentacion TP Cero
-11/04/2023,[Render Pipeline](https://docs.google.com/presentation/d/1RQRYWBX9S9Qc5kwJmT_d2ASb7UfFxnlxSpODgkhI440),
-18/04/2023,[Texturas y Nociones de Shaders](https://docs.google.com/presentation/d/1w1pWBYd3EHGwKs0o3v6ddjmhPZp5V6Hr-LEYHs5B3Mk),
-25/04/2023,[Colisiones](https://docs.google.com/presentation/d/1t2SnnMUZaa1AEQ5Hbrp319otKu8lhjE5xv7vm5jPO4c) y Vertex Shader,Primera entrega del TP
-02/05/2023,Practica de Shaders,
-09/05/2023,[Iluminación](https://docs.google.com/presentation/d/1nQ7xWib-3MoYDNirxEykiAHnsClffb00a57zjJyq7Zg),
-16/05/2023,[Optimización](https://docs.google.com/presentation/d/1XiWBmhVaKx0pbjBbObiDiNE1Zf4Rgw7T26YmRFda4No),Segunda entrega del TP
-23/05/2023,No se dictarán clases - Turno de examen final,
-30/05/2023,[Shaders de Post-Procesado](https://docs.google.com/presentation/d/1kkOsSZJjFzbnZw1duE_E5TUtG-0bC0yRuDnhzPCD134),
-06/06/2023,[Physically Based Rendering](https://docs.google.com/presentation/d/1PASgwE1Ku8aMQBzWxVE2YBrDnZv6Wq4jDpLWRX2wj64),Tercera entrega del TP
-13/06/2023,Ensayo parcial,
-20/06/2023,No se dictarán clases - Paso a la Inmortalidad del General Manuel Belgrano
-27/06/2023,Parcial,
-04/07/2023,1° Recuperatorio, Cuarta entrega del TP,
-11/07/2023,Presentación oral grupal del trabajo práctico - 2º Recuperatorio,Entrega final del TP
-05/08/2023,Última fecha firma de TP asignaturas Cuatrimestrales,
+fecha,actividad,tp,modalidad
+15/08/2023,[Nociones de gráficos por computadora](https://docs.google.com/presentation/d/13SGHD1smmkZSZ5RZ9af4C0v_oaSXpK5pQ8SAOGsQN9A),,Virtual
+22/08/2023,[Transformaciones](https://docs.google.com/presentation/d/1Swn4KPXrVTW7QMxvIhDQIjBaBsWQer4SY2m5mc6LVGQ),Presentacion TP Cero,Laboratorio
+29/08/2023,[Render Pipeline](https://docs.google.com/presentation/d/1RQRYWBX9S9Qc5kwJmT_d2ASb7UfFxnlxSpODgkhI440),,Virtual
+05/09/2023,[Texturas y Nociones de Shaders](https://docs.google.com/presentation/d/1w1pWBYd3EHGwKs0o3v6ddjmhPZp5V6Hr-LEYHs5B3Mk),,Virtual
+12/09/2023,[Colisiones](https://docs.google.com/presentation/d/1t2SnnMUZaa1AEQ5Hbrp319otKu8lhjE5xv7vm5jPO4c) y Vertex Shader,Primera entrega del TP,Virtual
+19/09/2023,Practica de Shaders,,Laboratorio
+26/09/2023,[Iluminación](https://docs.google.com/presentation/d/1nQ7xWib-3MoYDNirxEykiAHnsClffb00a57zjJyq7Zg),,Virtual
+03/10/2023,[Optimización](https://docs.google.com/presentation/d/1XiWBmhVaKx0pbjBbObiDiNE1Zf4Rgw7T26YmRFda4No),Segunda entrega del TP,Virtual
+10/10/2023,Practica de Shaders 2,,Laboratorio
+17/10/2023,[Shaders de Post-Procesado](https://docs.google.com/presentation/d/1kkOsSZJjFzbnZw1duE_E5TUtG-0bC0yRuDnhzPCD134),,Virtual
+24/10/2023,[Physically Based Rendering](https://docs.google.com/presentation/d/1PASgwE1Ku8aMQBzWxVE2YBrDnZv6Wq4jDpLWRX2wj64),Tercera entrega del TP,Virtual
+31/10/2023,Game engine workshop,,Virtual
+07/11/2023,Ensayo parcial,,Virtual
+14/11/2023,Parcial,,Laboratorio
+21/11/2023,1° Recuperatorio, Cuarta entrega del TP,,Laboratorio
+28/11/2023,Presentación oral grupal del trabajo práctico,Entrega final del TP,Laboratorio
+27/02/2024,2° Recuperatorio,,Laboratorio
+05/03/2024,Última fecha firma de TP asignaturas Cuatrimestrales,,
