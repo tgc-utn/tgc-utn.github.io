@@ -24,13 +24,13 @@ parent: Trabajo
 
 El trabajo práctico de este cuatrimestre consiste en desarrollar un _Ejemplo Creativo_ usando la siguiente [plantilla](https://github.com/tgc-utn/tgc-monogame-tp). En el mismo, el alumno debe integrar todas las técnicas que vio en la cursada, cumpliendo con ciertas restricciones básicas pero aplicando su imaginación para elegir la temática global.
 
-Tendrán que seleccionar el tema del desarrollo de una lista de opciones disponibles, donde cada una presentará los lineamientos y condiciones que deberán ser cumplidos y evaluados. Cada alumno debe inscribirse en el siguiente _[formulario](https://docs.google.com/forms/d/e/1FAIpQLScBzqcmqcy5w6Rei-6CrZi4STqx6YGsxmVHTDHhz312n_B_zw/viewform?usp=sf_link)_
+Tendrán que seleccionar el tema del desarrollo de una lista de opciones disponibles, donde cada una presentará los lineamientos y condiciones que deberán ser cumplidos y evaluados. Cada alumno debe inscribirse en el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScBzqcmqcy5w6Rei-6CrZi4STqx6YGsxmVHTDHhz312n_B_zw/viewform?usp=sf_link).
 
 La cátedra provee un conjunto de [ejemplos](https://github.com/tgc-utn/tgc-monogame-samples) que sirven de base al alumno. Estos [ejemplos](https://github.com/tgc-utn/tgc-monogame-samples) utilizan muchos modelos 3D y texturas que se ubican en la carpeta Content. El alumno puede hacer uso de todos estos modelos para su ejemplo como así también puede incorporar otros.
 
 Muchas de las técnicas a utilizar son desarrolladas en forma individual en cada uno de los ejemplos provisto por la cátedra. **Es tarea del alumno comprenderlos, dominarlos y lograr su integración para desarrollar su propio ejemplo**.
 
-Todas las consignas del TP se encuentran en el siguiente documento: [Enunciado completo del Trabajo Práctico](https://docs.google.com/document/d/1R9nnQYHihX_bXz55AWbHuvmFl8olRc1Jlz7njMbOlYg/)
+Todas las consignas del TP se encuentran en el siguiente documento: [Enunciado completo del Trabajo Práctico](https://docs.google.com/document/d/1R9nnQYHihX_bXz55AWbHuvmFl8olRc1Jlz7njMbOlYg/).
 
 ### Creación del ejemplo
 
