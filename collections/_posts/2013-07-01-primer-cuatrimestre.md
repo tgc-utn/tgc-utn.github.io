@@ -1,6 +1,6 @@
 ---
 layout: post
-title:2013 - Primer Cuatrimestre
+title: 2013 - Primer Cuatrimestre
 date: 2013-07-01 00:00:00 -0300
 categories: anteriores
 ---
