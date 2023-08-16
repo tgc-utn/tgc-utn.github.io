@@ -67,5 +67,5 @@ jobs:
       - name: HTMLProofer
         uses: chabad360/htmlproofer@v2
         with:
-          directory: "./"
+          directory: "./_site"
           arguments: --allow-missing-href
