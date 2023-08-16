@@ -36,13 +36,13 @@ color_scheme: dark
 # Aux links for the upper right navigation
 aux_links:
   "GitHub":
-    - "//github.com/tgc-utn"
+    - "https://github.com/tgc-utn"
   "Youtube":
-    - "//youtube.com/user/tgcentregas"
+    - "https://youtube.com/user/tgcentregas"
   "Google group":
-    - "//groups.google.com/g/TecnicasDeGraficosPorComputadora"
+    - "https://groups.google.com/g/TecnicasDeGraficosPorComputadora"
   "Discord":
-    - "//discord.gg/FKZ4k39zAr"
+    - "https://discord.gg/FKZ4k39zAr"
 
 aux_links_new_tab: true
 

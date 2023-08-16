@@ -17,3 +17,9 @@ bundle install
 bundle exec jekyll serve
 # => Listo solo hay que entrar a http://localhost:4000
 ```
+
+### Validar links
+
+```bash
+htmlproofer ./_site --allow-missing-href 
+```
