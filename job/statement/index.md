@@ -59,7 +59,7 @@ P.E. 2016-2C-3072-LosBorbotones.
   - [Visual Studio Code](https://code.visualstudio.com/)
   - [Rider](https://www.jetbrains.com/rider/) - necesita licencia educativa, se puede obtener con la cuenta de la UTN [acá](https://www.jetbrains.com/es-es/community/education/)
 
-- [Recursos(Modelos) para el Trabajo Práctico](https://drive.google.com/file/d/1Gmr6qM6kEt6sngbwr1_ZJOvb97MSq3QR/view)
+- [Recursos(Modelos) para el Trabajo Práctico](https://drive.google.com/file/d/1Bozc54T9piu2Zu8gtkL3YkKDO07BQMf5/view)
 
 ## Repositorios
 
