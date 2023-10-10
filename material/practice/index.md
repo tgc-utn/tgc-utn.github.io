@@ -11,6 +11,7 @@ parent: Material
 - [Ejercicios de shaders simples](https://docs.google.com/document/d/1j0ibAbQNGXuaLhDzLlGODWIgO_b6Y0HP_K4zgUg4N1k/edit?usp=sharing)
 - [Ejercicios de shaders 1](https://docs.google.com/document/d/1l7-qGBv6DThgS492CMZCuNX1XUHWj92EUISFy33g6hw/edit?usp=sharing)
 - [Ejercicios de shaders 2](https://docs.google.com/document/d/1SP-MOZNOfEc4JwFnB8T2P5Rc8HYdlKBLNKXtSP3eTFE/edit?usp=sharing)
+- [Ejercicios de shaders procedurales](https://docs.google.com/document/d/1xzW7Ec3yAv2ghWZx3FyKSMg4b0KCzOHA-SgJFmE5Hgk/)
 - [Simulacro de parcial proyecto base](https://github.com/tgc-utn/tgc-exam)
 
 ## Antes del 2020
