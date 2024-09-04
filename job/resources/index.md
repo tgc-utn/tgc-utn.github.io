@@ -29,10 +29,10 @@ parent: Trabajo
 
 ## MonoGame
 
-- [Custom Effects](https://docs.monogame.net/articles/content/custom_effects.html)
-- [MonoGame Content Builder](https://docs.monogame.net/articles/tools/mgcb.html)
-- [MonoGame Content Builder Editor](https://docs.monogame.net/articles/tools/mgcb_editor.html)
-- [MonoGame Effects Compiler](https://docs.monogame.net/articles/tools/mgfxc.html)
+- [Custom Effects](https://docs.monogame.net/articles/getting_started/content_pipeline/custom_effects.html)
+- [MonoGame Content Builder](https://docs.monogame.net/articles/getting_started/tools/mgcb.html)
+- [MonoGame Content Builder Editor](https://docs.monogame.net/articles/getting_started/tools/mgcb_editor.html)
+- [MonoGame Effects Compiler](https://docs.monogame.net/articles/getting_started/tools/mgfxc.html)
 
 ## Others
 
