@@ -14,8 +14,8 @@ float time = 0.0f;
 float4 pos = float4(0,0,2,1);
 pos.x    // = 0
 pos.z    // = 2
-float2 temp = pos.yw  // = float2(0,1)
-pos.rgb	 // = float3(0,0,2)
+float2 temp = pos.yw // = float2(0,1)
+pos.rgb  // = float3(0,0,2)
 pos.rgba // = float4(0,0,2,1)
 pos.aaaa // = float4(1,1,1,1)
 
@@ -23,7 +23,7 @@ float2x2 fMatrix = {
         0.0f, 0.1, // row 1
         2.1f, 2.2f // row 2
         };
-float4x4 mWorldViewProj;  // Matriz de 4 x 4
+float4x4 mWorldViewProj; // Matriz de 4 x 4
 float4x4 worldMatrix = float4( {0,0,0,0}, {1,1,1,1}, {2,2,2,2}, {3,3,3,3} );
 worldMatrix[0][0]; // 1er elemento
 ```
@@ -38,12 +38,11 @@ struct VS_OUTPUT
 };
 
 VS_OUTPUT Vertex_Shader_Transform(
-	in float4 vPosition : POSITION,
-	in float4 vColor : COLOR0 )
+  in float4 vPosition : POSITION,
+  in float4 vColor : COLOR0)
 {
     VS_OUTPUT Output;
-    Output.Position = mul( vPosition,
-			mWorldViewProj );
+    Output.Position = mul(vPosition, mWorldViewProj);
     Output.Diffuse = vColor;
     return Output;
 }
@@ -52,7 +51,7 @@ VS_OUTPUT Vertex_Shader_Transform(
 ## Ejemplo de Pixel shader
 
 ```hlsl
-float4 Pixel_Shader( VS_OUTPUT in ) : COLOR0
+float4 Pixel_Shader(VS_OUTPUT in) : COLOR0
 {
     float4 color = in.Color;
     return color;
