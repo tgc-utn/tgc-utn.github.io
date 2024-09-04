@@ -16,7 +16,6 @@ Algunos tutoriales/talleres de matemática y física con un enfoque para videoju
   {% endfor %}
 </ul>
 
-
 # Tutoriales de MonoGame
 
 Estos tutoriales están diseñados para ofrecerte un enfoque práctico y directo sobre cómo usar MonoGame para desarrollar tus proyectos.
