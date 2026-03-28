@@ -12,4 +12,4 @@ title: Calendario
 {% endfor -%}
 {: .cronograma }
 
-- [Calendario Académico](https://frba.utn.edu.ar/static/CALENDARIO2025.pdf)
+- [Calendario Académico](https://frba.utn.edu.ar/static/CalendarioAcademico2026.pdf)
